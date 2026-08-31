@@ -10,8 +10,9 @@ first-semester course: students work in groups on modeling projects,
 combining mathematical theory, conceptual understanding, and computational
 tools, while instructors facilitate discussion rather than lecture.
 
-This site collects the EMP³ course notes, organized by week, migrated from
-the original [MSU PERL wiki](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes).
+This site collects the EMP³ course notes, organized by week, and the worked
+examples referenced throughout them, migrated from the original [MSU PERL
+wiki](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes).
 
 Course materials were developed by Michigan State University's [Physics
 Education Research Lab](https://www.pa.msu.edu/) and Department of Physics
