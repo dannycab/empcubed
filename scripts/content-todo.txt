@@ -43,3 +43,54 @@ week-14-induction/ind_graphs: 3 image(s) missing alt text
 week-14-induction/b_flux_t: 5 image(s) missing alt text
 week-14-induction/ac: 5 image(s) missing alt text
 week-14-induction/electric_field: 6 image(s) missing alt text
+examples/week4_tilted_segment: 4 image(s) missing alt text
+examples/week14_ac_graph: 2 image(s) missing alt text
+examples/week10_current_ring: 3 image(s) missing alt text
+examples/week8_charge_discharge_caps_resistors: 6 image(s) missing alt text
+examples/week14_changing_current_rectangle: 3 image(s) missing alt text
+examples/week8_cap_parallel: 2 image(s) missing alt text
+examples/week12_decreasing_flux: 3 image(s) missing alt text
+examples/week14_step_down_transformer: 3 image(s) missing alt text
+examples/week6_node_rule: 3 image(s) missing alt text
+examples/week7_ohms_law: 1 content image(s) dropped entirely (unrecoverable, no alt-text placeholder to find)
+examples/week2_conducting_insulating_balls: 3 image(s) missing alt text
+examples/week3_balloon_wall: 3 image(s) missing alt text
+examples/week8_cap_series: 2 image(s) missing alt text
+examples/week7_wire_dimensions: 1 content image(s) dropped entirely (unrecoverable, no alt-text placeholder to find)
+examples/week6_charges_circuit: 2 image(s) missing alt text
+examples/week6_drift_speed: 1 image(s) missing alt text
+examples/week4_charge_cylinder: 2 image(s) missing alt text
+examples/week2_electric_field_negative_point: 3 image(s) missing alt text
+examples/week4_charge_ring: 3 image(s) missing alt text
+examples/week2_electric_potential_negative_point: 1 image(s) missing alt text
+examples/week2_electric_potential_positive_point: 1 image(s) missing alt text
+examples/week5_flux_dipole: 2 image(s) missing alt text
+examples/week5_flux_cylinder: 3 image(s) missing alt text
+examples/week5_flux_cube_plane: 2 image(s) missing alt text
+examples/week5_flux_cylinder_line: 2 image(s) missing alt text
+examples/week5_flux_tilted_surface: 1 image(s) missing alt text
+examples/week5_flux_two_radii: 2 image(s) missing alt text
+examples/week5_gauss_ball: 3 image(s) missing alt text
+examples/week2_charged_thing_neutral_thing: 2 image(s) missing alt text
+examples/week3_particle_in_field: 1 image(s) missing alt text
+examples/week3_spaceship_asteroid: 2 image(s) missing alt text
+examples/week8_resistors_series: 1 image(s) missing alt text
+examples/week8_resistors_parallel: 5 image(s) missing alt text
+examples/week3_superposition_three_points: 6 image(s) missing alt text
+examples/week4_two_segments: 3 image(s) missing alt text
+examples/week7_cylindrical_capacitor: 2 content image(s) dropped entirely (unrecoverable, no alt-text placeholder to find)
+examples/week12_changing_shape: 1 image(s) missing alt text
+examples/week12_moving_coils_flux: 3 image(s) missing alt text
+examples/week12_force_loop_magnetic_field: 3 image(s) missing alt text
+examples/week10_helix: 2 image(s) missing alt text
+examples/week7_charging_capacitor: 5 image(s) missing alt text; 2 content image(s) dropped entirely (unrecoverable, no alt-text placeholder to find)
+examples/week14_b_field_capacitor: 5 image(s) missing alt text
+examples/week10_current_segment: 3 image(s) missing alt text
+examples/week9_current_segment: 2 image(s) missing alt text
+examples/week9_detecting_b: 1 image(s) missing alt text
+examples/week12_force_between_wires: 2 image(s) missing alt text
+examples/week10_force_on_charge: 1 image(s) missing alt text
+examples/week10_radius_motion_b_field: 3 image(s) missing alt text
+examples/week12_flux_examples: 2 image(s) missing alt text
+examples/week8_wheatstone: 4 image(s) missing alt text
+examples/week9_earth_field: 4 image(s) missing alt text; 1 content image(s) dropped entirely (unrecoverable, no alt-text placeholder to find)

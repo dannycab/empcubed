@@ -100,9 +100,9 @@ $$
 
 ## Examples
 
-- [Drift Speed in Different Types of Wires](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week6_drift_speed)
+- [Drift Speed in Different Types of Wires](/empcubed/examples/week6_drift_speed/)
   - Video Example: Drift Speed in Different Types of Wires
-- [Application of Node Rule](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week6_node_rule)
+- [Application of Node Rule](/empcubed/examples/week6_node_rule/)
   - Video Example: Application of Node Rule
 
 {{< youtube cxSQbMLoUk4 >}}

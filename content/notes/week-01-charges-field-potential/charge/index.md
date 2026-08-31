@@ -48,4 +48,4 @@ This conservation theorem reveals deep truths about the [fundamental nature of m
 
 ## Examples
 
-[Find the total charge in one mole of electrons](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week2_moleoelectrons)
+[Find the total charge in one mole of electrons](/empcubed/examples/week2_moleoelectrons/)

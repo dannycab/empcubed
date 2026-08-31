@@ -102,4 +102,4 @@ Thus, **for capacitors in parallel, the capacitances will add together**.
 
 ## Examples
 
-[Connecting Already-Charged Capacitors](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week8_cap_parallel)
+[Connecting Already-Charged Capacitors](/empcubed/examples/week8_cap_parallel/)

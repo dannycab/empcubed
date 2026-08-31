@@ -29,7 +29,7 @@ where the $d\overset{\rightarrow}{l}$ now would need to represent a small piece 
 
 Magnetic field in the center of a coil of wire
 
-[The example below](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week10_current_ring) shows the calculation for the magnetic field at the center of a circular coil for a counterclockwise current. Because the circular coil is highly symmetric, we get a fairly simple answer for the magnetic field at the center of the coil (in the plane of the coil):
+[The example below](/empcubed/examples/week10_current_ring/) shows the calculation for the magnetic field at the center of a circular coil for a counterclockwise current. Because the circular coil is highly symmetric, we get a fairly simple answer for the magnetic field at the center of the coil (in the plane of the coil):
 
 $$
 \overset{\rightarrow}{B} = \frac{\mu_{0}I}{2R}\widehat{z}
@@ -41,7 +41,7 @@ Which depends only on the current going through the coil $I$ and the radius of t
 
 Magnetic field at a point above the coil
 
-We could also calculate the magnetic field for an observation point at the center of the coil, but out of the plane of the ring (shown in the figure to the left). In this case, we would follow the same process as in [the example](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week10_current_ring); however, now the r-vector would have a z-component:
+We could also calculate the magnetic field for an observation point at the center of the coil, but out of the plane of the ring (shown in the figure to the left). In this case, we would follow the same process as in [the example](/empcubed/examples/week10_current_ring/); however, now the r-vector would have a z-component:
 
 $$
 \overset{\rightarrow}{B} = \frac{\mu_{0}I}{2}\frac{R^{2}}{(z^{2} + R^{2})^{3/2}}\widehat{z}

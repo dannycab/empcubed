@@ -53,4 +53,4 @@ For example, if the charge is moving to the right ($+ \widehat{x}$ direction) th
 
 ### Examples
 
-[Magnetic Force on a Moving Charge](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week10_force_on_charge)
+[Magnetic Force on a Moving Charge](/empcubed/examples/week10_force_on_charge/)

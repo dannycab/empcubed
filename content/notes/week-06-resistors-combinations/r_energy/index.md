@@ -58,7 +58,7 @@ Note we are using conventional current here, not the electron current.
 
 ## Examples
 
-- [Changing the Dimensions of a Wire](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week7_wire_dimensions)
+- [Changing the Dimensions of a Wire](/empcubed/examples/week7_wire_dimensions/)
   - Example Video: Changing the Dimensions of a Wire
 
 {{< youtube uRIzyLqRtRU >}}

@@ -62,7 +62,7 @@ This also means that we do not have a way to define a magnetic potential or a ma
 
 ## Examples
 
-- [Radius of Circular Motion in a Magnetic Field](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week10_radius_motion_b_field)
+- [Radius of Circular Motion in a Magnetic Field](/empcubed/examples/week10_radius_motion_b_field/)
 - 
 
 <!-- -->

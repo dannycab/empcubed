@@ -122,7 +122,7 @@ Depending on the area of the loops and the number of coils, this potential may b
 
 ### Examples
 
-- [Changing Current Induces Voltage in Rectangular Loop](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week14_changing_current_rectangle)
+- [Changing Current Induces Voltage in Rectangular Loop](/empcubed/examples/week14_changing_current_rectangle/)
   - Video Example: Changing Current Induces Voltage in Rectangular Loop
 
 {{< youtube wlEjFcmfD50 >}}

@@ -122,8 +122,8 @@ This equation for the $\overset{\rightarrow}{r}$ works for any spot along the pi
 
 ## Examples
 
-- [A Tilted Segment of Charge](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week4_tilted_segment)
-- [Two Segments of Charge](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week4_two_segments)
+- [A Tilted Segment of Charge](/empcubed/examples/week4_tilted_segment/)
+- [Two Segments of Charge](/empcubed/examples/week4_two_segments/)
   - Video Example: Two Segments of Charge
 
 {{< youtube BiqTwMrD774 >}}

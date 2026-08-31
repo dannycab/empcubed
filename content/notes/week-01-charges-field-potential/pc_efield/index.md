@@ -113,7 +113,7 @@ So we draw the electric field vector at Point A pointing straight up. If you fol
 
 ## Examples
 
-- [Electric Field from a Negative Point Charge](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week2_electric_field_negative_point)
+- [Electric Field from a Negative Point Charge](/empcubed/examples/week2_electric_field_negative_point/)
   - Video Example: Electric Field from a Negative Point Charge
 
 {{< youtube a64SCwLdIe0 >}}

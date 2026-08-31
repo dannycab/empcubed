@@ -146,9 +146,9 @@ Note *this equation is only true for an infinitely long, straight wire with a co
 
 ### Examples
 
-- [Magnetic Field from a Current Segment](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week10_current_segment)
+- [Magnetic Field from a Current Segment](/empcubed/examples/week10_current_segment/)
   - Video Example: Magnetic Field from a Current Segment
-- [Challenge Example: Magnetic Field from a Ring of Current](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week10_current_ring)
+- [Challenge Example: Magnetic Field from a Ring of Current](/empcubed/examples/week10_current_ring/)
   - Video Example: Magnetic Field from a Ring of Current
 
 {{< youtube nGrFo80MMzM >}}

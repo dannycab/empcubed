@@ -128,8 +128,8 @@ This equation then tells us that that if we want the voltage in the secondary so
 
 ### Examples
 
-- [Analyzing an Alternating Current Graph](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week14_ac_graph)
-- [Designing a Step-down Transformer](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week14_step_down_transformer)
+- [Analyzing an Alternating Current Graph](/empcubed/examples/week14_ac_graph/)
+- [Designing a Step-down Transformer](/empcubed/examples/week14_step_down_transformer/)
   - Video Example: Designing a Step-Down Transformer
 
 {{< youtube NAngoOBjCSA >}}

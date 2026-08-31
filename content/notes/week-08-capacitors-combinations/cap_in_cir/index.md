@@ -134,9 +134,9 @@ $$
 
 ## Examples
 
-- [Energy Stored in a Parallel Plate Capacitor](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week7_energy_plate_capacitor)
+- [Energy Stored in a Parallel Plate Capacitor](/empcubed/examples/week7_energy_plate_capacitor/)
   - Video Example: Energy Stored in a Parallel Plate Capacitor
-- [Finding the Capacitance of a Cylindrical Capacitor](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week7_cylindrical_capacitor)
+- [Finding the Capacitance of a Cylindrical Capacitor](/empcubed/examples/week7_cylindrical_capacitor/)
   - Video Example: Finding the Capacitance of a Cylindrical Capacitor
 
 {{< youtube AAGXqz2JMbc >}}

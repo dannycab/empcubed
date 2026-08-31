@@ -55,7 +55,7 @@ The contributions of the surface charges generate an electric field that adds wi
 If we consider the surface charge hypothesis, this is much more consistent with what we observe when we connect a wire to a battery:
 
 1.  If there is a constant electric field in the wire (from the surface charge gradient), the current at all points in the wire is constant (which is something you can confirm by measuring the electron current at different points in the circuit/wire).
-2.  The way the surface charges are arranged can drastically change the direction of the electric field in the wire - that is charges are able to bend around the corners in the wire and move vertically in the circuit above. (Specifically how the charges move around the bends is described in [this example](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week6_charges_circuit).)
+2.  The way the surface charges are arranged can drastically change the direction of the electric field in the wire - that is charges are able to bend around the corners in the wire and move vertically in the circuit above. (Specifically how the charges move around the bends is described in [this example](/empcubed/examples/week6_charges_circuit/).)
 3.  If the force that pushes the electrons comes from the surface of the wires, then the proximity to the battery doesn't matter - there will still be a constant electric field in the wire to move the electrons.
 
 Thus, surface charges as the model for how charges move through wires is far more consistent with the observations we have in real circuits in everyday life. If you have a very large battery (also called a high voltage power supply) it is actually possible to observe the surface charges on a wire.
@@ -66,7 +66,7 @@ In this video, you can see the mechanical effects of surface charge when a piece
 
 ## Examples
 
-- [Charge Distribution on the Bends of a Circuit](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week6_charges_circuit)
+- [Charge Distribution on the Bends of a Circuit](/empcubed/examples/week6_charges_circuit/)
   - Video Example: Charge Distribution on the Bends of a Circuit
 
 {{< youtube 9f2EJedXHP0 >}}

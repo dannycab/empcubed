@@ -104,7 +104,7 @@ Therefore, if we want to replace two parallel resistors with a single resistor, 
 
 ## Examples
 
-- [Example: Resistors in Series and in Parallel](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week8_resistors_parallel)
+- [Example: Resistors in Series and in Parallel](/empcubed/examples/week8_resistors_parallel/)
   - Video Example: Resistors in Series and in Parallel
 
 {{< youtube OWUvJK1R8vE >}}

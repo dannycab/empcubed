@@ -78,7 +78,7 @@ Remember that charges will be added to the plates (from the electron current) un
 
 ## Examples
 
-- [Looking at a Capacitor as it's Charging](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week7_charging_capacitor)
+- [Looking at a Capacitor as it's Charging](/empcubed/examples/week7_charging_capacitor/)
   - Example Video: Looking at a Capacitor as it's Charging
 
 {{< youtube Q34OmIW5rVU >}}

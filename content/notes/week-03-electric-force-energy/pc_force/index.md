@@ -85,4 +85,4 @@ Where here we have used the [definition of the unit vector](/notes/week-01-charg
 
 ## Examples
 
-[Ballon Stuck to a Wall](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week3_balloon_wall)
+[Ballon Stuck to a Wall](/empcubed/examples/week3_balloon_wall/)

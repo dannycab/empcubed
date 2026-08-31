@@ -70,6 +70,6 @@ There are many ways that the magnetic flux could be changing - the size of the m
 
 ### Examples
 
-[Review of Flux through a Loop](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week12_flux_examples)
+[Review of Flux through a Loop](/empcubed/examples/week12_flux_examples/)
 
-[Flux Through a Changing, Rotating Shape](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week12_changing_shape)
+[Flux Through a Changing, Rotating Shape](/empcubed/examples/week12_changing_shape/)

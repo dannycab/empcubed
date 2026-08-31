@@ -82,7 +82,7 @@ Since Earth's field is relatively constant, we can actually use Earth's magnetic
 
 ### Examples
 
-- [Using the Earth's Magnetic Field for Measurements](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:examples:week9_earth_field)
+- [Using the Earth's Magnetic Field for Measurements](/empcubed/examples/week9_earth_field/)
   - Video Example: Using Earth's Magnetic Field for Measurements
 
 {{< youtube 0kc-otyFZY0 >}}
