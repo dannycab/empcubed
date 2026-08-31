@@ -1,0 +1,22 @@
+baseURL = 'https://dannycaballero.info/empcubed/'
+locale = 'en-us'
+title = 'Projects & Practices in Physics — E&M'
+
+[params]
+  subtitle = "Course Notes"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
+
+[[menu.main]]
+  name = "Notes"
+  url = "/notes/"
+  weight = 1
