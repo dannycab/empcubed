@@ -96,9 +96,9 @@ At this point, you can either calculate the integral on your own or plug it into
 
 ## Examples
 
-- [Electric Field from a Ring of Charge](/empcubed/examples/week4_charge_ring/)
+- [Electric Field from a Ring of Charge](/examples/week4_charge_ring/)
   - Video Example: Electric Field from a Ring of Charge
-- [Super Challenge Problem: Electric field from a Cylinder of Charge](/empcubed/examples/week4_charge_cylinder/)
+- [Super Challenge Problem: Electric field from a Cylinder of Charge](/examples/week4_charge_cylinder/)
   - Video Example: Electric Field from a Cylinder of Charge
 
 {{< youtube I6cqhqIdG7A >}}

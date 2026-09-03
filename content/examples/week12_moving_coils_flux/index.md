@@ -33,13 +33,13 @@ $$
 
 ## Solution
 
-Before any motion happens, we can look at the rings from a side view, and represent the magnetic field as shown below. In the side view it looks like current is coming out of the page at the top of the coil and going into the page at the bottom. The direction of the magnetic field is determined using the [Right Hand Rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/).
+Before any motion happens, we can look at the rings from a side view, and represent the magnetic field as shown below. In the side view it looks like current is coming out of the page at the top of the coil and going into the page at the bottom. The direction of the magnetic field is determined using the [Right Hand Rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/).
 
 <img src="./media/rId17.png" style="width:5.20833in;height:3.28125in" alt="[ALT TEXT NEEDED: figure-02.png -- describe this figure for screen readers]" />
 
 When the rings begin to move towards one another, you can imagine that the second ring experiences an increase in magnetic flux, since the magnetic field is stronger closer to the ring with current. When we say the flux “increases”, we imply that the flux was positive to begin with, so this means we are *assuming that the area-vector of the second ring must point in the same direction as the magnetic field*. In our representation, this would be to the right.
 
-Since the flux is increasing, we expect the induced current in the second ring to oppose this increase. This requires for the induced current to produce a magnetic field pointing to the left. We can use the [Right Hand Rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/) to determine that this means the current will go into the page at the top of the page, and out of the page at the bottom of the loop. We show the resulting induced current below.
+Since the flux is increasing, we expect the induced current in the second ring to oppose this increase. This requires for the induced current to produce a magnetic field pointing to the left. We can use the [Right Hand Rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/) to determine that this means the current will go into the page at the top of the page, and out of the page at the bottom of the loop. We show the resulting induced current below.
 
 <img src="./media/rId20.png" style="width:4.16667in;height:2.73958in" alt="[ALT TEXT NEEDED: figure-03.png -- describe this figure for screen readers]" />
 

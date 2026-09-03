@@ -3,9 +3,9 @@ title: 'Designing a Step-down Transformer'
 weight: 8
 ---
 
-*[Return to Changing Flux from an Alternating Current notes](/empcubed/notes/week-14-induction/ac/)*
+*[Return to Changing Flux from an Alternating Current notes](/notes/week-14-induction/ac/)*
 
-Recall the [discussion on voltage transformers](/empcubed/notes/week-14-induction/ac/#voltage_transformer). We designed a step-up transformer in the notes, which is used to convert small voltages from a generator into high voltages, which get carried long distances to residential areas. High-voltage power lines are dangerous, though, because the potential difference between the power lines and the ground is so enormous. Before the lines enter a residential area, they are sent to a transformer, from which low-voltage lines carry power to the residential area. How can you design a step-down transformer to convert a line that has a $240\text{~kV}$ potential difference to ground, into a power line that has a $120\text{~V}$ potential difference to ground?
+Recall the [discussion on voltage transformers](/notes/week-14-induction/ac/#voltage_transformer). We designed a step-up transformer in the notes, which is used to convert small voltages from a generator into high voltages, which get carried long distances to residential areas. High-voltage power lines are dangerous, though, because the potential difference between the power lines and the ground is so enormous. Before the lines enter a residential area, they are sent to a transformer, from which low-voltage lines carry power to the residential area. How can you design a step-down transformer to convert a line that has a $240\text{~kV}$ potential difference to ground, into a power line that has a $120\text{~V}$ potential difference to ground?
 
 ### Facts
 
@@ -64,7 +64,7 @@ $$
 - V_{S} = \frac{d\Phi_{B_{S}}}{dt}
 $$
 
-The rest of our calculation follows just as it would for the [analysis of the step-up transformer](/empcubed/notes/week-14-induction/ac/#voltage_transformer). We can rewrite the flux $\Phi_{B2}$ using the flux definition:
+The rest of our calculation follows just as it would for the [analysis of the step-up transformer](/notes/week-14-induction/ac/#voltage_transformer). We can rewrite the flux $\Phi_{B2}$ using the flux definition:
 
 $$
 \Phi_{B_{S}} = \int{\overset{\rightarrow}{B}}_{S} \bullet {\overset{\rightarrow}{dA}}_{S}

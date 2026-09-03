@@ -3,7 +3,7 @@ title: 'Radius of Circular Motion in a Magnetic Field'
 weight: 52
 ---
 
-*[Return to Path of a Charge through a Magnetic Field notes](/empcubed/notes/week-11-sources-of-magnetic-fields/q_path/)*
+*[Return to Path of a Charge through a Magnetic Field notes](/notes/week-11-sources-of-magnetic-fields/q_path/)*
 
 Suppose you have a moving charge $q > 0$ in a magnetic field $\overset{\rightarrow}{B} = - B\widehat{z}$. The charge has a velocity of $\overset{\rightarrow}{v} = v\widehat{x}$, and a mass $m$. What does the motion of the charge look like? What if the charge enters the field from a region with $0$ magnetic field?
 
@@ -43,7 +43,7 @@ Moving Charge in a Magnetic Field
 
 Let's start with the first case, when the magnetic field exists all around the charge.
 
-We can recall an [earlier example](/empcubed/examples/week10_force_on_charge/) where we had to find the force on a similar charge. One approach we took to find the direction of force was the [Right Hand Rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/). Remember that the force here will be
+We can recall an [earlier example](/examples/week10_force_on_charge/) where we had to find the force on a similar charge. One approach we took to find the direction of force was the [Right Hand Rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/). Remember that the force here will be
 
 $$
 \overset{\rightarrow}{F} = q\overset{\rightarrow}{v} \times \overset{\rightarrow}{B}
@@ -59,7 +59,7 @@ $$
 
 Force on the Moving Charge
 
-So, the force on the charge is at first perpendicular to its motion. This is pictured above. You can imagine that as the charge's velocity is directed a little towards the $\widehat{y}$ direction, the force on it will also change a little, since the cross product that depends on velocity will change a little. In fact, if you remember from [the notes](/empcubed/notes/week-11-sources-of-magnetic-fields/q_path/), this results in circular motion if the charge is in a constant magnetic field.
+So, the force on the charge is at first perpendicular to its motion. This is pictured above. You can imagine that as the charge's velocity is directed a little towards the $\widehat{y}$ direction, the force on it will also change a little, since the cross product that depends on velocity will change a little. In fact, if you remember from [the notes](/notes/week-11-sources-of-magnetic-fields/q_path/), this results in circular motion if the charge is in a constant magnetic field.
 
 Finding the radius of this circular motion requires recalling that circular motion occurs when the net force on the particle is perpendicular to the velocity. When this is true, we usually call this net force the [centripetal force](https://en.wikipedia.org/wiki/Centripetal_force). In this example, the centripetal force would be the same force that we computed earlier – the magnetic force – since this is the force that is perpendicular to the particle's motion (or only force in this case). Below, we set the two forces equal to find the radius of the circular motion.
 

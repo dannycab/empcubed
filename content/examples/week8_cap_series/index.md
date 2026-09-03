@@ -3,7 +3,7 @@ title: 'Example: Capacitors in Series'
 weight: 14
 ---
 
-*[Return to capacitors in series notes](/empcubed/notes/week-08-capacitors-combinations/c_series/)*
+*[Return to capacitors in series notes](/notes/week-08-capacitors-combinations/c_series/)*
 
 Suppose you have the following circuit. Capacitors are labeled 1 and 2 for convenience of reference. You know that the circuit contains a 12-Volt battery, $Q_{1} = 4.5\mu\text{C}$, and $C_{2} = 0.5\mu\text{F}$. What is the capacitance of Capacitor 1? What happens to the charge on *both* of the capacitors if we insert a dielectric material with dielectric constant $k = 3$ into Capacitor 1?
 
@@ -50,7 +50,7 @@ $$
 
 ### Part 1
 
-Let's find $C_{1}$. In order to use the equation for equivalent capacitance of capacitors in series, as we have here, we first need the equivalent capacitance of the entire circuit. Remember that the [charge on the capacitors](/empcubed/notes/week-08-capacitors-combinations/c_series/#node_rule_and_charge_in_series) in series should be the same, so $Q_{\text{equiv}} = Q_{1} = Q_{2}$. Now, we can write:
+Let's find $C_{1}$. In order to use the equation for equivalent capacitance of capacitors in series, as we have here, we first need the equivalent capacitance of the entire circuit. Remember that the [charge on the capacitors](/notes/week-08-capacitors-combinations/c_series/#node_rule_and_charge_in_series) in series should be the same, so $Q_{\text{equiv}} = Q_{1} = Q_{2}$. Now, we can write:
 
 $$
 C_{\text{equiv}} = \frac{Q_{\text{equiv}}}{\Delta V_{\text{bat}}} = 0.375\mu\text{F}
@@ -70,7 +70,7 @@ This gives us $C_{1} = 1.5\mu\text{F}$
 
 Circuit with Capacitors in Series, one capacitor has a dielectric
 
-Now we need to consider what happens when we insert a dielectric. It might look something like the circuit to the right. A description of what a dielectric does in a capacitor is [here](/empcubed/notes/week-08-capacitors-combinations/cap_charging/#dielectrics). Its [effect on capacitance](/empcubed/notes/week-08-capacitors-combinations/cap_in_cir/#finding_capacitance) is:
+Now we need to consider what happens when we insert a dielectric. It might look something like the circuit to the right. A description of what a dielectric does in a capacitor is [here](/notes/week-08-capacitors-combinations/cap_charging/#dielectrics). Its [effect on capacitance](/notes/week-08-capacitors-combinations/cap_in_cir/#finding_capacitance) is:
 
 $$
 C = \frac{k\epsilon_{0}A}{d}

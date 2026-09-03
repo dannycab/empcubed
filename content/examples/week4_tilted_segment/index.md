@@ -3,7 +3,7 @@ title: 'A Tilted Segment of Charge'
 weight: 1
 ---
 
-*[Return to $dQ$](/empcubed/notes/week-04-modeling-distributions-of-charge/dq/)*
+*[Return to $dQ$](/notes/week-04-modeling-distributions-of-charge/dq/)*
 
 Suppose we have a segment of uniformly distributed charge stretching from the point $\langle 0,0,0\rangle$ to $\langle 1\text{~m},1\text{~m},0\rangle$, which has total charge $Q$. We also have a point $P = \langle 2\text{~m},0,0\rangle$. Define a convenient $\text{d}Q$ for the segment, and $\overset{\rightarrow}{r}$ between a point on the segment to the point $P$. Also, give appropriate limits on an integration over $\text{d}Q$ (you don't have to write any integrals, just give appropriate start and end points). First, do this for the given coordinate axes. Second, define a new set of coordinate axes to represent $\text{d}Q$ and $\overset{\rightarrow}{r}$ in a simpler way and redo.
 

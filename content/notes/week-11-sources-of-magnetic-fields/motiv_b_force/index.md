@@ -12,7 +12,7 @@ In the real world, the magnetic force is actually extremely relevant and has wid
 
 ## Important Points to Remember about Forces
 
-The magnetic force is simply a force like any other kind of force (i.e. [gravitational force](/pcubed/notes/week-02-modeling-motion-net-force/localg/), [spring force](/pcubed/notes/week-04-05-springs-contact-interactions/springmotion/), or [electric force](/empcubed/notes/week-03-electric-force-energy/pc_force/)). As such, we already know that the magnetic force:
+The magnetic force is simply a force like any other kind of force (i.e. [gravitational force](/pcubed/notes/week-02-modeling-motion-net-force/localg/), [spring force](/pcubed/notes/week-04-05-springs-contact-interactions/springmotion/), or [electric force](/notes/week-03-electric-force-energy/pc_force/)). As such, we already know that the magnetic force:
 
 - has units of newtons (N), where $N = kg\, m/s^{2}$.
 - is a

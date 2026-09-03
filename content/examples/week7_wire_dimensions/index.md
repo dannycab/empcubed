@@ -3,7 +3,7 @@ title: 'Example: Changing the Dimensions of a Wire'
 weight: 15
 ---
 
-*[Return to Energy in Circuits](/empcubed/notes/week-06-resistors-combinations/r_energy/)*
+*[Return to Energy in Circuits](/notes/week-06-resistors-combinations/r_energy/)*
 
 Suppose you have a simple circuit whose wire changes in thickness. The wire is 8 meters long. The first 2 meters of the wire are 3 mm thick. The next 2 meters are 1 mm thick. The last 4 meters are 3 mm thick. The wire is connected to a 12-Volt battery and current is allowed to flow. You use an ammeter and a voltmeter to find that the current through the first 2 meters of wire is $I_{1} = 5\text{~A}$, and the voltage across the first two meters is $\Delta V_{1} = 1\text{~V}$. In all three segments of the wire, determine the magnitude of the electric field inside and the power transmitted.
 
@@ -44,7 +44,7 @@ $$
 P_{1} = I_{1}\Delta V_{1} = 5\text{~W}
 $$
 
-Now, for segment 2. We can use [what we know](/empcubed/notes/week-06-resistors-combinations/r_energy/#conservation_of_charge_in_circuits) about charge in steady state circuits to determine the electric field (notice we divide diameter by 2 in order to get the radius of the circular cross-section):
+Now, for segment 2. We can use [what we know](/notes/week-06-resistors-combinations/r_energy/#conservation_of_charge_in_circuits) about charge in steady state circuits to determine the electric field (notice we divide diameter by 2 in order to get the radius of the circular cross-section):
 
 $$
 E_{2} = \frac{A_{1}}{A_{2}}E_{1} = \frac{\pi(d_{1}/2)^{2}}{\pi(d_{2}/2)^{2}}E_{1} = 9E_{1} = 4.5\text{~V/m}
@@ -57,7 +57,7 @@ In order to do this calculation there are two important assumptions that must be
 - The wires have a circular cross section: This allows us to use the formula for the area of a circle to come up with the correct proportion.
 - The wires are made of the same material throughout: There are two terms in the electron current equation that are material propeties and these will cancel out for each segment of wire if they are made of the same material. This allows the electric field to only vary with cross sectional area.
 
-A simple application of the [Current Node Rule](/empcubed/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) tells us that $I_{2} = I_{1}$. The voltage is easily found from the constant electric field: $\Delta V_{2} = E_{2}L_{2} = 9\text{~V}$. The power dissipated through the segment is then
+A simple application of the [Current Node Rule](/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) tells us that $I_{2} = I_{1}$. The voltage is easily found from the constant electric field: $\Delta V_{2} = E_{2}L_{2} = 9\text{~V}$. The power dissipated through the segment is then
 
 $$
 P_{2} = I_{2}\Delta V_{2} = 45\text{~W}
@@ -75,7 +75,7 @@ $$
 P_{3} = I_{3}\Delta V_{3} = 10\text{~W}
 $$
 
-Notice that we could have also used [Kirchoff's Loop Rule](/empcubed/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) to find the voltage of different segments. For now, it will serve as a nice check on our math. If we travel along the direction of conventional current (counterclockwise in our representation), voltage decreases, so $\Delta V_{1}$, $\Delta V_{2}$, $\Delta V_{3} < 0$, whereas we have $\Delta V_{battery} > 0$. These four potential differences form a loop, so by Kirchoff's Loop Rule they should add to 0:
+Notice that we could have also used [Kirchoff's Loop Rule](/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) to find the voltage of different segments. For now, it will serve as a nice check on our math. If we travel along the direction of conventional current (counterclockwise in our representation), voltage decreases, so $\Delta V_{1}$, $\Delta V_{2}$, $\Delta V_{3} < 0$, whereas we have $\Delta V_{battery} > 0$. These four potential differences form a loop, so by Kirchoff's Loop Rule they should add to 0:
 
 $$
 \Delta V_{battery} + \Delta V_{1} + \Delta V_{2} + \Delta V_{3} = 12\text{~V} - 1\text{~V} - 9\text{~V} - 2\text{~V} = 0

@@ -3,7 +3,7 @@ title: 'Example: Preventing an Asteroid Collision'
 weight: 33
 ---
 
-*[Return to Electric Potential Energy](/empcubed/notes/week-03-electric-force-energy/pc_energy/)*
+*[Return to Electric Potential Energy](/notes/week-03-electric-force-energy/pc_energy/)*
 
 Suppose your friend is vacationing in Italy, and she has lent you her spaceship for the weekend. You have gathered together a group of friends and you are currently cruising through the heavens together and having a great time. You are surrounded by nothingness in all directions. Suddenly, the radar starts beeping ferociously. The ship is on a collision course with an asteroid. You are not too worried about survival – the ship is practically indestructible. However, you know your friend would be devastated if you returned her spaceship with a scratch or dent from the asteroid. You need to prevent the collision.
 
@@ -28,7 +28,7 @@ $$
 U_{r} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}q_{2}}{r}
 $$
 
-- This was derived in the notes [here](/empcubed/notes/week-03-electric-force-energy/pc_energy/#general_relationship_-_energy_and_force).
+- This was derived in the notes [here](/notes/week-03-electric-force-energy/pc_energy/#general_relationship_-_energy_and_force).
 
 ### Goal
 

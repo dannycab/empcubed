@@ -3,7 +3,7 @@ title: 'Example: Electric Potential from a Positively Charged Balloon'
 weight: 22
 ---
 
-*[Return to Electric Potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/)*
+*[Return to Electric Potential](/notes/week-01-charges-field-potential/pc_potential/)*
 
 Suppose we have a positively charged balloon with total charge $Q = 5.0 \cdot 10^{- 9}\text{~C}$. What is the electric potential (also called voltage) at a point $P$, which is a distance $R = 50\text{~cm}$ from the center of the balloon?
 
@@ -41,7 +41,7 @@ We approximate the balloon as a point charge. We do this because we have the too
 
 ### Assumption
 
-The electric potential infinitely far away from the balloon is $0\text{~V}$. Read [here](/empcubed/notes/week-02-charges-superposition/superposition/#superposition_of_electric_potential) for why this is important.
+The electric potential infinitely far away from the balloon is $0\text{~V}$. Read [here](/notes/week-02-charges-superposition/superposition/#superposition_of_electric_potential) for why this is important.
 
 The electric potential at $P$ is given by
 

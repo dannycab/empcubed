@@ -3,7 +3,7 @@ title: 'Dipole Superposition Example'
 weight: 4
 ---
 
-[In the last page of notes](/empcubed/notes/week-02-charges-superposition/superposition/), you read about how superposition applies in general for electric field and electric potential. These notes will go into more detail about how to calculate the electric field using superposition for the specific example of an electric dipole. (We are showing this example of electric field, rather than electric potential, because the [vector math](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_notation) is more complicated and worth describing in more detail.)
+[In the last page of notes](/notes/week-02-charges-superposition/superposition/), you read about how superposition applies in general for electric field and electric potential. These notes will go into more detail about how to calculate the electric field using superposition for the specific example of an electric dipole. (We are showing this example of electric field, rather than electric potential, because the [vector math](/notes/week-01-charges-field-potential/math_review/#vector_notation) is more complicated and worth describing in more detail.)
 
 ### Electric Field between a Dipole
 

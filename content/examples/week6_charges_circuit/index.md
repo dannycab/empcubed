@@ -3,7 +3,7 @@ title: 'Example: Charge Distribution on the Bends of a Circuit'
 weight: 16
 ---
 
-*[Return to Surface Charges around a Circuit](/empcubed/notes/week-05-moving-charges-batteries/q_in_wires/)*
+*[Return to Surface Charges around a Circuit](/notes/week-05-moving-charges-batteries/q_in_wires/)*
 
 On the circuit shown below, draw how you would expect charge to distribute on the surface of the wire near the bends in the circuit.
 

@@ -3,7 +3,7 @@ title: 'Finding the Capacitance of a Cylindrical Capacitor'
 weight: 38
 ---
 
-*[Return to Capacitors in Circuit](/empcubed/notes/week-08-capacitors-combinations/cap_in_cir/)*
+*[Return to Capacitors in Circuit](/notes/week-08-capacitors-combinations/cap_in_cir/)*
 
 Find the capacitance of a cylindrical capacitor. The structure of the capacitor is a cylindrical shell inside another cylindrical shell. The two shells become oppositely charged when the capacitor is connected to a power source. The length of the cylinders is $L$, and their radii are $a$ and $b$, with $a < b$.
 
@@ -37,7 +37,7 @@ Cylindrical Capacitor
 
 In order to find capacitance, we need a charge $Q$ and a potential difference $\Delta V$. But the potential difference depends on how much charge is on the cylindrical plates. The idea here is to use the charge that is on the plates and use that charge to then solve for $\Delta V$. When we compute the capacitance, the charge on the plates should cancel out so that the capacitance only depends on the shape/size of the cylinders. For now, we say there is a charge $Q$ on the inner cylinder, and a charge $- Q$ on the outer cylinder. Since the cylinders are conductors (as they would be in any capacitor), the charge is uniformly distributed on the cylindrical shells.
 
-In order to arrive at potential difference, we will need to find the electric field. Remember from the [notes on electric potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/#relating_electric_potential_to_electric_field) that in general we can write the expression for potential difference as
+In order to arrive at potential difference, we will need to find the electric field. Remember from the [notes on electric potential](/notes/week-01-charges-field-potential/pc_potential/#relating_electric_potential_to_electric_field) that in general we can write the expression for potential difference as
 
 $$
 \Delta V = V_{f} - V_{i} = - \int_{r_{i}}^{r_{f}}\overset{\rightarrow}{E} \bullet \text{d}\overset{\rightarrow}{r}
@@ -49,7 +49,7 @@ In order to find the electric field between the cylinders, we will use Gauss' La
 
 Cylindrical Capacitor with Gaussian Surface
 
-We have done a [similar problem](/empcubed/examples/week5_flux_cylinder_line/) involving Gauss's Law before. In order to find the electric flux in terms of the electric field, we write
+We have done a [similar problem](/examples/week5_flux_cylinder_line/) involving Gauss's Law before. In order to find the electric flux in terms of the electric field, we write
 
 $$
 \Phi = \int\overset{\rightarrow}{E} \bullet \text{d}\overset{\rightarrow}{A}

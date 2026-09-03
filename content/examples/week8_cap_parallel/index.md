@@ -3,7 +3,7 @@ title: 'Connecting Already-Charged Capacitors'
 weight: 6
 ---
 
-*[Return to Capacitors in Parallel notes](/empcubed/notes/week-08-capacitors-combinations/c_parallel/)*
+*[Return to Capacitors in Parallel notes](/notes/week-08-capacitors-combinations/c_parallel/)*
 
 Suppose you have the following setup of already-charged capacitors. The positive plates are all on the top half of the circuit. Capacitors are labeled 1 through 3 for convenience of reference, and the sign of the charge on the plates is indicated. You know that $Q_{1} = Q_{2} = Q_{3} = 1\text{~mC}$, and $\Delta V_{1} = \Delta V_{2} = \Delta V_{3} = 20\text{~V}$. Part 1: What is the equivalent capacitance (if the switches are closed) from Node A to Node B? What happens after the switches are closed? Part 2: What if Capacitor 2 were flipped?
 
@@ -35,7 +35,7 @@ $$
 C = \frac{Q}{\Delta V}
 $$
 
-- We represent the [Loop Rule](/empcubed/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
+- We represent the [Loop Rule](/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
 
 $$
 \Delta V_{1} + \Delta V_{2} + \Delta V_{3} + \ldots = 0
@@ -65,7 +65,7 @@ $$
 C_{\text{equiv}} = C_{1} + C_{2} + C_{3} = 150\mu\text{F}
 $$
 
-Okay, so what happens when we closed all the switches? Now the capacitors are connected to one another. A good check is to see if charge will move. If there is a potential differences anywhere across the capacitors, this would cause some or all of the charges to move. The notes tell us that the [potential differences across parallel capacitors](/empcubed/notes/week-08-capacitors-combinations/c_parallel/#loop_rule_and_voltage_in_parallel) will be the same in a steady state. If they are not the same, we can use the Loop Rule to show there is a voltage difference along the wire, which will cause charge to flow between capacitors. We are happy to see that the potential differences across our capacitors are the same, so the setup is already in a steady state! **Nothing changes when the switches are closed.**
+Okay, so what happens when we closed all the switches? Now the capacitors are connected to one another. A good check is to see if charge will move. If there is a potential differences anywhere across the capacitors, this would cause some or all of the charges to move. The notes tell us that the [potential differences across parallel capacitors](/notes/week-08-capacitors-combinations/c_parallel/#loop_rule_and_voltage_in_parallel) will be the same in a steady state. If they are not the same, we can use the Loop Rule to show there is a voltage difference along the wire, which will cause charge to flow between capacitors. We are happy to see that the potential differences across our capacitors are the same, so the setup is already in a steady state! **Nothing changes when the switches are closed.**
 
 ### Part 2
 

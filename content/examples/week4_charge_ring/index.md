@@ -3,7 +3,7 @@ title: 'Example: Electric Field from a Ring of Charge'
 weight: 20
 ---
 
-*[Return to line of charge](/empcubed/notes/week-04-modeling-distributions-of-charge/linecharge/)*
+*[Return to line of charge](/notes/week-04-modeling-distributions-of-charge/linecharge/)*
 
 Suppose we have a ring with radius $R$ that has a uniform charge distribution with total charge $Q$. What is the electric field at a point $P$, which is a distance $z$ from the center of the ring, along a line perpendicular to the plane of the ring? What happens to the electric field if $z = 0$ (i.e., when $P$ is in the center of the ring rather than above it)? Why?
 
@@ -49,7 +49,7 @@ We will use integration to find the electric field from the ring. We'll go throu
 
 Just like before, we want to write our $\text{d}Q$ in terms of the little bit of length; however this time, our $\text{d}Q$ is spread over a little bit of the ring. We could try to write this little bit of length in terms of $\text{d}x$ or $\text{d}y$, but that gets complicated because we need the length to represent a little piece of the ring. Instead, we will think of this little piece of the ring in terms of the little bit of the angle it represents (this length of a circle is sometimes referred to as [arc length](https://en.wikipedia.org/wiki/Arc_length)). Our $\text{d}Q$ is drawn in an updated representation: <img src="./media/rId19.png" style="width:4.16667in;height:5.01042in" alt="[ALT TEXT NEEDED: figure-02.png -- describe this figure for screen readers]" />
 
-So the $\text{d}Q$ in our representation takes up a small angle out of the whole circle, which we can call $\text{d}\phi$. The length of our $\text{d}Q$ is therefore $R\text{d}\phi$ (which comes from the [arc length](https://en.wikipedia.org/wiki/Arc_length) formula). Remember from the notes on [line charges](/empcubed/notes/week-04-modeling-distributions-of-charge/dq/#dq_-_chunks_of_charge) that we can write $\text{d}Q = \lambda\text{d}l$. Since the charge $Q$ is uniformly distributed on the ring, we use the length of the ring or circumference ($2\pi R$) to write the line charge density $\lambda = Q/2\pi R$. Now, we have an expression for $\text{d}Q$:
+So the $\text{d}Q$ in our representation takes up a small angle out of the whole circle, which we can call $\text{d}\phi$. The length of our $\text{d}Q$ is therefore $R\text{d}\phi$ (which comes from the [arc length](https://en.wikipedia.org/wiki/Arc_length) formula). Remember from the notes on [line charges](/notes/week-04-modeling-distributions-of-charge/dq/#dq_-_chunks_of_charge) that we can write $\text{d}Q = \lambda\text{d}l$. Since the charge $Q$ is uniformly distributed on the ring, we use the length of the ring or circumference ($2\pi R$) to write the line charge density $\lambda = Q/2\pi R$. Now, we have an expression for $\text{d}Q$:
 
 $$
 \text{d}Q = \lambda\text{d}l = \frac{Q}{2\pi R}R\text{d}\phi = \frac{Q\text{d}\phi}{2\pi}

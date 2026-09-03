@@ -3,7 +3,7 @@ title: 'Analyzing an Alternating Current Graph'
 weight: 2
 ---
 
-*[Return to Changing Flux from an Alternating Current notes](/empcubed/notes/week-14-induction/ac/)*
+*[Return to Changing Flux from an Alternating Current notes](/notes/week-14-induction/ac/)*
 
 Suppose you are given the following graph of current over time. You can see that the first peak is at the point where $t = 0.01\text{~s}$, and $I = 0.3\text{~A}$. The graph is shown below. Find the amplitude, period, and frequency of the current, and give an equation that describes the alternating current.
 

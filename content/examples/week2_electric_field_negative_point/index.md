@@ -3,7 +3,7 @@ title: 'Example: Electric Field from a Negative Point Charge'
 weight: 19
 ---
 
-*[Return to Electric Field](/empcubed/notes/week-01-charges-field-potential/pc_efield/)*
+*[Return to Electric Field](/notes/week-01-charges-field-potential/pc_efield/)*
 
 Suppose we have a negative charge $- Q$. What is the magnitude of the electric field at a point $P$, which is a distance $R$ from the charge? Draw the electric field vector on a diagram to show the direction of the electric field at $P$.
 

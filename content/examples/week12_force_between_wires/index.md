@@ -3,7 +3,7 @@ title: 'Magnetic Force between Two Current-Carrying Wires'
 weight: 48
 ---
 
-*[Return to Magnetic Force on a Current Carrying Wire notes](/empcubed/notes/week-12-magnetic-force/i_b_force/)*
+*[Return to Magnetic Force on a Current Carrying Wire notes](/notes/week-12-magnetic-force/i_b_force/)*
 
 Two parallel wires have currents in opposite directions, $I_{1}$ and $I_{2}$. They are situated a distance $R$ from one another. What is the force per length $L$ of one wire on the other?
 
@@ -56,7 +56,7 @@ $$
 {\overset{\rightarrow}{B}}_{1} = \frac{\mu_{0}I_{1}}{2\pi R}\widehat{z}
 $$
 
-We can reason that the direction of the field is $+ \widehat{z}$ because of the [Right Hand Rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/). (Point your fingers along the direction of $I_{1}$ and curl them towards Wire 2. Your thumb should point out of the page then.)
+We can reason that the direction of the field is $+ \widehat{z}$ because of the [Right Hand Rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/). (Point your fingers along the direction of $I_{1}$ and curl them towards Wire 2. Your thumb should point out of the page then.)
 
 Since we know the magnetic field, the next thing we wish to define is $\text{d}{\overset{\rightarrow}{l}}_{2}$. Wire 2 has current directed with $\widehat{y}$ in our representation, so we can say
 

@@ -3,9 +3,9 @@ title: 'Magnetic Field from a Current Segment'
 weight: 45
 ---
 
-*[Return to Currents make Magnetic Fields notes](/empcubed/notes/week-10-magnetic-field-of-a-wire/b_current/)*
+*[Return to Currents make Magnetic Fields notes](/notes/week-10-magnetic-field-of-a-wire/b_current/)*
 
-The notes outline how to find the [magnetic field from a very long wire of current](/empcubed/notes/week-10-magnetic-field-of-a-wire/b_current/#magnetic_field_from_a_very_long_wire). Now, what is the magnetic field from a single segment? Suppose we have the configuration shown below. Your observation point is at the origin, and the segment of current $I$ runs in a straight line from $\langle - L,0,0\rangle$ to $\langle 0, - L,0\rangle$.
+The notes outline how to find the [magnetic field from a very long wire of current](/notes/week-10-magnetic-field-of-a-wire/b_current/#magnetic_field_from_a_very_long_wire). Now, what is the magnetic field from a single segment? Suppose we have the configuration shown below. Your observation point is at the origin, and the segment of current $I$ runs in a straight line from $\langle - L,0,0\rangle$ to $\langle 0, - L,0\rangle$.
 
 <img src="./media/rId11.png" style="width:2.08333in;height:2.14583in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />
 

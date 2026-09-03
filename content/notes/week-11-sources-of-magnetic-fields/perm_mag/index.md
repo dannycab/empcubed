@@ -4,7 +4,7 @@ weight: 3
 textbook_ref: 'Section 17.11 and 17.12 in Matter and Interactions (4th edition)'
 ---
 
-In addition to [moving charges](/empcubed/notes/week-09-magnetic-field-moving-point-charge/moving_q/), another source of magnetic fields that we are going to talk about are permanent magnets. These are the magnets that probably you have seen, have experience with, and already know about (i.e. refrigerator magnets, the Earth, the traditional U-shaped magnets, etc.). While these are much more frequently used in everyday life, permanent magnets are actually quite complicated and are an area of current research. These notes will show how we simplify and model permanent magnets, their magnetic field vectors and how we can actually measure magnetic fields.
+In addition to [moving charges](/notes/week-09-magnetic-field-moving-point-charge/moving_q/), another source of magnetic fields that we are going to talk about are permanent magnets. These are the magnets that probably you have seen, have experience with, and already know about (i.e. refrigerator magnets, the Earth, the traditional U-shaped magnets, etc.). While these are much more frequently used in everyday life, permanent magnets are actually quite complicated and are an area of current research. These notes will show how we simplify and model permanent magnets, their magnetic field vectors and how we can actually measure magnetic fields.
 
 {{< youtube UssubmYHsys >}}
 
@@ -16,7 +16,7 @@ Motion of nucleus and electrons in an atom
 
 In the last two pages of notes, we developed a fairly thorough understanding of how moving charges create magnetic fields. We will leverage this along with what we know about atoms to create a model of how materials can be turned into magnets.
 
-In an atom, we know that there is a large, positive nucleus surrounded by the smaller, negative electrons, which are constantly moving around the nucleus. Since each electron has a charge, it produces a magnetic field as it moves around the nucleus (if we model the electron path as a counter-clockwise circle then using the [right hand rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/), the magnetic field would point up). In addition to the electrons moving around the nucleus, the electron itself is spinning on its axis (much like how the Earth is spinning on its axis while traveling around the sun), which *also* creates a magnetic field. Finally, the protons within the nucleus can also spin on their axes, which also would create a magnetic field.
+In an atom, we know that there is a large, positive nucleus surrounded by the smaller, negative electrons, which are constantly moving around the nucleus. Since each electron has a charge, it produces a magnetic field as it moves around the nucleus (if we model the electron path as a counter-clockwise circle then using the [right hand rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/), the magnetic field would point up). In addition to the electrons moving around the nucleus, the electron itself is spinning on its axis (much like how the Earth is spinning on its axis while traveling around the sun), which *also* creates a magnetic field. Finally, the protons within the nucleus can also spin on their axes, which also would create a magnetic field.
 
 This means that within an atom there are at least 3 (more if there are more electrons/protons) sources of magnetic field simply from the way that the charged particles are moving. For each atom then, we can say that there is a net magnetic field that would point in a certain direction (typically represented by a small B-field arrow).
 
@@ -62,7 +62,7 @@ One kind of magnet that we will refer to often is a bar magnet, which usually re
 
 Magnetic vector field about a permanent bar magnet
 
-Since the magnetic field is a vector field, *it has both a magnitude and a direction at every location in space*, which we can represent with an arrow at various points around the magnet. Closer to the poles of the magnet, the field is much stronger, which we represent with longer arrows. By convention, we say that the direction of the magnetic field points away from the north pole and in towards the south pole outside of the magnet (note that the magnetic fields from the atoms inside the magnet point from the south pole to the north pole). So in lieu of carrying iron filings around with us, we represent the magnetic field of bar magnet as shown in the figure. (You may notice that these magnetic field lines look very similar to those of an [electric dipole](/empcubed/notes/week-03-electric-force-energy/pc_force/).)
+Since the magnetic field is a vector field, *it has both a magnitude and a direction at every location in space*, which we can represent with an arrow at various points around the magnet. Closer to the poles of the magnet, the field is much stronger, which we represent with longer arrows. By convention, we say that the direction of the magnetic field points away from the north pole and in towards the south pole outside of the magnet (note that the magnetic fields from the atoms inside the magnet point from the south pole to the north pole). So in lieu of carrying iron filings around with us, we represent the magnetic field of bar magnet as shown in the figure. (You may notice that these magnetic field lines look very similar to those of an [electric dipole](/notes/week-03-electric-force-energy/pc_force/).)
 
 ## Measuring Earth's Magnetic Field and other Magnetic Fields
 
@@ -82,7 +82,7 @@ Since Earth's field is relatively constant, we can actually use Earth's magnetic
 
 ### Examples
 
-- [Using the Earth's Magnetic Field for Measurements](/empcubed/examples/week9_earth_field/)
+- [Using the Earth's Magnetic Field for Measurements](/examples/week9_earth_field/)
   - Video Example: Using Earth's Magnetic Field for Measurements
 
 {{< youtube 0kc-otyFZY0 >}}

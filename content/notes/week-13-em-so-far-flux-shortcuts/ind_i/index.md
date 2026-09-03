@@ -74,4 +74,4 @@ Resulting magnetic force, F
 
 ## Examples
 
-[Decreasing Flux](/empcubed/examples/week12_decreasing_flux/)
+[Decreasing Flux](/examples/week12_decreasing_flux/)

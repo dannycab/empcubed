@@ -84,4 +84,4 @@ You might have experienced this effect when you were working with the tape chall
 
 ## Examples
 
-[Interactions Between Charged and Neutral Objects](/empcubed/examples/week2_charged_thing_neutral_thing/)
+[Interactions Between Charged and Neutral Objects](/examples/week2_charged_thing_neutral_thing/)

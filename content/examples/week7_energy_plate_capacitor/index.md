@@ -3,7 +3,7 @@ title: 'Energy Stored in a Parallel Plate Capacitor'
 weight: 9
 ---
 
-*[Return to Capacitors in Circuit](/empcubed/notes/week-08-capacitors-combinations/cap_in_cir/)*
+*[Return to Capacitors in Circuit](/notes/week-08-capacitors-combinations/cap_in_cir/)*
 
 Suppose you have a parallel plate capacitor with a capacitance of $16\text{~mF}$. You connect it to a 15-Volt battery and leave it to charge. After a while, you suddenly double the area of the plates and wait for another while. What is the energy stored in the capacitor? What would be the energy stored if you had disconnected the capacitor before doubling the area?
 

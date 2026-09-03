@@ -3,7 +3,7 @@ title: 'Flux Through a Changing, Rotating Shape'
 weight: 39
 ---
 
-*[Return to Changing Magnetic Flux notes](/empcubed/notes/week-13-em-so-far-flux-shortcuts/b_flux/)*
+*[Return to Changing Magnetic Flux notes](/notes/week-13-em-so-far-flux-shortcuts/b_flux/)*
 
 Suppose you have a magnetic field directed in the $- \widehat{z}$-direction, into the page. There is a flexible, circular loop situated on the page, in the $xy$-plane. You stretch it out in the $\pm x$-direction like a rubber band to change its area. Then you rotate it $90^{\text{o}}$ in the $xy$-plane. Finally, you rotate the loop $60^{\text{o}}$ in the $yz$-plane. What happens to the magnetic flux through the loop during these steps?
 

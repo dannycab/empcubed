@@ -3,7 +3,7 @@ title: 'Review of Flux through a Loop'
 weight: 54
 ---
 
-*[Return to Changing Magnetic Flux notes](/empcubed/notes/week-13-em-so-far-flux-shortcuts/b_flux/)*
+*[Return to Changing Magnetic Flux notes](/notes/week-13-em-so-far-flux-shortcuts/b_flux/)*
 
 Suppose you have a magnetic field $\overset{\rightarrow}{B} = 0.6\text{~mT~}\widehat{x}$. Three identical square loops with side lengths $L = 0.5\text{~m}$ are situated as shown below. The perspective shows a side view of the square loops, so they appear very thin even though they are squares when viewed face on.
 

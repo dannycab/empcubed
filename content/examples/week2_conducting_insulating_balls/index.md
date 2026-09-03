@@ -3,9 +3,9 @@ title: 'Example: Attempting to Charge Insulators by Induction'
 weight: 12
 ---
 
-*[Return to Charging and Discharging](/empcubed/notes/week-02-charges-superposition/charging_discharging/)*
+*[Return to Charging and Discharging](/notes/week-02-charges-superposition/charging_discharging/)*
 
-In the notes on [Charging and Discharging](/empcubed/notes/week-02-charges-superposition/charging_discharging/#charging), we saw how to charge a pair of conductors using induction. The relevant figure is shown below as a representation. Is it possible to charge a pair of insulators using induction? Why or why not?
+In the notes on [Charging and Discharging](/notes/week-02-charges-superposition/charging_discharging/#charging), we saw how to charge a pair of conductors using induction. The relevant figure is shown below as a representation. Is it possible to charge a pair of insulators using induction? Why or why not?
 
 ### Facts
 

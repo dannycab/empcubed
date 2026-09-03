@@ -3,7 +3,7 @@ title: 'Example: Resistors in Series'
 weight: 34
 ---
 
-*[Return to Resistors in Series Notes](/empcubed/notes/week-06-resistors-combinations/r_series/)*
+*[Return to Resistors in Series Notes](/notes/week-06-resistors-combinations/r_series/)*
 
 Suppose you have the following circuit. Resistors are labeled 1 through 3 for convenience of reference. You know that the circuit contains a 12-Volt battery, and $R_{1} = 10\Omega$, $\Delta V_{3} = 6\text{~V}$, and the power dissipated through Resistor 1 is $P_{1} = 0.1\text{~W}$. What is the resistance of and power dissipated through Resistor 2?
 
@@ -31,7 +31,7 @@ Circuit with Resistors in Series
 
 ### Representations
 
-- We represent [Ohm's Law](/empcubed/notes/week-06-resistors-combinations/resistivity/#resistance) as
+- We represent [Ohm's Law](/notes/week-06-resistors-combinations/resistivity/#resistance) as
 
 $$
 \begin{matrix}
@@ -55,7 +55,7 @@ R_{eq} = R_{1} + R_{2} + R_{3} + \ldots & & & & & & (3)
 \end{matrix}
 $$
 
-- We represent the [Loop Rule](/empcubed/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
+- We represent the [Loop Rule](/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
 
 $$
 \begin{matrix}
@@ -83,7 +83,7 @@ $$
 P_{1} = {I_{1}}^{2}R_{1}
 $$
 
-Since we know $P_{1}$ and $R_{1}$, we can plug in and solve for $I_{1} = \sqrt{P_{1}/R_{1}} = 0.1\text{~A}$. Recall that the [Node Rule](/empcubed/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) tells us that the current is the same everywhere in the circuit, since the entire circuit is arranged in a series. so $I = I_{1} = 0.1\text{~A}$.
+Since we know $P_{1}$ and $R_{1}$, we can plug in and solve for $I_{1} = \sqrt{P_{1}/R_{1}} = 0.1\text{~A}$. Recall that the [Node Rule](/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) tells us that the current is the same everywhere in the circuit, since the entire circuit is arranged in a series. so $I = I_{1} = 0.1\text{~A}$.
 
 We now have enough information to find the equivalent resistance of the two resistors, using Ohm's Law – equation (1). We write:
 

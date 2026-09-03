@@ -3,7 +3,7 @@ title: 'Relating Electric Potential to Electric Field'
 weight: 5
 ---
 
-At this point you may have noticed some similarities between [electric field](/empcubed/notes/week-01-charges-field-potential/pc_efield/) and [electric potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/):
+At this point you may have noticed some similarities between [electric field](/notes/week-01-charges-field-potential/pc_efield/) and [electric potential](/notes/week-01-charges-field-potential/pc_potential/):
 
 - They use the same constant
 - They both relate to the amount of charge you have
@@ -46,7 +46,7 @@ $$
 
 ## Getting Electric Potential from Electric Field
 
-If instead you start with the electric field and want to get the electric potential, we do the inverse operation: take the negative integral over a path. By integrating over a path (which has direction), we can use a [dot product](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_multiplication) between the electric field and a small position vector to get the scalar voltage. If you use an indefinite integral, you have to add a constant to the integral (which you can solve for if you know the voltage a certain point - usually you set the voltage to be zero at infinity)
+If instead you start with the electric field and want to get the electric potential, we do the inverse operation: take the negative integral over a path. By integrating over a path (which has direction), we can use a [dot product](/notes/week-01-charges-field-potential/math_review/#vector_multiplication) between the electric field and a small position vector to get the scalar voltage. If you use an indefinite integral, you have to add a constant to the integral (which you can solve for if you know the voltage a certain point - usually you set the voltage to be zero at infinity)
 
 $$
 V = - \int\overset{\rightarrow}{E} \bullet d\overset{\rightarrow}{r} + C
@@ -58,7 +58,7 @@ $$
 \Delta V = V_{f} - V_{i} = - \int_{r_{i}}^{r_{f}}\overset{\rightarrow}{E} \bullet d\overset{\rightarrow}{r}
 $$
 
-This relationship between field and potential is very similar to the relationship between [force and potential energy](/pcubed/notes/week-08-potential-energy-applications/force_and_pe/) (for good reason, as we will talk about [next week](/empcubed/notes/week-03-electric-force-energy/pc_vefu/)).
+This relationship between field and potential is very similar to the relationship between [force and potential energy](/pcubed/notes/week-08-potential-energy-applications/force_and_pe/) (for good reason, as we will talk about [next week](/notes/week-03-electric-force-energy/pc_vefu/)).
 
 <img src="./media/rId20.png" style="width:3in;height:0.82292in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />
 

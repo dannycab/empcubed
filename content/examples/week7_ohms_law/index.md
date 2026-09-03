@@ -3,7 +3,7 @@ title: 'Example: Application of Ohm''s Law'
 weight: 11
 ---
 
-*[Return to resistors and conductivity](/empcubed/notes/week-06-resistors-combinations/resistivity/)*
+*[Return to resistors and conductivity](/notes/week-06-resistors-combinations/resistivity/)*
 
 Suppose you have a simple circuit that contains only a 9-Volt battery and a resistor of $120\Omega$. What is the current in the wire?
 
@@ -25,7 +25,7 @@ Suppose you have a simple circuit that contains only a 9-Volt battery and a resi
 
 ### Representations
 
-- We represent [Ohm's Law](/empcubed/notes/week-06-resistors-combinations/resistivity/#resistance) as $\Delta V = IR$.
+- We represent [Ohm's Law](/notes/week-06-resistors-combinations/resistivity/#resistance) as $\Delta V = IR$.
 - We represent the situation with following circuit diagram.
 
 Circuit with Resistor

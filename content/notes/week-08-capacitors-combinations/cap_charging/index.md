@@ -4,7 +4,7 @@ weight: 1
 textbook_ref: 'Section 19.1 in Matter and Interactions (4th edition)'
 ---
 
-Over the last two weeks we have been building a fairly robust model of what happens to the charges both on the surface of the wires and those moving through the wire (through resistors). Now we are going to introduce a new circuit element called a capacitor and see what changes about the electron current, the electric field and the surface charges. [A week ago](/empcubed/notes/week-05-moving-charges-batteries/motiv_movingq/), we started talking about a two oppositely charged plates - so we'll start by returning to that example.
+Over the last two weeks we have been building a fairly robust model of what happens to the charges both on the surface of the wires and those moving through the wire (through resistors). Now we are going to introduce a new circuit element called a capacitor and see what changes about the electron current, the electric field and the surface charges. [A week ago](/notes/week-05-moving-charges-batteries/motiv_movingq/), we started talking about a two oppositely charged plates - so we'll start by returning to that example.
 
 {{< youtube GbOcSuFDEqs >}}
 
@@ -78,7 +78,7 @@ Remember that charges will be added to the plates (from the electron current) un
 
 ## Examples
 
-- [Looking at a Capacitor as it's Charging](/empcubed/examples/week7_charging_capacitor/)
+- [Looking at a Capacitor as it's Charging](/examples/week7_charging_capacitor/)
   - Example Video: Looking at a Capacitor as it's Charging
 
 {{< youtube Q34OmIW5rVU >}}

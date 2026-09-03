@@ -3,7 +3,7 @@ title: 'Example: Two Segments of Charge'
 weight: 37
 ---
 
-*[Return to $dQ$](/empcubed/notes/week-04-modeling-distributions-of-charge/dq/)*
+*[Return to $dQ$](/notes/week-04-modeling-distributions-of-charge/dq/)*
 
 Suppose we have two segments of uniformly distributed charge, one with total charge $+ Q$, the other with $- Q$. The two segments each have length $L$, and lie crossed at their endpoints in the $xy$-plane. The segment with charge $+ Q$ lies along the $y$-axis, and the segment with charge $- Q$ lies along the $x$-axis. See below for a diagram of the situation. Create an expression for the electric field ${\overset{\rightarrow}{E}}_{P}$ at a point $P$ that is located at ${\overset{\rightarrow}{r}}_{P} = r_{x}\widehat{x} + r_{y}\widehat{y}$. You don't have to evaluate integrals in the expression.
 

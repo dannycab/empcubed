@@ -3,7 +3,7 @@ title: 'Magnetic Field near a Moving Charge'
 weight: 47
 ---
 
-*[Return to Moving Charges make Magnetic Fields notes](/empcubed/notes/week-09-magnetic-field-moving-point-charge/moving_q/)*
+*[Return to Moving Charges make Magnetic Fields notes](/notes/week-09-magnetic-field-moving-point-charge/moving_q/)*
 
 You are a collector of magnetic field detectors. A fellow detector collector is trying to trim down her collection, and so it's your job to see if an old detector is still working properly, in which case it's yours! Today, you are a magnetic field detector collector, inspector, and hopefully a selector. First, you run a test in which a charged particle ($q = 15\text{~nC}$) is sent through the detector, and you look at the detector's readings to see if the detector seems to be working properly. The particle is travelling at $2\text{~m/s}$ and you need to predict the magnetic field's magnitude and direction at the points shown below. Be careful! – You'll be using vectors.
 

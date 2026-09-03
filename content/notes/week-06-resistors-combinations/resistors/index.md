@@ -6,9 +6,9 @@ textbook_ref: 'Sections 18.3, 18.8-18.10, and 19.4 in Matter and Interactions (4
 
 To this point, we have talked about what happens inside a wire when connected to two ends of battery - both in the *steady state current* situation and in the initial transient when the circuit is first connected. We found a few important conclusions about the circuit in *steady state:*
 
-- The electron current going into a location must be the same as the current leaving that location because [charge is conserved](/empcubed/notes/week-01-charges-field-potential/charge/).
-- The electron current moves through the wire because there is a constant electric field inside the wire. This electric field comes primarily from the [surface charges along the wire](/empcubed/notes/week-05-moving-charges-batteries/q_in_wires/).
-- The distribution of surface charges varies along the wire - from highly positive near the positive end of the battery to zero in the middle of the circuit to highly negative near the negative end of the battery. This [gradient](/empcubed/notes/week-05-moving-charges-batteries/q_in_wires/) in the surface charge density causes the electric field inside the wires.
+- The electron current going into a location must be the same as the current leaving that location because [charge is conserved](/notes/week-01-charges-field-potential/charge/).
+- The electron current moves through the wire because there is a constant electric field inside the wire. This electric field comes primarily from the [surface charges along the wire](/notes/week-05-moving-charges-batteries/q_in_wires/).
+- The distribution of surface charges varies along the wire - from highly positive near the positive end of the battery to zero in the middle of the circuit to highly negative near the negative end of the battery. This [gradient](/notes/week-05-moving-charges-batteries/q_in_wires/) in the surface charge density causes the electric field inside the wires.
 
 These notes will apply what we learned about the electric field, current, and surface charges to what we call a resistor and discuss what happens to energy around the circuit.
 
@@ -34,7 +34,7 @@ Just after the circuit is connected, *before the steady state current is establi
 
 Once a *steady state current is reached*, we know that the current in the resistor (or thin part of the wire) must be the same as the current in the thick part of the wire. In the steady state, charge has already built up on the ends of the resistor to create a larger electric field and no more charge is added to the surface at this point. If the charges aren't moving to the surface, conservation of charge says that all of the charges passing through the large part of the wire must also pass through the thin part of the wire.
 
-Using [the current relationships](/empcubed/notes/week-06-resistors-combinations/current/), we can show that the electric field and therefore drift speed must be larger inside the resistor to maintain the same current.
+Using [the current relationships](/notes/week-06-resistors-combinations/current/), we can show that the electric field and therefore drift speed must be larger inside the resistor to maintain the same current.
 
 $$
 i_{thin} = i_{thick}

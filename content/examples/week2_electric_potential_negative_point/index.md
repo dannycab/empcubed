@@ -3,7 +3,7 @@ title: 'Example: Electric Potential from a Negatively Charged Balloon'
 weight: 21
 ---
 
-*[Return to Electric Potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/)*
+*[Return to Electric Potential](/notes/week-01-charges-field-potential/pc_potential/)*
 
 Suppose we have a negatively charged balloon with total charge $Q = - 5.0 \cdot 10^{- 9}\text{~C}$. What is the electric potential (also called voltage) at a point $P$, which is a distance $R = 20\text{~m}$ from the center of the balloon?
 
@@ -41,7 +41,7 @@ We approximate the balloon as a point charge. We do this because we have the too
 
 ### Assumption
 
-The electric potential infinitely far away from the balloon is $0\text{~V}$. Read [here](/empcubed/notes/week-02-charges-superposition/superposition/#superposition_of_electric_potential) for why this is important.
+The electric potential infinitely far away from the balloon is $0\text{~V}$. Read [here](/notes/week-02-charges-superposition/superposition/#superposition_of_electric_potential) for why this is important.
 
 The electric potential at $P$ is given by
 
@@ -53,4 +53,4 @@ V & = \frac{1}{4\pi\epsilon_{0}}\frac{q}{r} \\
 \end{matrix}
 $$
 
-Notice how the magnitude of charge on the balloon is the same as in the “positively charged balloon” [example](/empcubed/examples/week2_electric_potential_positive_point/). The reason the magnitude of the voltage is so much smaller, is because the distance is so much greater. [The closer you get to a point charge, the higher the magnitude of electric potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/#potential_vs_distance_graphs).
+Notice how the magnitude of charge on the balloon is the same as in the “positively charged balloon” [example](/examples/week2_electric_potential_positive_point/). The reason the magnitude of the voltage is so much smaller, is because the distance is so much greater. [The closer you get to a point charge, the higher the magnitude of electric potential](/notes/week-01-charges-field-potential/pc_potential/#potential_vs_distance_graphs).

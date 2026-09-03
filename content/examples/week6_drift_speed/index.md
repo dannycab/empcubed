@@ -3,7 +3,7 @@ title: 'Example: Drift Speed in Different Types of Wires'
 weight: 17
 ---
 
-*[Return to current in wires](/empcubed/notes/week-06-resistors-combinations/current/)*
+*[Return to current in wires](/notes/week-06-resistors-combinations/current/)*
 
 Suppose you have a two wires. Each has a current of $5\text{~A}$. One is made of copper (Cu) and has radius $0.5\text{~mm}$. The other is made of zinc (Zn) and has radius $0.1\text{~mm}$. What are the drift speeds of electrons in each wire? You may want to consult the table below.
 
@@ -29,7 +29,7 @@ Properties of Metals
 ### Approximations & Assumptions
 
 - The wires have circular cross-sections. This is typical of real wires and allows us to use the diameter of the wire to calculate the area properly.
-- Using the [Drude model](/empcubed/notes/week-06-resistors-combinations/current/) for electrons in the wire - the electrons are accelerated by the electric field, until they run into a positive nucleus, which reduces the speed back to zero.
+- Using the [Drude model](/notes/week-06-resistors-combinations/current/) for electrons in the wire - the electrons are accelerated by the electric field, until they run into a positive nucleus, which reduces the speed back to zero.
 
 ### Representations
 
@@ -38,7 +38,7 @@ Properties of Metals
 
 ## Solution
 
-We can use the [Drude model](/empcubed/notes/week-06-resistors-combinations/current/) for electrons in the wire - the electrons are accelerated by the electric field, until they run into a positive nucleus, which reduces the speed back to zero. This is where our definition of drift speed comes from, so it is worth including it in our solution for reference.
+We can use the [Drude model](/notes/week-06-resistors-combinations/current/) for electrons in the wire - the electrons are accelerated by the electric field, until they run into a positive nucleus, which reduces the speed back to zero. This is where our definition of drift speed comes from, so it is worth including it in our solution for reference.
 
 There are a lot of variables in this problem, so let's make a plan.
 

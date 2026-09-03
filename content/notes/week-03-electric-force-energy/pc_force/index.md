@@ -4,7 +4,7 @@ weight: 2
 textbook_ref: 'Sections 3.7, 13.2 - 13.3 , and 13.6 of Matter and Interactions (4th edition)'
 ---
 
-Last week, you have read about the [electric field](/empcubed/notes/week-01-charges-field-potential/pc_efield/) and [electric potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/) that is created by a single point charge. Here you will read about what happens when you have two point charges that are near each other. [You have already read about the kind of interaction](/empcubed/notes/week-01-charges-field-potential/charge/) you expect when you place two charges next to each other: either they are attracted to each other (charges have different signs) or repelled from each other (charges have the same sign). As you learned in your mechanics course, we can think about these kinds of pulls or pushes as a force acting on the charge(s). This force results from the interaction of a charge with the electric field produced by the other charge(s). We will call this new force the **electric force**.
+Last week, you have read about the [electric field](/notes/week-01-charges-field-potential/pc_efield/) and [electric potential](/notes/week-01-charges-field-potential/pc_potential/) that is created by a single point charge. Here you will read about what happens when you have two point charges that are near each other. [You have already read about the kind of interaction](/notes/week-01-charges-field-potential/charge/) you expect when you place two charges next to each other: either they are attracted to each other (charges have different signs) or repelled from each other (charges have the same sign). As you learned in your mechanics course, we can think about these kinds of pulls or pushes as a force acting on the charge(s). This force results from the interaction of a charge with the electric field produced by the other charge(s). We will call this new force the **electric force**.
 
 In general, there are two ways to think about the electric force: either one charge interacts with another charge or one charge interacts with the electric field that is produced by another charge. We will usually favor thinking about how charges interact with the field (rather than how charges interact with other charges) because it is through that field that the interaction occurs. These notes will introduce the general relationship between electric force and electric field and discuss the example of a positive and negative point charges (which we will call an electric dipole).
 
@@ -55,7 +55,7 @@ $$
 {\overset{\rightarrow}{F}}_{q - \rightarrow + q} = q_{+}{\overset{\rightarrow}{E}}_{q -}
 $$
 
-When we make the *point charge assumption*, [we know from last week](/empcubed/notes/week-01-charges-field-potential/pc_efield/) that electric field for a negative point is given by:
+When we make the *point charge assumption*, [we know from last week](/notes/week-01-charges-field-potential/pc_efield/) that electric field for a negative point is given by:
 
 $$
 E_{q -} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{-}}{r^{3}}{\overset{\rightarrow}{r}}_{- \rightarrow +}
@@ -81,8 +81,8 @@ $$
 {\overset{\rightarrow}{F}}_{1 \rightarrow 2} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}q_{2}}{(r_{1 \rightarrow 2})^{3}}{\overset{\rightarrow}{r}}_{1 \rightarrow 2} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}q_{2}}{(r_{1 \rightarrow 2})^{2}}{\widehat{r}}_{1 \rightarrow 2}
 $$
 
-Where here we have used the [definition of the unit vector](/empcubed/notes/week-01-charges-field-potential/math_review/#unit_vectors) ($\widehat{r} = \frac{\overset{\rightarrow}{r}}{r}$) to get the two different versions of the equation. There are a few things to notice about this equation. First, this equation is **only true for the electric force between two point charges**. Second, this force is **not a constant force** - it depends on the separation distance between the two charges. **The closer the two charges are, the stronger the push/pull will be.** Finally, this equation may look familiar from mechanics - if you change the charges into masses and change the constant, you will get the equation for [Newtonian gravity](/pcubed/notes/week-03-newtonian-gravitation/gravitation/) that describes the gravitational interaction between two large masses. It turns out that there are many parallels between the gravitational force and the electric force.
+Where here we have used the [definition of the unit vector](/notes/week-01-charges-field-potential/math_review/#unit_vectors) ($\widehat{r} = \frac{\overset{\rightarrow}{r}}{r}$) to get the two different versions of the equation. There are a few things to notice about this equation. First, this equation is **only true for the electric force between two point charges**. Second, this force is **not a constant force** - it depends on the separation distance between the two charges. **The closer the two charges are, the stronger the push/pull will be.** Finally, this equation may look familiar from mechanics - if you change the charges into masses and change the constant, you will get the equation for [Newtonian gravity](/pcubed/notes/week-03-newtonian-gravitation/gravitation/) that describes the gravitational interaction between two large masses. It turns out that there are many parallels between the gravitational force and the electric force.
 
 ## Examples
 
-[Ballon Stuck to a Wall](/empcubed/examples/week3_balloon_wall/)
+[Ballon Stuck to a Wall](/examples/week3_balloon_wall/)

@@ -3,7 +3,7 @@ title: 'Example: Interactions Between Charged and Neutral Objects'
 weight: 31
 ---
 
-*[Return to Charge and Matter](/empcubed/notes/week-02-charges-superposition/charge_and_matter/)*
+*[Return to Charge and Matter](/notes/week-02-charges-superposition/charge_and_matter/)*
 
 Suppose we have a positively charged object near a conductor. What happens to the charge distribution of the conductor when we bring an identical positively charged object near to the other side of the conductor? The situation is pictured below.
 

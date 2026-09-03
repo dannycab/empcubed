@@ -3,7 +3,7 @@ title: 'Example: Balloon Stuck to a Wall'
 weight: 13
 ---
 
-*[Return to Electric Force](/empcubed/notes/week-03-electric-force-energy/pc_force/)*
+*[Return to Electric Force](/notes/week-03-electric-force-energy/pc_force/)*
 
 When you rub part of a rubber balloon against wool (or your hair), electrons will leave the wool, which is slightly conductive, and go onto the balloon. The rubber on the balloon is much less conductive (rubber is more of an insulator than wool), and the electrons will not readily leave the balloon. As a result, the balloon becomes negatively charged. Imagine you bring the negatively charged balloon up to a wall, and it sticks (This is possible! A quick internet search will yield many explanations and demonstrations. You can also try it yourself). Why would the balloon stay in one place on the wall? Draw a free body diagram for the balloon to help your explanation.
 
@@ -63,7 +63,7 @@ We can use the following representation, in which the balloon is motionless, to 
 
 Balloon Stuck to Wall (with charges shown)
 
-We know that the balloon is negatively charged from rubbing it on wool/hair. When we bring the charged balloon close to the wall, the atoms in the wall near to the balloon become polarized with the electron clouds being pushed away from the negative balloon. See the notes on [Charges and Matter](/empcubed/notes/week-02-charges-superposition/charge_and_matter/) for more information on polarization. This means that the negative balloon is now *attracted* to the positive nuclei in the polarized wall. (The balloon is also repelled from the negative electron clouds, but since the nuclei are closer to the balloon, the attractive force is more powerful).
+We know that the balloon is negatively charged from rubbing it on wool/hair. When we bring the charged balloon close to the wall, the atoms in the wall near to the balloon become polarized with the electron clouds being pushed away from the negative balloon. See the notes on [Charges and Matter](/notes/week-02-charges-superposition/charge_and_matter/) for more information on polarization. This means that the negative balloon is now *attracted* to the positive nuclei in the polarized wall. (The balloon is also repelled from the negative electron clouds, but since the nuclei are closer to the balloon, the attractive force is more powerful).
 
 Notice that the electric force needs to point both to the left and upward in order for the net force to be zero. If you were to try this experiment out yourself, you may notice the balloon rolling slightly up and down (oscillating) before settling to a motionless state. As the balloon rolls, the charge distribution on the balloon moves in the same way that the balloon does, which changes the direction of the electric force on the balloon from the wall. When the balloon settles, we know it has come to a place where the direction and magnitude of the electric force results in a net force of zero.
 

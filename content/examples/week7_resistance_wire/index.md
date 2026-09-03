@@ -3,7 +3,7 @@ title: 'Resistance of a Wire'
 weight: 53
 ---
 
-*[Return to resistors and conductivity](/empcubed/notes/week-06-resistors-combinations/resistivity/)*
+*[Return to resistors and conductivity](/notes/week-06-resistors-combinations/resistivity/)*
 
 Suppose you have a wire whose resistance is 60 m$\Omega$. The wire has a length of 2 cm, and has a cross-sectional area of 1 mm$^{2}$. What would be the resistance if you increase the length of the wire to 6 cm (keeping the area the same)? What would be the resistance if you increase the cross-sectional area to 3 mm$^{2}$ (keeping the original length of wire)?
 

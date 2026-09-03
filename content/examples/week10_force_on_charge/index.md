@@ -36,7 +36,7 @@ $$
 
 Let's start with the first case, when $\overset{\rightarrow}{v} = 10\text{~m/s~}\widehat{x}$.
 
-The trickiest part of finding magnetic force is the cross-product. You may remember from the [math review](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_multiplication) that there are a couple ways to do the cross product. Below, we show how to use vector components, for which it's helpful to rewrite $\overset{\rightarrow}{v}$ and $\overset{\rightarrow}{B}$ with their components.
+The trickiest part of finding magnetic force is the cross-product. You may remember from the [math review](/notes/week-01-charges-field-potential/math_review/#vector_multiplication) that there are a couple ways to do the cross product. Below, we show how to use vector components, for which it's helpful to rewrite $\overset{\rightarrow}{v}$ and $\overset{\rightarrow}{B}$ with their components.
 
 $$
 \begin{matrix}
@@ -47,7 +47,7 @@ $$
 \end{matrix}
 $$
 
-Alternatively, we could use the whole vectors and the angle between them. We find that we obtain the same result for the cross product. One would need to use the [Right Hand Rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/) to find that the direction of the cross product is $+ \widehat{z}$. The magnitude is given by
+Alternatively, we could use the whole vectors and the angle between them. We find that we obtain the same result for the cross product. One would need to use the [Right Hand Rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/) to find that the direction of the cross product is $+ \widehat{z}$. The magnitude is given by
 
 $$
 \left| \overset{\rightarrow}{v} \times \overset{\rightarrow}{B} \right| = \left| \overset{\rightarrow}{v} \right|\left| \overset{\rightarrow}{B} \right|\sin\theta = (10\text{~m/s})(4 \cdot 10^{- 4}\text{~T})\sin 90^{\text{o}} = 4 \cdot 10^{- 3}\text{~T} \cdot \text{m/s}

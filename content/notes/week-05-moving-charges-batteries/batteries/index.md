@@ -4,7 +4,7 @@ weight: 2
 textbook_ref: 'Part of Section 18.4 in Matter and Interactions (4th edition)'
 ---
 
-While a pair of charged plates is easy to think about on a general level, it becomes surprisingly complicated to model at a microscopic level. As electrons move from one plate to the other, the amount of excess charge on each plate decreases, which means that over time, the “driving force” that is pushing the electrons through the wire is also decreasing. Thus, the flow of electrons (which we will eventually define as the [electron current](/empcubed/notes/week-06-resistors-combinations/defining_current/)) is always changing - starting as a large flow of electrons from one plate to the other and decreasing until the plates are neutral and there is no electron flow between them.
+While a pair of charged plates is easy to think about on a general level, it becomes surprisingly complicated to model at a microscopic level. As electrons move from one plate to the other, the amount of excess charge on each plate decreases, which means that over time, the “driving force” that is pushing the electrons through the wire is also decreasing. Thus, the flow of electrons (which we will eventually define as the [electron current](/notes/week-06-resistors-combinations/defining_current/)) is always changing - starting as a large flow of electrons from one plate to the other and decreasing until the plates are neutral and there is no electron flow between them.
 
 Rather than dealing with a constantly changing electron current, we are going to start by thinking about a simpler model - one where we *assume the electron current is constant* from a battery. (We will return to this idea of charged plates and a changing electron current next week).
 

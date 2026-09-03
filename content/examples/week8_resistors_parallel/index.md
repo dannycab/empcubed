@@ -3,7 +3,7 @@ title: 'Example: Resistors in Series and in Parallel'
 weight: 35
 ---
 
-*[Return to Resistors in Parallel Notes](/empcubed/notes/week-06-resistors-combinations/r_parallel/)*
+*[Return to Resistors in Parallel Notes](/notes/week-06-resistors-combinations/r_parallel/)*
 
 Suppose you have the following circuit. Resistors are labeled 1 through 4 and nodes in the circuit are labeled A, B, and C for convenience of reference. You know that the circuit contains a 12-Volt battery, $I_{1} = 50\text{~mA}$, $R_{1} = 80\Omega$, $R_{3} = 300\Omega$, $R_{4} = 500\Omega$, and $\Delta V_{4} = 5\text{~V}$. What are the potential differences $\Delta V_{1}$, $\Delta V_{2}$, $\Delta V_{3}$, and the resistance $R_{2}$?
 
@@ -33,7 +33,7 @@ Circuit with Resistors in Series and Parallel
 
 ### Representations
 
-- We represent [Ohm's Law](/empcubed/notes/week-06-resistors-combinations/resistivity/#resistance) as
+- We represent [Ohm's Law](/notes/week-06-resistors-combinations/resistivity/#resistance) as
 
 $$
 \begin{matrix}
@@ -57,7 +57,7 @@ $$
 \end{matrix}
 $$
 
-- We represent the [Loop Rule](/empcubed/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
+- We represent the [Loop Rule](/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
 
 $$
 \begin{matrix}
@@ -65,7 +65,7 @@ $$
 \end{matrix}
 $$
 
-- We represent the [Node Rule](/empcubed/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) (for current through a point in the circuit) as
+- We represent the [Node Rule](/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) (for current through a point in the circuit) as
 
 $$
 \begin{matrix}

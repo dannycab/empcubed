@@ -96,9 +96,9 @@ We should also say that there are many more circuit elements beyond just resisto
 
 ## Examples
 
-- [The Wheatstone Bridge](/empcubed/examples/week8_wheatstone/)
+- [The Wheatstone Bridge](/examples/week8_wheatstone/)
   - Video Example: The Wheatstone Bridge
-- [Challenge: Charging Capacitors through Resistors](/empcubed/examples/week8_charge_discharge_caps_resistors/)
+- [Challenge: Charging Capacitors through Resistors](/examples/week8_charge_discharge_caps_resistors/)
   - Video Example: Charging Capacitors through Resistors
 
 {{< youtube uj2c1Tm7ttA >}}

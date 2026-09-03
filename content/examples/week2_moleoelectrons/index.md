@@ -3,7 +3,7 @@ title: 'Example: Find the total charge for a mole of electrons'
 weight: 23
 ---
 
-*[Return to Electric Charge Page](/empcubed/notes/week-01-charges-field-potential/charge/)*
+*[Return to Electric Charge Page](/notes/week-01-charges-field-potential/charge/)*
 
 How much total charge (in coulombs) is in one mole of electrons?
 

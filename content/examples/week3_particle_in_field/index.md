@@ -3,7 +3,7 @@ title: 'Example: Particle Acceleration through an Electric Field'
 weight: 32
 ---
 
-*[Return to Electric Potential Energy](/empcubed/notes/week-03-electric-force-energy/pc_energy/)*
+*[Return to Electric Potential Energy](/notes/week-03-electric-force-energy/pc_energy/)*
 
 Suppose you have a particle with a mass $m$, charge $Q$, initially at rest in an electric field $\overset{\rightarrow}{E} = E_{0}\widehat{x}$. The electric field extends for a distance $L$ in the $+ \widehat{x}$-direction before dropping off abruptly to 0. So, the magnitude of the electric field is exactly $E_{0}$, and then exactly $0$. There is no in-between. What happens to the particle if $Q > 0$? What if $Q < 0$? What if $Q = 0$? In one of these cases, the particle exits the electric field. What is its velocity when it reaches the region of zero electric field?
 

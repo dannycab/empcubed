@@ -11,7 +11,7 @@ Thus far, we have primarily been talking about the magnetic field from a current
 
 Current in a coil of wire
 
-A coil is when a length of wire with current running through it has been wrapped around on itself creating some sort of shape as shown in the figure to the right. (You may also hear a coil referred to as a “current-carrying coil”, “a loop”, or “a ring”.) Typically, we will use circular coils because the mathematical calculations are easier for a circular coil, but you could also have a rectangular coil or some other shape. In these notes, we will focus on how to deal with the circular part of the wire, as we have already talked about how to [calculate the magnetic field from current in a straight wire](/empcubed/notes/week-10-magnetic-field-of-a-wire/b_current/).
+A coil is when a length of wire with current running through it has been wrapped around on itself creating some sort of shape as shown in the figure to the right. (You may also hear a coil referred to as a “current-carrying coil”, “a loop”, or “a ring”.) Typically, we will use circular coils because the mathematical calculations are easier for a circular coil, but you could also have a rectangular coil or some other shape. In these notes, we will focus on how to deal with the circular part of the wire, as we have already talked about how to [calculate the magnetic field from current in a straight wire](/notes/week-10-magnetic-field-of-a-wire/b_current/).
 
 <img src="./media/rId15.png" style="width:2.60417in;height:2.51042in" alt="[ALT TEXT NEEDED: figure-02.png -- describe this figure for screen readers]" />
 
@@ -29,7 +29,7 @@ where the $d\overset{\rightarrow}{l}$ now would need to represent a small piece 
 
 Magnetic field in the center of a coil of wire
 
-[The example below](/empcubed/examples/week10_current_ring/) shows the calculation for the magnetic field at the center of a circular coil for a counterclockwise current. Because the circular coil is highly symmetric, we get a fairly simple answer for the magnetic field at the center of the coil (in the plane of the coil):
+[The example below](/examples/week10_current_ring/) shows the calculation for the magnetic field at the center of a circular coil for a counterclockwise current. Because the circular coil is highly symmetric, we get a fairly simple answer for the magnetic field at the center of the coil (in the plane of the coil):
 
 $$
 \overset{\rightarrow}{B} = \frac{\mu_{0}I}{2R}\widehat{z}
@@ -41,7 +41,7 @@ Which depends only on the current going through the coil $I$ and the radius of t
 
 Magnetic field at a point above the coil
 
-We could also calculate the magnetic field for an observation point at the center of the coil, but out of the plane of the ring (shown in the figure to the left). In this case, we would follow the same process as in [the example](/empcubed/examples/week10_current_ring/); however, now the r-vector would have a z-component:
+We could also calculate the magnetic field for an observation point at the center of the coil, but out of the plane of the ring (shown in the figure to the left). In this case, we would follow the same process as in [the example](/examples/week10_current_ring/); however, now the r-vector would have a z-component:
 
 $$
 \overset{\rightarrow}{B} = \frac{\mu_{0}I}{2}\frac{R^{2}}{(z^{2} + R^{2})^{3/2}}\widehat{z}
@@ -51,7 +51,7 @@ Where $R$ is still the radius of the coil, $I$ is the current going around the l
 
 If you look at many observation points around a circular coil, there is a pattern to the magnetic field produced by that current - the field points through the center of the coil and then wraps around on the outside of the coil. This is shown in the figure below. For such a coil, the magnetic field is strongest in the center of the coil and has a smaller magnitude as you move further away from the coil. If you increase the amount of current or decrease the radius of the coil, you can create a stronger magnetic field. You could also increase the magnitude of the magnetic field by increasing the number of loops in the coil (or how many circular loops you have).
 
-You also may have noticed that this pattern to the magnetic field looks similar to the magnetic field from a bar magnet that we [talked about previously](/empcubed/notes/week-11-sources-of-magnetic-fields/perm_mag/) - this makes the circular coil a powerful tool. Scientists and engineers will often model a bar magnet (or the Earth's magnetic field) using a circular coil because it is easier to handle mathematically when compared to thinking about the individual atoms/domains in a material. We will return to this idea of a coil of wire frequently over the remaining weeks of the semester.
+You also may have noticed that this pattern to the magnetic field looks similar to the magnetic field from a bar magnet that we [talked about previously](/notes/week-11-sources-of-magnetic-fields/perm_mag/) - this makes the circular coil a powerful tool. Scientists and engineers will often model a bar magnet (or the Earth's magnetic field) using a circular coil because it is easier to handle mathematically when compared to thinking about the individual atoms/domains in a material. We will return to this idea of a coil of wire frequently over the remaining weeks of the semester.
 
 <img src="./media/bars_and_coils.png" style="width:5.20833in;height:5.41667in" alt="[ALT TEXT NEEDED: figure-05.png -- describe this figure for screen readers]" />
 
@@ -69,4 +69,4 @@ We'll talk more about the magnetic field in a solenoid in the next couple weeks 
 
 ## Examples
 
-[Challenge Example: Magnetic Field from a Ring of Current](/empcubed/examples/week10_current_ring/)
+[Challenge Example: Magnetic Field from a Ring of Current](/examples/week10_current_ring/)

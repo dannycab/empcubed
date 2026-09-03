@@ -3,7 +3,7 @@ title: 'Plotting Electric Potential with Wolfram Alpha'
 weight: 50
 ---
 
-*[Return to Electric Potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/)*
+*[Return to Electric Potential](/notes/week-01-charges-field-potential/pc_potential/)*
 
 To make the 3D plots in Wolfram Alpha, first you need to create a free notebook with the Wolfram Cloud. [Starting here](https://www.open.wolframcloud.com/), click on the Wolfram Programming Lab for beginners. If you scroll down to the very bottom of the page, there is a link in blue on the left that says “Create a new notebook”. Click on this link, and it will open a new tab.
 

@@ -18,7 +18,7 @@ $$
 \overset{\rightarrow}{E} = \frac{1}{4\pi\epsilon_{0}}\frac{Qz}{(R^{2} + z^{2})^{3/2}}\widehat{z}
 $$
 
-- We found this out in the [previous example](/empcubed/examples/week4_charge_ring/).
+- We found this out in the [previous example](/examples/week4_charge_ring/).
 
 ### Goal
 
@@ -47,7 +47,7 @@ We also make a plan to tackle the integrating, which is tough, especially consid
 
 We will use integration to find the electric field from the entire cylindrical shell. We'll go through the following steps.
 
-- Slice the cylindrical shell into thin rings, which we know about from the [previous example](/empcubed/examples/week4_charge_ring/).
+- Slice the cylindrical shell into thin rings, which we know about from the [previous example](/examples/week4_charge_ring/).
 - Write an expression for $\text{d}Q$, which is the charge of one of the rings.
 - Decide on a consistent way to define the location of the ring, and use this to write an expression for $\text{d}Q$
 - Assign a variable location to the $\text{d}Q$ piece, and then use that location to find the separation vector, $\overset{\rightarrow}{r}$.
@@ -60,7 +60,7 @@ $$
 \text{d}Q = \lambda\text{d}l = \frac{Q\text{d}x}{L}
 $$
 
-We choose $\overset{\rightarrow}{r}$ based on what we know about the electric field from a ring. In the [previous example](/empcubed/examples/week4_charge_ring/), we determined an electric field vector that depends on $z$. Notice that the $z$ from that example is the same $z$ here. The vector also was aligned with the $z$-axis, which in this example is along the axis that passes through the cylinder and through the point $P$. The tricky part is determining the location of the “source”, since a ring occupies many points in space. As long as we are consistent, though, we will be okay. Based on the result previous example, it makes sense to have the source location just be the center of the ring. As always, $\overset{\rightarrow}{r}$ is directed from source to point of observation:
+We choose $\overset{\rightarrow}{r}$ based on what we know about the electric field from a ring. In the [previous example](/examples/week4_charge_ring/), we determined an electric field vector that depends on $z$. Notice that the $z$ from that example is the same $z$ here. The vector also was aligned with the $z$-axis, which in this example is along the axis that passes through the cylinder and through the point $P$. The tricky part is determining the location of the “source”, since a ring occupies many points in space. As long as we are consistent, though, we will be okay. Based on the result previous example, it makes sense to have the source location just be the center of the ring. As always, $\overset{\rightarrow}{r}$ is directed from source to point of observation:
 
 $$
 \overset{\rightarrow}{r} = z\widehat{x} - x\widehat{x} = (z - x)\widehat{x}

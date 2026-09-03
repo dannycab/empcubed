@@ -3,7 +3,7 @@ title: 'Using the Earth''s Magnetic Field for Measurements'
 weight: 56
 ---
 
-*[Return to Permanent Magnet notes](/empcubed/notes/week-11-sources-of-magnetic-fields/perm_mag/)*
+*[Return to Permanent Magnet notes](/notes/week-11-sources-of-magnetic-fields/perm_mag/)*
 
 You have spotted an unidentified flying object! Naturally, you wish to find its charge. You have a compass, a good sense of direction, and keen eyesight. You notice that it is flying due south on a course that will pass directly overhead, and it is $15\text{~m}$ above you, travelling at $200\text{~m/s}$. You observe the dial on your properly aligned compass as the object passes overhead. As a function of time, this is what you see:
 
@@ -59,7 +59,7 @@ We can find the magnetic field from the UFO based on the compass measurement. Be
 
 Tangent = Opposite over Adjacent
 
-We know that the UFO is closest when it is directly overhead, which is also when it will have the largest contribution to the magnetic field at our observation point, resulting in the largest displacement of the compass needle. On our graph, this would be $20^{\circ}$. We can also reason that the magnetic field of the UFO at our observation point will point in the $+ x$-direction, due to the [Right Hand Rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/), assuming the charge of the UFO is positive. First, you would point your fingers in the direction of the UFO's velocity then curl them toward the observation location (down) and your thumb would point out towards you or in the $+ x$-direction. (If the charge of the UFO were negative, we would expect the B-field to be directed in the $- x$-direction. This is not the case, so we can conclude that the UFO is positively charged.) This means that we can solve for the magnetic field from the UFO since we know Earth's magnetic field and the angle:
+We know that the UFO is closest when it is directly overhead, which is also when it will have the largest contribution to the magnetic field at our observation point, resulting in the largest displacement of the compass needle. On our graph, this would be $20^{\circ}$. We can also reason that the magnetic field of the UFO at our observation point will point in the $+ x$-direction, due to the [Right Hand Rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/), assuming the charge of the UFO is positive. First, you would point your fingers in the direction of the UFO's velocity then curl them toward the observation location (down) and your thumb would point out towards you or in the $+ x$-direction. (If the charge of the UFO were negative, we would expect the B-field to be directed in the $- x$-direction. This is not the case, so we can conclude that the UFO is positively charged.) This means that we can solve for the magnetic field from the UFO since we know Earth's magnetic field and the angle:
 
 $$
 {\overset{\rightarrow}{B}}_{\text{UFO}} = B_{\text{earth}}\tan\theta\widehat{x}

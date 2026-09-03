@@ -3,7 +3,7 @@ title: 'Challenge Problem: Charging Capacitors through Resistors'
 weight: 4
 ---
 
-*[Return to Larger Combinations of Circuit Elements notes](/empcubed/notes/week-07-combinations-part-2/combinations/)*
+*[Return to Larger Combinations of Circuit Elements notes](/notes/week-07-combinations-part-2/combinations/)*
 
 Suppose you have a the setup shown below. All capacitors have the same capacitance $C$, and all resistors have the same resistance $R$. Capacitor 1 is charged to $Q$ and $- Q$ on its plates, so that the voltage across it is $\Delta V$, and all the other capacitors are not charged at all. At time $t = 0$, the switches are closed. What happens? In what order to the capacitors finish charging (practically speaking)? Be as detailed as possible.
 
@@ -91,7 +91,7 @@ Next, we want to understand what the circuit will look like when it has reached 
 
 Disconnected Sections of Circuit
 
-On the **top** (pink), the net charge is $0$. On the **left** (green), the net charge is $Q$. On the **right** (orange), the net charge is $- Q$. These values will not change no matter when we look at the circuit. At a steady state, you may remember that [capacitors in series have the same charge](/empcubed/notes/week-08-capacitors-combinations/c_series/#node_rule_and_charge_in_series). So Capacitors 1 and 2 should have the same charge. We know from this that the plates in the **right** section should each have charge $- Q/2$. Since plates in a capacitor always have opposite charges, the corresponding opposite plates will each have charge $Q/2$.
+On the **top** (pink), the net charge is $0$. On the **left** (green), the net charge is $Q$. On the **right** (orange), the net charge is $- Q$. These values will not change no matter when we look at the circuit. At a steady state, you may remember that [capacitors in series have the same charge](/notes/week-08-capacitors-combinations/c_series/#node_rule_and_charge_in_series). So Capacitors 1 and 2 should have the same charge. We know from this that the plates in the **right** section should each have charge $- Q/2$. Since plates in a capacitor always have opposite charges, the corresponding opposite plates will each have charge $Q/2$.
 
 In the **left** section, we need to have $Q/2$ spread over the positive plates on Capacitor 3 and 4. The Loop Rule dictates that in order to have zero potential difference across the wire, we need the potential differences across Capacitors 3 and 4 to be the same. Since they also have the same capacitance $C$, they must also have the same charge. So we distribute the total $Q/2$ as $Q/4$ on each capacitor. Therefore, each should have $- Q/4$ on its negative plate, which brings the total charge in the **top** section to 0, as desired. We have written charge on each plate below, once the circuit has reached a steady state.
 

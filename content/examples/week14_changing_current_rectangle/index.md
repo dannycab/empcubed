@@ -3,7 +3,7 @@ title: 'Changing Current Induces Voltage in Rectangular Loop'
 weight: 5
 ---
 
-*[Return to Changing Magnetic Fields with Time notes](/empcubed/notes/week-14-induction/b_flux_t/)*
+*[Return to Changing Magnetic Fields with Time notes](/notes/week-14-induction/b_flux_t/)*
 
 Suppose you have an increasing current through a long wire, $I(t) = I_{0}\frac{t}{t_{0}}$. Next to this wire, there is a rectangular loop of width $w$ and height $h$. The side of the rectangle is aligned parallel to the wire so that the rectangle is a distance $d$ from the wire, and they are both in the same plane. What is the induced voltage in the rectangle? In what direction is the induced current in the rectangle?
 
@@ -55,7 +55,7 @@ Wire and Rectangle
 
 ## Solution
 
-In order to find the induced voltage, we will need the magnetic flux. This requires defining an area-vector and determining the magnetic field. We can use the [right hand rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/) to determine that the magnetic field from the wire is into the page ($- \widehat{z}$) near the rectangle (point your fingers in the direction of the current and curl them toward the rectangle - your thumb should point into the page). For convenience, we will also define for the area vector to be into the page. Since they both point in the same direction, the dot product simplifies:
+In order to find the induced voltage, we will need the magnetic flux. This requires defining an area-vector and determining the magnetic field. We can use the [right hand rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/) to determine that the magnetic field from the wire is into the page ($- \widehat{z}$) near the rectangle (point your fingers in the direction of the current and curl them toward the rectangle - your thumb should point into the page). For convenience, we will also define for the area vector to be into the page. Since they both point in the same direction, the dot product simplifies:
 
 $$
 \Phi_{B} = \int\overset{\rightarrow}{B} \bullet \text{d}\overset{\rightarrow}{A} = \int B\text{d}A

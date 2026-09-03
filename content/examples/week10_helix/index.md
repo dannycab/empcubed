@@ -3,7 +3,7 @@ title: 'Helical Motion in a Magnetic Field'
 weight: 42
 ---
 
-*[Return to Path of a Charge through a Magnetic Field notes](/empcubed/notes/week-11-sources-of-magnetic-fields/q_path/)*
+*[Return to Path of a Charge through a Magnetic Field notes](/notes/week-11-sources-of-magnetic-fields/q_path/)*
 
 Suppose you have a moving charge $q = 20\text{~mC}$ in a magnetic field $\overset{\rightarrow}{B} = 15\text{~mT~}\widehat{y}$. The charge has a velocity of $\overset{\rightarrow}{v} = (3\widehat{x} + 2\widehat{y})\text{~m/s}$, and a mass of $m = 1\text{~g}$. What does the motion of the charge look like?
 
@@ -39,7 +39,7 @@ Moving Charge in a Magnetic Field
 
 ## Solution
 
-We can recall an [earlier example](/empcubed/examples/week10_radius_motion_b_field/) where we had to find the motion of a charge in a magnetic field. Based on that example, if our particle were moving in the $\widehat{x}$ direction, then the $\widehat{y}$-directed magnetic field would cause circular motion in the $xz$-plane. The radius of this motion would be, as before,
+We can recall an [earlier example](/examples/week10_radius_motion_b_field/) where we had to find the motion of a charge in a magnetic field. Based on that example, if our particle were moving in the $\widehat{x}$ direction, then the $\widehat{y}$-directed magnetic field would cause circular motion in the $xz$-plane. The radius of this motion would be, as before,
 
 $$
 r = \frac{mv}{qB}

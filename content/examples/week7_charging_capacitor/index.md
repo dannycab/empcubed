@@ -3,7 +3,7 @@ title: 'Looking at a Capacitor as it''s Charging'
 weight: 43
 ---
 
-*[Return to Charging and Discharging Capacitors](/empcubed/notes/week-08-capacitors-combinations/cap_charging/)*
+*[Return to Charging and Discharging Capacitors](/notes/week-08-capacitors-combinations/cap_charging/)*
 
 Suppose you have a parallel plate capacitor that is disconnected from any power source and is discharged. At time $t = 0$, the capacitor is connected to a battery. Sketch the graphs of current ($I$) in the wire, charge ($Q$) on the positive plate, and voltage ($\Delta V$) across the capacitor over time.
 

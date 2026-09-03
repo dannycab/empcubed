@@ -42,7 +42,7 @@ There are a few simplifying approximations and assumptions we should make before
 
 ## Solution
 
-In order to find electric flux, we must first find $\overset{\rightarrow}{A}$. Remember in the [notes on flux](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux#area_as_a_vector) that area can be a vector when we define it as a [cross product](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_multiplication) of width and length vectors. Here, we can use the following for width and length, with width being the top of the rectangle, and pointing out of the page, and length being the longer side, and pointing at an upwards angle:
+In order to find electric flux, we must first find $\overset{\rightarrow}{A}$. Remember in the [notes on flux](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux#area_as_a_vector) that area can be a vector when we define it as a [cross product](/notes/week-01-charges-field-potential/math_review/#vector_multiplication) of width and length vectors. Here, we can use the following for width and length, with width being the top of the rectangle, and pointing out of the page, and length being the longer side, and pointing at an upwards angle:
 
 $$
 \overset{\rightarrow}{w} = 3\text{~m~}\widehat{z}

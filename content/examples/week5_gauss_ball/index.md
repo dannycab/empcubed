@@ -79,7 +79,7 @@ $$
 
 In order to take the electric field term out of the integral we must approximate our ball as a perfect sphere. Having a perfect sphere ensures all the area vectors are parallel to the electric field vectors. This also ensures that the electric field is constant through our Gaussian surface at a given radius.
 
-Notice that the above result is the same for both $r < R$ and $r > R$. Next, we need to find the total charge enclosed by the Gaussian surface. Here, it is helpful to determine the charge density in our insulator. There is helpful section in the notes on [determining charge density](/empcubed/notes/week-04-modeling-distributions-of-charge/dq/). Since our ball is uniformly charged throughout its volume, we just need to divide the total charge by the total volume. The volume charge density is then:
+Notice that the above result is the same for both $r < R$ and $r > R$. Next, we need to find the total charge enclosed by the Gaussian surface. Here, it is helpful to determine the charge density in our insulator. There is helpful section in the notes on [determining charge density](/notes/week-04-modeling-distributions-of-charge/dq/). Since our ball is uniformly charged throughout its volume, we just need to divide the total charge by the total volume. The volume charge density is then:
 
 $$
 \rho = \frac{Q_{\text{total}}}{V_{\text{total}}} = \frac{Q}{\frac{4}{3}\pi R^{3}} = \frac{3Q}{4\pi R^{3}}

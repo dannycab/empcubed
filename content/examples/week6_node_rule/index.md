@@ -3,9 +3,9 @@ title: 'Example: Application of Node Rule'
 weight: 10
 ---
 
-*[Return to current in wires](/empcubed/notes/week-06-resistors-combinations/current/)*
+*[Return to current in wires](/notes/week-06-resistors-combinations/current/)*
 
-Suppose you have the circuit below. You are given a few values: $I_{1} = 8\text{~A}$, $I_{2} = 3\text{~A}$, and $I_{3} = 4\text{~A}$. Determine all other currents in the circuit, using the [Current Node Rule](/empcubed/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire). Draw the direction of the current as well.
+Suppose you have the circuit below. You are given a few values: $I_{1} = 8\text{~A}$, $I_{2} = 3\text{~A}$, and $I_{3} = 4\text{~A}$. Determine all other currents in the circuit, using the [Current Node Rule](/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire). Draw the direction of the current as well.
 
 <img src="./media/rId11.png" style="width:3.125in;height:3.16667in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />
 

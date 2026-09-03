@@ -24,7 +24,7 @@ From this statement of energy conservation, this would tell us that any energy p
 
 ## Energy per unit charge: Electric Potential
 
-We could also consider what is happening to the energy of a single electron as it makes a complete trip around the circuit. The energy gained by the electron as it is transported across the mechanical battery is dissipated by the collisions the electron has as it moves around the wire, particularly with the positive nuclei in the wire. While this is certainly true, it becomes cumbersome to think about every single electron that is moving around the circuit. Instead, we will often think about energy in circuits in terms of the energy per charge that is moving around the circuit. [As we talked about before](/empcubed/notes/week-03-electric-force-energy/pc_energy/#general_relationship_-_energy_and_potential), **electric potential *is* the energy per charge**, which is something that you have been working with over the last few weeks. So rather than talk about changes in energy around the circuit, we will generally be talking about changes in electric potential around the circuit.
+We could also consider what is happening to the energy of a single electron as it makes a complete trip around the circuit. The energy gained by the electron as it is transported across the mechanical battery is dissipated by the collisions the electron has as it moves around the wire, particularly with the positive nuclei in the wire. While this is certainly true, it becomes cumbersome to think about every single electron that is moving around the circuit. Instead, we will often think about energy in circuits in terms of the energy per charge that is moving around the circuit. [As we talked about before](/notes/week-03-electric-force-energy/pc_energy/#general_relationship_-_energy_and_potential), **electric potential *is* the energy per charge**, which is something that you have been working with over the last few weeks. So rather than talk about changes in energy around the circuit, we will generally be talking about changes in electric potential around the circuit.
 
 This means we can rewrite our energy conservation statement in terms of the energy per charge instead. This is called ***The Loop Rule*** or sometimes Kirchhoff's Loop Rule. This Loop Rule says that if you follow a complete, round-trip path in a circuit, the total change in electric potential across all of the circuit elements (i.e., batteries, wires, resistors, capacitors) should be zero.
 
@@ -32,7 +32,7 @@ $$
 \Delta V_{1} + \Delta V_{2} + \Delta V_{3} + ... = 0
 $$
 
-*We will refer back to the Loop Rule and the [Current Node Rule](/empcubed/notes/week-06-resistors-combinations/current/) frequently in circuits as they are the way we talk about energy conservation and charge conservation in circuits.*
+*We will refer back to the Loop Rule and the [Current Node Rule](/notes/week-06-resistors-combinations/current/) frequently in circuits as they are the way we talk about energy conservation and charge conservation in circuits.*
 
 ## Power in Circuits
 
@@ -58,7 +58,7 @@ Note we are using conventional current here, not the electron current.
 
 ## Examples
 
-- [Changing the Dimensions of a Wire](/empcubed/examples/week7_wire_dimensions/)
+- [Changing the Dimensions of a Wire](/examples/week7_wire_dimensions/)
   - Example Video: Changing the Dimensions of a Wire
 
 {{< youtube uRIzyLqRtRU >}}

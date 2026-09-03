@@ -21,7 +21,7 @@ $$
 i = nAv_{avg}
 $$
 
-Electron density ($n$) is a property of the material, which represents the number of electrons per volume of the wire that are free to move. For example, copper has a high electron density ($8.4 \cdot 10^{28}\frac{electrons}{m^{3}}$), which is part of what makes copper an ideal conductor. Electron density is typically a number that you can look up (online or in a table) for a given material. The cross-sectional area ($A$) depends on what kind of wire you have, but will typically be the area of a circle (in the case of a cylindrical wire). [The next page of notes](/empcubed/notes/week-06-resistors-combinations/current/) will go into more details about how we find the average speed of the electrons ($v$) in the wire.
+Electron density ($n$) is a property of the material, which represents the number of electrons per volume of the wire that are free to move. For example, copper has a high electron density ($8.4 \cdot 10^{28}\frac{electrons}{m^{3}}$), which is part of what makes copper an ideal conductor. Electron density is typically a number that you can look up (online or in a table) for a given material. The cross-sectional area ($A$) depends on what kind of wire you have, but will typically be the area of a circle (in the case of a cylindrical wire). [The next page of notes](/notes/week-06-resistors-combinations/current/) will go into more details about how we find the average speed of the electrons ($v$) in the wire.
 
 If we check the units of this equation we see that:
 

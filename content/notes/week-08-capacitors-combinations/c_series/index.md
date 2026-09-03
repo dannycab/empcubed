@@ -80,7 +80,7 @@ Thus, to combine capacitors in series, you take the inverse sum of the capacitor
 
 ## Examples
 
-- [Example: Capacitors in Series](/empcubed/examples/week8_cap_series/)
+- [Example: Capacitors in Series](/examples/week8_cap_series/)
   - Video Example: Capacitors in Series
 
 {{< youtube ddEKjsRSmwI >}}

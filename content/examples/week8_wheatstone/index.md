@@ -3,7 +3,7 @@ title: 'The Wheatstone Bridge'
 weight: 55
 ---
 
-*[Return to Larger Combinations of Resistors and Capacitors notes](/empcubed/notes/week-07-combinations-part-2/combinations/)*
+*[Return to Larger Combinations of Resistors and Capacitors notes](/notes/week-07-combinations-part-2/combinations/)*
 
 Suppose you have the following circuit – it is similar to a well known circuit called [a Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge). Resistors are labeled 1 through 4 for convenience of reference, and the fifth element is a light bulb, which also has some resistance. If any current at all flows through the light bulb, it will glow. You know $R_{1} = 150\Omega$, $R_{2} = 60\Omega$, and $R_{3}$ is variable, meaning you can choose its resistance. **Part A:** You find that when $R_{3} = 250\Omega$, the light bulb is off. What is $R_{4}$? **Part B:** Suppose we set $R_{3} = 500\Omega$, so that the light bulb glows. We also have the new information that $\Delta V_{\text{bat}} = 20\text{~V}$, and $\Delta V_{3} = 15\text{~V}$. Which direction does conventional current flow through the light bulb? What is the voltage across the light bulb?
 
@@ -34,19 +34,19 @@ Circuit with Wheatstone bridge
 
 ### Representations
 
-- We represent [Ohm's Law](/empcubed/notes/week-06-resistors-combinations/resistivity/#resistance) as
+- We represent [Ohm's Law](/notes/week-06-resistors-combinations/resistivity/#resistance) as
 
 $$
 \Delta V = IR
 $$
 
-- We represent the [Loop Rule](/empcubed/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
+- We represent the [Loop Rule](/notes/week-06-resistors-combinations/r_energy/#energy_around_the_circuit) (for potential difference within a closed loop) as
 
 $$
 \Delta V_{1} + \Delta V_{2} + \Delta V_{3} + \ldots
 $$
 
-- We represent the [Node Rule](/empcubed/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) (for current through a point in the circuit) as
+- We represent the [Node Rule](/notes/week-06-resistors-combinations/current/#current_in_different_parts_of_the_wire) (for current through a point in the circuit) as
 
 $$
 I_{\text{in}} = I_{\text{out}}

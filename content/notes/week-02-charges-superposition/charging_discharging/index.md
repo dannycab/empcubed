@@ -3,7 +3,7 @@ title: 'Charging and Discharging'
 weight: 2
 ---
 
-Using our [microscopic model of the atom](/empcubed/notes/week-02-charges-superposition/charge_and_matter/), we can now talk about how objects become charged (called charging) and how they return to being neutral (often called discharging). These notes will discuss how these processes occur and how they are different for insulators and conductors.
+Using our [microscopic model of the atom](/notes/week-02-charges-superposition/charge_and_matter/), we can now talk about how objects become charged (called charging) and how they return to being neutral (often called discharging). These notes will discuss how these processes occur and how they are different for insulators and conductors.
 
 ## Charging
 
@@ -47,6 +47,6 @@ From the calculation side, dealing with discharging objects is dependent on time
 
 ## Examples
 
-[Attempting to Charge Insulators by Induction](/empcubed/examples/week2_conducting_insulating_balls/)
+[Attempting to Charge Insulators by Induction](/examples/week2_conducting_insulating_balls/)
 
 [Demonstration of charging by induction](https://www.youtube.com/watch?v=cMM6hZiWnig)

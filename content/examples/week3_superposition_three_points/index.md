@@ -3,7 +3,7 @@ title: 'Example: Superposition with Three Point Charges'
 weight: 36
 ---
 
-*[Return to superposition](/empcubed/notes/week-02-charges-superposition/superposition/)*
+*[Return to superposition](/notes/week-02-charges-superposition/superposition/)*
 
 Suppose we have a distribution of point charges in a plane near a point $P$. There are three point charges: Charge 1 with charge $- Q$, a distance $2R$ to the left of $P$; Charge 2 with charge $Q$, a distance $R$ above $P$; and Charge 3 with charge $Q$, a distance $2R$ to the right of $P$. Find the electric potential and the electric field at the point $P$.
 
@@ -68,7 +68,7 @@ Now, we can find ${\overset{\rightarrow}{E}}_{1}$ and $V_{1}$. Before we show th
 
 ### Assumption
 
-The electric potential infinitely far away from $P$ is $0\text{~V}$. Read [here](/empcubed/notes/week-02-charges-superposition/superposition/#superposition_of_electric_potential) for why this is important.
+The electric potential infinitely far away from $P$ is $0\text{~V}$. Read [here](/notes/week-02-charges-superposition/superposition/#superposition_of_electric_potential) for why this is important.
 
 Now, we are ready to find the contributions from Charge 1 on the electric field and electric potential.
 

@@ -42,7 +42,7 @@ where $\theta$ is the angle between the magnetic field and the area vector. This
 
 Flux through a vertical plane (where dA is perpendicular to the magnetic field)
 
-(As a side note, this technically gives you the magnitude of the flux. Flux can be positive or negative and that depends on how the area vector points relative to the magnetic field vectors. This is discussed further in the [page of notes on directions](/empcubed/notes/week-13-em-so-far-flux-shortcuts/induced_current/).)
+(As a side note, this technically gives you the magnitude of the flux. Flux can be positive or negative and that depends on how the area vector points relative to the magnetic field vectors. This is discussed further in the [page of notes on directions](/notes/week-13-em-so-far-flux-shortcuts/induced_current/).)
 
 In writing the magnetic flux above, we have made an *assumption that the area vector points in the same direction everywhere on the surface* (or rather that the area we are considering is flat rather than curved). If instead the surface is curved we would need to write the magnetic flux in terms of a very small area and then add the flux through each of those small areas together. Mathematically, we would do this with an integral:
 
@@ -70,6 +70,6 @@ There are many ways that the magnetic flux could be changing - the size of the m
 
 ### Examples
 
-[Review of Flux through a Loop](/empcubed/examples/week12_flux_examples/)
+[Review of Flux through a Loop](/examples/week12_flux_examples/)
 
-[Flux Through a Changing, Rotating Shape](/empcubed/examples/week12_changing_shape/)
+[Flux Through a Changing, Rotating Shape](/examples/week12_changing_shape/)

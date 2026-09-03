@@ -3,7 +3,7 @@ title: 'Decreasing Flux'
 weight: 7
 ---
 
-*[Return to The Curly Electric Field and Induced Current notes](/empcubed/notes/week-13-em-so-far-flux-shortcuts/ind_i/)*
+*[Return to The Curly Electric Field and Induced Current notes](/notes/week-13-em-so-far-flux-shortcuts/ind_i/)*
 
 Say we have a bar that is sliding down a pair of connected conductive rails (so current is free to flow through the loop created by the bar and rails), which is sitting in a magnetic field that points into the page. If the bar slides along the rails to decrease the area of the loop, what happens?
 

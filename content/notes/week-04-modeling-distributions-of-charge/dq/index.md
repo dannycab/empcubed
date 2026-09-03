@@ -4,7 +4,7 @@ weight: 2
 textbook_ref: 'Sections 15.1-15.2 in Matter and Interactions (4th edition)'
 ---
 
-[We've talked about](/empcubed/notes/week-04-modeling-distributions-of-charge/line_fields/) how we can calculate the electric field or electric potential for any shape of charge by breaking it into little pieces of charge, calculating the field from each piece of charge, then adding all of those little fields together (using [superposition](/empcubed/notes/week-02-charges-superposition/superposition/)) to get the total field. These notes are going to talk about how we find the dQ for various shapes of charge and how we can write the $\overset{\rightarrow}{r}$ so that it applies for all of the dQ chunks.
+[We've talked about](/notes/week-04-modeling-distributions-of-charge/line_fields/) how we can calculate the electric field or electric potential for any shape of charge by breaking it into little pieces of charge, calculating the field from each piece of charge, then adding all of those little fields together (using [superposition](/notes/week-02-charges-superposition/superposition/)) to get the total field. These notes are going to talk about how we find the dQ for various shapes of charge and how we can write the $\overset{\rightarrow}{r}$ so that it applies for all of the dQ chunks.
 
 {{< youtube 2HuJ0GiDFoM >}}
 
@@ -122,8 +122,8 @@ This equation for the $\overset{\rightarrow}{r}$ works for any spot along the pi
 
 ## Examples
 
-- [A Tilted Segment of Charge](/empcubed/examples/week4_tilted_segment/)
-- [Two Segments of Charge](/empcubed/examples/week4_two_segments/)
+- [A Tilted Segment of Charge](/examples/week4_tilted_segment/)
+- [Two Segments of Charge](/examples/week4_two_segments/)
   - Video Example: Two Segments of Charge
 
 {{< youtube BiqTwMrD774 >}}
