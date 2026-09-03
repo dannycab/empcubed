@@ -4,7 +4,7 @@ weight: 2
 textbook_ref: 'Sections 17.5 and 18.2 in Matter and Interactions (4th edition)'
 ---
 
-In the last few pages of notes, we established that when connected to a battery there are surface charges in the wire that [create a constant electric field through the wire](/notes/week-05-moving-charges-batteries/q_in_wires/). Because [electric force is directly proportional to the electric field](/notes/week-03-electric-force-energy/pc_force/) ($\overset{\rightarrow}{F} = q\overset{\rightarrow}{E}$), the electric field in the wire pushes the electrons from the negative plate of the battery to the positive plate of the battery causing an [electron current](/notes/week-06-resistors-combinations/defining_current/) through the wire. Rather than focusing on the surface charges, these notes will focus on describing the electron current that occurs in the wire and how we find the average speed of those electrons.
+In the last few pages of notes, we established that when connected to a battery there are surface charges in the wire that [create a constant electric field through the wire](/empcubed/notes/week-05-moving-charges-batteries/q_in_wires/). Because [electric force is directly proportional to the electric field](/empcubed/notes/week-03-electric-force-energy/pc_force/) ($\overset{\rightarrow}{F} = q\overset{\rightarrow}{E}$), the electric field in the wire pushes the electrons from the negative plate of the battery to the positive plate of the battery causing an [electron current](/empcubed/notes/week-06-resistors-combinations/defining_current/) through the wire. Rather than focusing on the surface charges, these notes will focus on describing the electron current that occurs in the wire and how we find the average speed of those electrons.
 
 {{< youtube 3D60Vme_tyg >}}
 
@@ -12,7 +12,7 @@ In the last few pages of notes, we established that when connected to a battery 
 
 Given what you know about the electric field in the wire, how would you expect the electron current to compare in different parts of the wire? If the electric field is constant along the wire, each electron would feel a constant force along the wire. For every electron that leaves the negative plate of the battery, there is one returning to the positive plate of the battery. Thus, **at every point along the wire, the electron current is the same**.
 
-What if you added a light bulb to the circuit, how would you expect the electron current to compare? Do the electrons get “used up” in the light bulb? It turns out that electrons transfer electric energy into heat and light at the light bulb (we will talk about this more [next week](/notes/week-06-resistors-combinations/r_energy/)), but **the electrons are not destroyed or used up**. We can justify this using the [conservation of charge](/notes/week-01-charges-field-potential/charge/). A light bulb does not emit electrons (only light/heat), so this means that the amount of charge going into the light bulb must equal the amount of charge coming out of the light bulb.
+What if you added a light bulb to the circuit, how would you expect the electron current to compare? Do the electrons get “used up” in the light bulb? It turns out that electrons transfer electric energy into heat and light at the light bulb (we will talk about this more [next week](/empcubed/notes/week-06-resistors-combinations/r_energy/)), but **the electrons are not destroyed or used up**. We can justify this using the [conservation of charge](/empcubed/notes/week-01-charges-field-potential/charge/). A light bulb does not emit electrons (only light/heat), so this means that the amount of charge going into the light bulb must equal the amount of charge coming out of the light bulb.
 
 *In steady state* we can rewrite the conservation of charge in terms of the electron current, called the “Current Node Rule”:
 
@@ -32,7 +32,7 @@ $$
 
 ## Why do we need an electric field?
 
-We have already established that there is an [electric field from the surface charges](/notes/week-05-moving-charges-batteries/q_in_wires/) that drives the electron current. But why do we need an electric field in the first place? The electrons in the electron current are constantly interacting with the positive nuclei in the wire, both through electrical interactions (electrons are attracted to the positive nuclei) and through contact interactions (electrons “bouncing off” the positive nuclei). Because of these interactions, the electrons are constantly losing energy to the many positive nuclei in the wire (which increases the thermal motion of the atoms causing the wire to heat up). Without the electric field from the surface charges, the electrons would quickly lose all of their energy and the current flow would stop. The electric field is needed to keep the electron current flowing through the wire.
+We have already established that there is an [electric field from the surface charges](/empcubed/notes/week-05-moving-charges-batteries/q_in_wires/) that drives the electron current. But why do we need an electric field in the first place? The electrons in the electron current are constantly interacting with the positive nuclei in the wire, both through electrical interactions (electrons are attracted to the positive nuclei) and through contact interactions (electrons “bouncing off” the positive nuclei). Because of these interactions, the electrons are constantly losing energy to the many positive nuclei in the wire (which increases the thermal motion of the atoms causing the wire to heat up). Without the electric field from the surface charges, the electrons would quickly lose all of their energy and the current flow would stop. The electric field is needed to keep the electron current flowing through the wire.
 
 ## Drift speed in wire
 
@@ -92,7 +92,7 @@ $$
 
 .
 
-Likewise, we can combine this with the [expression for electron current](/notes/week-06-resistors-combinations/defining_current/) $i = nAv_{avg}$ to get:
+Likewise, we can combine this with the [expression for electron current](/empcubed/notes/week-06-resistors-combinations/defining_current/) $i = nAv_{avg}$ to get:
 
 $$
 i = nAuE

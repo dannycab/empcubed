@@ -24,7 +24,7 @@ $$
 
 where $dq$ is the small amount of charge in the little piece of the wire, $\overset{\rightarrow}{v}$ is the speed with which that small bit of charge is moving (units of $\frac{m}{s}$, and $\overset{\rightarrow}{B}$ is the external magnetic field (units of $T$).
 
-However, especially for wires, it is often more useful to think about the current in that piece rather than the individual moving charges. So to rewrite this in terms of current, we start by rewriting the velocity in terms of the length and time ([just like we did before](/notes/week-10-magnetic-field-of-a-wire/b_current/)) $\overset{\rightarrow}{v} = \frac{d\overset{\rightarrow}{l}}{dt}$. So we get the force from the small piece of the wire to be:
+However, especially for wires, it is often more useful to think about the current in that piece rather than the individual moving charges. So to rewrite this in terms of current, we start by rewriting the velocity in terms of the length and time ([just like we did before](/empcubed/notes/week-10-magnetic-field-of-a-wire/b_current/)) $\overset{\rightarrow}{v} = \frac{d\overset{\rightarrow}{l}}{dt}$. So we get the force from the small piece of the wire to be:
 
 $$
 d\overset{\rightarrow}{F} = dq\frac{d\overset{\rightarrow}{l}}{dt} \times \overset{\rightarrow}{B}
@@ -56,7 +56,7 @@ $$
 
 where I is current in the little piece of the wire, $d\overset{\rightarrow}{l}$ is the little bit of length that you are interested in (and it is a vector so it points in the direction of the current), and $\overset{\rightarrow}{B}$ is the external magnetic field that the wire is in.
 
-Note: that the force is still given by the cross product between the $d\overset{\rightarrow}{l}$ and the $\overset{\rightarrow}{B}$, so the force on the piece of wire is *still* perpendicular to both the direction of the moving charges ($d\overset{\rightarrow}{l}$) and perpendicular to the magnetic field ($\overset{\rightarrow}{B}$). This means we can still use the [right hand rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/) to figure out the direction of the $d\overset{\rightarrow}{F}$.
+Note: that the force is still given by the cross product between the $d\overset{\rightarrow}{l}$ and the $\overset{\rightarrow}{B}$, so the force on the piece of wire is *still* perpendicular to both the direction of the moving charges ($d\overset{\rightarrow}{l}$) and perpendicular to the magnetic field ($\overset{\rightarrow}{B}$). This means we can still use the [right hand rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/) to figure out the direction of the $d\overset{\rightarrow}{F}$.
 
 ## Force on the whole wire
 
@@ -74,7 +74,7 @@ $$
 {\overset{\rightarrow}{F}}_{wire} = I\int_{l_{i}}^{l_{f}}d\overset{\rightarrow}{l} \times \overset{\rightarrow}{B}
 $$
 
-Next we want to [simplify the cross product](/notes/week-01-charges-field-potential/math_review/) in terms of the magnitude of the two vectors and the angle between them ($\theta$); however, this will give us only the magnitude of the magnetic force, rather than the magnitude and direciton.
+Next we want to [simplify the cross product](/empcubed/notes/week-01-charges-field-potential/math_review/) in terms of the magnitude of the two vectors and the angle between them ($\theta$); however, this will give us only the magnitude of the magnetic force, rather than the magnitude and direciton.
 
 $$
 |{\overset{\rightarrow}{F}}_{wire}| = I\int_{l_{i}}^{l_{f}}B \cdot dlsin(\theta)
@@ -98,7 +98,7 @@ Use the right hand rule to determine the direction of the magnetic force F
 
 where |$\overset{\rightarrow}{F}_{wire}$| is the magnitude of the force on the whole wire, $I$ is the current through the wire, $B$ is the *external* magnetic field, $L$ is the length of the wire, and $\theta$ is the angle between the magnetic field and the length of the wire. *Remember though that this equation is only good for straight wires with constant current that are in a constant magnetic field - because of all the assumptions that we made to get to this point.*
 
-To find the direction of the magnetic force, we will need to use the [right hand rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/). Just like we did with the moving charge, you point your fingers in the direction of the moving charges (or rather in the direction of the current/$d\overset{\rightarrow}{l}$), then curl your fingers in the direction of the external magnetic field. Your thumb then points in the direction of the force.
+To find the direction of the magnetic force, we will need to use the [right hand rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/). Just like we did with the moving charge, you point your fingers in the direction of the moving charges (or rather in the direction of the current/$d\overset{\rightarrow}{l}$), then curl your fingers in the direction of the external magnetic field. Your thumb then points in the direction of the force.
 
 For example, if you have a wire with current going in the $+\hat{y}$ direction that is placed in a magnetic field that points out of the page, then the force on the wire would point down (in the $+\hat{x}$ direction).
 

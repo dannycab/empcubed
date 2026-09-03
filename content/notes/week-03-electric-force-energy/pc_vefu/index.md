@@ -3,7 +3,7 @@ title: 'Relationships between Force, Field, Potential, and Energy'
 weight: 5
 ---
 
-You may have noticed in reading about [electric field](/notes/week-01-charges-field-potential/pc_efield/), [electric potential](/notes/week-01-charges-field-potential/pc_potential/), [electric force](/notes/week-03-electric-force-energy/pc_force/), and [electric potential energy](/notes/week-03-electric-force-energy/pc_energy/) that these quantities are very similar and follow very similar patterns. These notes will summarize the relationships between the four quantities, highlight their similarities and differences, and revisit the relationships between the four quantities for point charges.
+You may have noticed in reading about [electric field](/empcubed/notes/week-01-charges-field-potential/pc_efield/), [electric potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/), [electric force](/empcubed/notes/week-03-electric-force-energy/pc_force/), and [electric potential energy](/empcubed/notes/week-03-electric-force-energy/pc_energy/) that these quantities are very similar and follow very similar patterns. These notes will summarize the relationships between the four quantities, highlight their similarities and differences, and revisit the relationships between the four quantities for point charges.
 
 {{< youtube Ie9E6sGECek >}}
 

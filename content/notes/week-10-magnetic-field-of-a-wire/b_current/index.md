@@ -4,7 +4,7 @@ weight: 2
 textbook_ref: 'Sections 17.2 and 17.6-17.8 in Matter and Interactions (4th edition)'
 ---
 
-Now that we have talked about a single moving charge and permanent magnets, the next source of magnetic fields that we are going to consider is currents (either comprised of electrons or some other charged particle). This builds on what we learned about [moving charges and how they created magnetic fields](/notes/week-09-magnetic-field-moving-point-charge/moving_q/) - since a current is simply many moving charges through a wire. When there are many charged particles that are moving, we could calculate the net magnetic field at a point from each individual charge using superposition. However, this gets tedious very quickly. Instead, we will use an integral to add up over all the charges and the definition of [current](/notes/week-05-moving-charges-batteries/q_in_wires/#conventional_current_vs_electron_current) to re-write the Biot-Savart Law in terms of current and length, rather than charge and velocity. This integral description of the magnetic field is useful when the appropriate anti-derivative is known, but for some situations, we might have to resort to numerical integration (i.e., adding up the contributions of each segment of wire).
+Now that we have talked about a single moving charge and permanent magnets, the next source of magnetic fields that we are going to consider is currents (either comprised of electrons or some other charged particle). This builds on what we learned about [moving charges and how they created magnetic fields](/empcubed/notes/week-09-magnetic-field-moving-point-charge/moving_q/) - since a current is simply many moving charges through a wire. When there are many charged particles that are moving, we could calculate the net magnetic field at a point from each individual charge using superposition. However, this gets tedious very quickly. Instead, we will use an integral to add up over all the charges and the definition of [current](/empcubed/notes/week-05-moving-charges-batteries/q_in_wires/#conventional_current_vs_electron_current) to re-write the Biot-Savart Law in terms of current and length, rather than charge and velocity. This integral description of the magnetic field is useful when the appropriate anti-derivative is known, but for some situations, we might have to resort to numerical integration (i.e., adding up the contributions of each segment of wire).
 
 {{< youtube 4cIpX1HK7GM >}}
 
@@ -14,7 +14,7 @@ Now that we have talked about a single moving charge and permanent magnets, the 
 
 Magnetic field on point P from many moving charges in a wire
 
-If we consider a straight wire with a steady current, there would be many moving charges everywhere in wire that would all contribute to the magnetic field outside of the wire. If we take a “snapshot” of what the wire would look like at any given time, there would be [charges moving somewhat haphazardly](/notes/week-06-resistors-combinations/current/) through the wire. We continue to use the [Drude model](https://en.wikipedia.org/wiki/Drude_model) for these charges and *assume that we can model the wire with each charge moving with some average constant velocity in the wire*. The magnetic field at a point would then be the sum of the magnetic fields from each moving charge, each of which would be a different distance away from Point P:
+If we consider a straight wire with a steady current, there would be many moving charges everywhere in wire that would all contribute to the magnetic field outside of the wire. If we take a “snapshot” of what the wire would look like at any given time, there would be [charges moving somewhat haphazardly](/empcubed/notes/week-06-resistors-combinations/current/) through the wire. We continue to use the [Drude model](https://en.wikipedia.org/wiki/Drude_model) for these charges and *assume that we can model the wire with each charge moving with some average constant velocity in the wire*. The magnetic field at a point would then be the sum of the magnetic fields from each moving charge, each of which would be a different distance away from Point P:
 
 $$
 {\overset{\rightarrow}{B}}_{tot} = \frac{\mu_{0}}{4\pi}\frac{q_{1}\overset{\rightarrow}{v} \times \widehat{r_{1}}}{r_{1}^{2}} + \frac{\mu_{0}}{4\pi}\frac{q_{2}\overset{\rightarrow}{v} \times \widehat{r_{2}}}{r_{2}^{2}} + \frac{\mu_{0}}{4\pi}\frac{q_{3}\overset{\rightarrow}{v} \times \widehat{r_{3}}}{r_{3}^{2}} + ... = \Sigma_{i}\frac{\mu_{0}}{4\pi}\frac{q_{i}\overset{\rightarrow}{v} \times \widehat{r_{i}}}{r_{i}^{2}}
@@ -46,7 +46,7 @@ $$
 {\overset{\rightarrow}{B}}_{tot} = \int\frac{\mu_{0}}{4\pi}\frac{\frac{dq}{dt} \cdot d\overset{\rightarrow}{l} \times \widehat{r}}{r^{2}}
 $$
 
-We can now use the definition of [current](/notes/week-05-moving-charges-batteries/q_in_wires/#conventional_current_vs_electron_current) as the amount of charge passing a point per second ($I = \frac{dq}{dt}$) to give the Biot-Savart Law in terms of current instead of charge:
+We can now use the definition of [current](/empcubed/notes/week-05-moving-charges-batteries/q_in_wires/#conventional_current_vs_electron_current) as the amount of charge passing a point per second ($I = \frac{dq}{dt}$) to give the Biot-Savart Law in terms of current instead of charge:
 
 $$
 {\overset{\rightarrow}{B}}_{tot} = \int\frac{\mu_{0}}{4\pi}\frac{I \cdot d\overset{\rightarrow}{l} \times \widehat{r}}{r^{2}}
@@ -90,7 +90,7 @@ $$
 d\overset{\rightarrow}{l} = \langle 0, - dy,0\rangle
 $$
 
-Then we can write the $\overset{\rightarrow}{r}$ as the separation vector that points from the source (the little bit of $d\overset{\rightarrow}{l}$) to the observation point. This works exactly the same way as [before with electric field](/notes/week-04-modeling-distributions-of-charge/dq/#limits_on_the_integral). Using $\overset{\rightarrow}{r} = {\overset{\rightarrow}{r}}_{obs} - {\overset{\rightarrow}{r}}_{source}$, we can write ${\overset{\rightarrow}{r}}_{obs}$ and ${\overset{\rightarrow}{r}}_{source}$ as
+Then we can write the $\overset{\rightarrow}{r}$ as the separation vector that points from the source (the little bit of $d\overset{\rightarrow}{l}$) to the observation point. This works exactly the same way as [before with electric field](/empcubed/notes/week-04-modeling-distributions-of-charge/dq/#limits_on_the_integral). Using $\overset{\rightarrow}{r} = {\overset{\rightarrow}{r}}_{obs} - {\overset{\rightarrow}{r}}_{source}$, we can write ${\overset{\rightarrow}{r}}_{obs}$ and ${\overset{\rightarrow}{r}}_{source}$ as
 
 $$
 {\overset{\rightarrow}{r}}_{obs} = \langle s,0,0\rangle
@@ -140,7 +140,7 @@ $$
 {\overset{\rightarrow}{B}}_{longwire} = \frac{\mu_{0} \cdot I}{2\pi s}\widehat{z}
 $$
 
-Now we can check the direction of our solution using the [right hand rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/). If you point your fingers on your right hand in the direction of $d\overset{\rightarrow}{l}$ (aka down) and curl them in the direction of the $\overset{\rightarrow}{r}$, your thumb will be pointing out of the page, which is positive $\widehat{z}$. If P was on the left of the wire instead of the right, we would get the magnetic field pointing *into* the page (or a $- \widehat{z}$) rather than out of the page. Try to confirm this using the right hand rule.
+Now we can check the direction of our solution using the [right hand rule](/empcubed/notes/week-09-magnetic-field-moving-point-charge/rhr/). If you point your fingers on your right hand in the direction of $d\overset{\rightarrow}{l}$ (aka down) and curl them in the direction of the $\overset{\rightarrow}{r}$, your thumb will be pointing out of the page, which is positive $\widehat{z}$. If P was on the left of the wire instead of the right, we would get the magnetic field pointing *into* the page (or a $- \widehat{z}$) rather than out of the page. Try to confirm this using the right hand rule.
 
 Note *this equation is only true for an infinitely long, straight wire with a constant current* because of the assumptions we made when setting up the problem. Although, it can work reasonably well as a model for a wire that is long compared to the distance from the wire at which you want to know the magnetic field. The direction of the magnetic field is inherently *assuming a positively charge current because I is the conventional current*.
 

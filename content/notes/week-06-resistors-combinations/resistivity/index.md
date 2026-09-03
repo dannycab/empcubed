@@ -54,7 +54,7 @@ This equation then says that for a given electric field, materials with higher c
 
 ## Resistance
 
-[Before when we talked about resistors](/notes/week-06-resistors-combinations/resistors/), we said that a resistor was a section or part of the circuit where the passage of electrons requires more energy (conventionally, that it resists the passage of electrons more than other parts of the circuit). We found there to be a larger electric field, a larger drift velocity, and a larger surface charge gradient over the resistor. **Resistance** is a way to quantify how much a resistor resists the passage of electrons based off the properties of the material (electron mobility and electron density) and the shape of the resistor.
+[Before when we talked about resistors](/empcubed/notes/week-06-resistors-combinations/resistors/), we said that a resistor was a section or part of the circuit where the passage of electrons requires more energy (conventionally, that it resists the passage of electrons more than other parts of the circuit). We found there to be a larger electric field, a larger drift velocity, and a larger surface charge gradient over the resistor. **Resistance** is a way to quantify how much a resistor resists the passage of electrons based off the properties of the material (electron mobility and electron density) and the shape of the resistor.
 
 <img src="./media/rId15.png" style="width:3.64583in;height:2.38542in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />
 

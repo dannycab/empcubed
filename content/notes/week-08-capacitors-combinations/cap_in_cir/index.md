@@ -4,7 +4,7 @@ weight: 2
 textbook_ref: 'Section 19.1 in Matter and Interactions (4th edition)'
 ---
 
-[As you read about](/notes/week-08-capacitors-combinations/cap_charging/), capacitors can be charged in a circuit and discharged through a resistor or lightbulb; thus, providing energy or powering a lightbulb for very short amounts of time. It turns out that this is a very useful circuit element and can be used for a variety of purposes in circuits. For example, a capacitor is used to provide power for a camera flash, provides a back up power supply for a computer (so it has enough power to properly shut down if it runs out of battery), and filters out background noise from a video or sound recording. However, when we start to talk about capacitors in larger circuits like this, it becomes difficult to talk about what is happening to every electron around the circuit or the individual electric fields. Instead, we define macroscopic measures like potential difference and capacitance to talk about the role that these capacitors play in circuits.
+[As you read about](/empcubed/notes/week-08-capacitors-combinations/cap_charging/), capacitors can be charged in a circuit and discharged through a resistor or lightbulb; thus, providing energy or powering a lightbulb for very short amounts of time. It turns out that this is a very useful circuit element and can be used for a variety of purposes in circuits. For example, a capacitor is used to provide power for a camera flash, provides a back up power supply for a computer (so it has enough power to properly shut down if it runs out of battery), and filters out background noise from a video or sound recording. However, when we start to talk about capacitors in larger circuits like this, it becomes difficult to talk about what is happening to every electron around the circuit or the individual electric fields. Instead, we define macroscopic measures like potential difference and capacitance to talk about the role that these capacitors play in circuits.
 
 {{< youtube r5RGwXMj_ps >}}
 
@@ -20,7 +20,7 @@ The units of capacitance are then **coulombs/volt (C/V), which is called a farad
 
 ## Finding Capacitance
 
-We can actually find an expression for capacitance specifically for parallel plates using the [relationship between electric field and electric potential](/notes/week-03-electric-force-energy/pc_vefu/) and the definition of capacitance above. *Assume we start with a pair of parallel plates*, which have an area $A$, a charge of $+ / - Q$, and are separated by a distance $d$.
+We can actually find an expression for capacitance specifically for parallel plates using the [relationship between electric field and electric potential](/empcubed/notes/week-03-electric-force-energy/pc_vefu/) and the definition of capacitance above. *Assume we start with a pair of parallel plates*, which have an area $A$, a charge of $+ / - Q$, and are separated by a distance $d$.
 
 <img src="./media/rId17.png" style="width:3.125in;height:2.98958in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />
 
@@ -40,7 +40,7 @@ $$
 \overset{\rightarrow}{E} = - \frac{\sigma}{\epsilon_{0}}\widehat{y}
 $$
 
-Now that we have the electric field between the two plates, we can find the potential difference between the plates [using the relationship between electric field and electric potential](/notes/week-01-charges-field-potential/pc_potential/#relating_electric_potential_to_electric_field).
+Now that we have the electric field between the two plates, we can find the potential difference between the plates [using the relationship between electric field and electric potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/#relating_electric_potential_to_electric_field).
 
 $$
 \Delta V = - \int_{r_{i}}^{r_{f}}\overset{\rightarrow}{E} \cdot \overset{\rightarrow}{dr}
@@ -94,7 +94,7 @@ $$
 
 ## Dielectrics
 
-What would change about our capacitance expression if we added a dielectric insulator in between the plates? [As we talked about before](/notes/week-08-capacitors-combinations/cap_charging/), adding a dielectric allows more charge to pushed onto the plates of the capacitor for a certain voltage. If we think about that in terms of the capacitance equation $Q = C\Delta V$, this means that the proportionality constant (really the capacitance) should increase if a dielectric is added.
+What would change about our capacitance expression if we added a dielectric insulator in between the plates? [As we talked about before](/empcubed/notes/week-08-capacitors-combinations/cap_charging/), adding a dielectric allows more charge to pushed onto the plates of the capacitor for a certain voltage. If we think about that in terms of the capacitance equation $Q = C\Delta V$, this means that the proportionality constant (really the capacitance) should increase if a dielectric is added.
 
 This is generally achieved by adding a constant to the capacitance called the dielectric constant. This constant is really a “constant” as it is highly dependent on temperature and material, but [large resource tables](https://www.kabusa.com/Dilectric-Constants.pdf) exist for finding the dielectric constant of various materials at various temperatures. The dielectric constant is usually represented by a “k” and is unitless. The typical range of a dielectric constant is somewhere between 1-100. So the capacitance equation for a parallel plate capacitor with a dielectric would be given by:
 

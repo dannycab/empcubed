@@ -55,7 +55,7 @@ In this class, we are often going to use VPython to create computational models,
     separation=position2-position1  #This will give separation=vec(-1,-3,-5)
     testing=separation-4 #This will give an error
 
-- **Vector magnitude** - the “mag()” command will calculate the [magnitude of any vector](/notes/week-01-charges-field-potential/math_review/#vector_notation).
+- **Vector magnitude** - the “mag()” command will calculate the [magnitude of any vector](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_notation).
 
 <!-- -->
 
@@ -69,7 +69,7 @@ In this class, we are often going to use VPython to create computational models,
     A=7*9/3
     print(A) #This will then print out the number 21
 
-- **Dot Product** - the dot product is a way to [multiply two vectors](/notes/week-01-charges-field-potential/math_review/#vector_multiplication). Python has this command already programmed in:
+- **Dot Product** - the dot product is a way to [multiply two vectors](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_multiplication). Python has this command already programmed in:
 
 <!-- -->
 
@@ -78,7 +78,7 @@ In this class, we are often going to use VPython to create computational models,
     AB=dot(A,B)  #This will calculate (1*4)+(2*5)+(3*6)
     print(AB)  #This will print out 32
 
-- **Cross Product** - the cross product is another way to [multiply two vectors](/notes/week-01-charges-field-potential/math_review/#vector_multiplication). Python has this command already programmed in:
+- **Cross Product** - the cross product is another way to [multiply two vectors](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_multiplication). Python has this command already programmed in:
 
 <!-- -->
 

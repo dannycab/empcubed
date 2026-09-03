@@ -4,7 +4,7 @@ weight: 7
 textbook_ref: 'Section 15.9 in Matter and Interactions (4th edition)'
 ---
 
-The principle of [superposition](/notes/week-02-charges-superposition/superposition/) is an overarching and powerful tool in much of physics. It is useful well beyond the electric field as you will see with the magnetic field (and as you might see in future physics courses in quantum mechanics). The fact that the electric field obeys the principle of superposition means we can define a powerful algorithm for computing the electric field at any given location from any distribution of charge. In these notes, you will read about how you can structure code to calculate the electric field from many sources of charge (though you could apply this procedure to electric potential as well).
+The principle of [superposition](/empcubed/notes/week-02-charges-superposition/superposition/) is an overarching and powerful tool in much of physics. It is useful well beyond the electric field as you will see with the magnetic field (and as you might see in future physics courses in quantum mechanics). The fact that the electric field obeys the principle of superposition means we can define a powerful algorithm for computing the electric field at any given location from any distribution of charge. In these notes, you will read about how you can structure code to calculate the electric field from many sources of charge (though you could apply this procedure to electric potential as well).
 
 ## The Superposition Principle
 

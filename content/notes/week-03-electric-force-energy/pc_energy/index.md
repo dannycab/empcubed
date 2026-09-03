@@ -4,7 +4,7 @@ weight: 4
 textbook_ref: 'Sections 6.9 and 16.1 - 16.3 in Matter and Interactions (4th edition)'
 ---
 
-As you read about in the [electric force](/notes/week-03-electric-force-energy/pc_force/), we noted that the electric force is a conservative force. This means we can define a potential energy - **electric potential energy** in this case - using that force. These notes will talk about the general relationship between force and potential energy, walk through an example for point charges, and highlight the relationship between electric potential energy and electric potential.
+As you read about in the [electric force](/empcubed/notes/week-03-electric-force-energy/pc_force/), we noted that the electric force is a conservative force. This means we can define a potential energy - **electric potential energy** in this case - using that force. These notes will talk about the general relationship between force and potential energy, walk through an example for point charges, and highlight the relationship between electric potential energy and electric potential.
 
 {{< youtube Hus_XeYKvrM >}}
 
@@ -24,7 +24,7 @@ $$
 
 There are a few important features of this relationship:
 
-- Energy is scalar (including electric energy), so to get from the vector force we must use the [dot product](/notes/week-01-charges-field-potential/math_review/#vector_multiplication) with displacement to get energy. Dot products produce scalar quantities from two vector quantities.
+- Energy is scalar (including electric energy), so to get from the vector force we must use the [dot product](/empcubed/notes/week-01-charges-field-potential/math_review/#vector_multiplication) with displacement to get energy. Dot products produce scalar quantities from two vector quantities.
 - The electric force is **not constant**, it usually depends on $r$. This means we have to use the integral rather than just multiplying by the distance.
 - If we are integrating from some initial location to some final location, we will get a **change** in electric potential energy between the two locations (not the energy at a single place). This change in energy is the important part - it does not matter how you get from the initial to the final location (squiggly or straight path), you will get the same change in energy. This means that electric potential energy is **path independent**.
 - [Energy conservation](https://www.msuperl.org/wikis/pcubed/doku.php?id=183_notes:energy_cons) and the [work-energy theorem](/pcubed/notes/week-07-energy-transfer/work/) from mechanics still apply (and are [highly dependent on your choice of system](/pcubed/notes/week-10-internal-energy-heat/system_choice/))
@@ -92,7 +92,7 @@ $$
 \Delta U_{elec} = U_{\infty} - U_{r} = - \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}q_{2}}{r}
 $$
 
-Just as we did with the [superposition of potential](/notes/week-02-charges-superposition/superposition/), *we will often assume that $U=0$ at infinity*. You don't have to choose infinity as the location where $U=0$ but we often will because it is convenient. This assumption allows us to be consistent with [how potential is defined](/notes/week-01-charges-field-potential/pc_potential/), and it allows us to interpret a positive potential energy as repulsion and a negative potential energy as attraction. Using this assumption, then
+Just as we did with the [superposition of potential](/empcubed/notes/week-02-charges-superposition/superposition/), *we will often assume that $U=0$ at infinity*. You don't have to choose infinity as the location where $U=0$ but we often will because it is convenient. This assumption allows us to be consistent with [how potential is defined](/empcubed/notes/week-01-charges-field-potential/pc_potential/), and it allows us to interpret a positive potential energy as repulsion and a negative potential energy as attraction. Using this assumption, then
 
 $$
 U_{r} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}q_{2}}{r}
@@ -116,7 +116,7 @@ $$
 
 ## Relating Energy Back to Potential
 
-Now that we have an idea of what the electric potential energy looks like (both generally and specifically for point charges), we can relate energy back to what we learned last week about [electric potential](/notes/week-01-charges-field-potential/pc_potential/). Let's start by considering two point charges again. Looking at the electric energy equation, we could easily rewrite this equation in term of the electric potential from $q_{1}$:
+Now that we have an idea of what the electric potential energy looks like (both generally and specifically for point charges), we can relate energy back to what we learned last week about [electric potential](/empcubed/notes/week-01-charges-field-potential/pc_potential/). Let's start by considering two point charges again. Looking at the electric energy equation, we could easily rewrite this equation in term of the electric potential from $q_{1}$:
 
 $$
 U = q_{2}\frac{1}{4\pi\epsilon_{0}}\frac{q_{1}}{r} = q_{2}V_{1}

@@ -3,7 +3,7 @@ title: 'Using Superposition of Magnetic Field and the Computer'
 weight: 1
 ---
 
-In the [previous page of notes](/notes/week-10-magnetic-field-of-a-wire/b_current/), we talked about how you can use superposition to calculate the magnetic field from a current rather than thinking about each individual moving charge. We ended up with an equation for the magnetic field where
+In the [previous page of notes](/empcubed/notes/week-10-magnetic-field-of-a-wire/b_current/), we talked about how you can use superposition to calculate the magnetic field from a current rather than thinking about each individual moving charge. We ended up with an equation for the magnetic field where
 
 $$
 {\overset{\rightarrow}{B}}_{tot} = \int\frac{\mu_{0}}{4\pi}\frac{I \cdot d\overset{\rightarrow}{l} \times \widehat{r}}{r^{2}}
@@ -11,11 +11,11 @@ $$
 
 This equation tells us that if we split a line of current ($I$) into small chunks of length ($d\overset{\rightarrow}{l}$), we can calculate the magnetic field at an observation point from that chunk of length (using the $\overset{\rightarrow}{r}$). The integral then allows us to add the magnetic field from each little chunk to find the net magnetic field at the observation point.
 
-While calculating the integral will give you an exact value for the magnetic field, it is possible to end up with an integral that is difficult or impossible to solve. Instead we can use the fact that the magnetic field obeys the principle of superposition to define a powerful algorithm for computing the magnetic field at any given location from any shape of current/wire. This is very similar to what we did with the [electric field from a line before](/notes/week-02-charges-superposition/comp_super/). In these notes, you will read about how you can structure code to calculate the magnetic field from any shape of current-carrying wire.
+While calculating the integral will give you an exact value for the magnetic field, it is possible to end up with an integral that is difficult or impossible to solve. Instead we can use the fact that the magnetic field obeys the principle of superposition to define a powerful algorithm for computing the magnetic field at any given location from any shape of current/wire. This is very similar to what we did with the [electric field from a line before](/empcubed/notes/week-02-charges-superposition/comp_super/). In these notes, you will read about how you can structure code to calculate the magnetic field from any shape of current-carrying wire.
 
 ## The Superposition Principle
 
-[As we said before](/notes/week-10-magnetic-field-of-a-wire/b_current/), the principle of superposition states that the magnetic field at any given location in space is determined by vector sum of the magnetic field due to the current in each part of wire.
+[As we said before](/empcubed/notes/week-10-magnetic-field-of-a-wire/b_current/), the principle of superposition states that the magnetic field at any given location in space is determined by vector sum of the magnetic field due to the current in each part of wire.
 
 $$
 {\overset{\rightarrow}{B}}_{net} = \sum{\overset{\rightarrow}{B}}_{i} = {\overset{\rightarrow}{B}}_{1} + {\overset{\rightarrow}{B}}_{2} + {\overset{\rightarrow}{B}}_{3} + \ldots

@@ -3,7 +3,7 @@ title: 'Charging and Discharging'
 weight: 2
 ---
 
-Using our [microscopic model of the atom](/notes/week-02-charges-superposition/charge_and_matter/), we can now talk about how objects become charged (called charging) and how they return to being neutral (often called discharging). These notes will discuss how these processes occur and how they are different for insulators and conductors.
+Using our [microscopic model of the atom](/empcubed/notes/week-02-charges-superposition/charge_and_matter/), we can now talk about how objects become charged (called charging) and how they return to being neutral (often called discharging). These notes will discuss how these processes occur and how they are different for insulators and conductors.
 
 ## Charging
 

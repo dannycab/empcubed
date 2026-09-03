@@ -38,7 +38,7 @@ This means that if our magnetic force is pushing the charge down for a short tim
 
 Trajectory of a particle moving through a constant magnetic field at a constant speed
 
-You may be wondering if there is a magnetic potential energy associated with the magnetic field (after all [we did use the electric force to get to electric potential energy](/notes/week-03-electric-force-energy/pc_energy/)). We can figure this out by first looking at the work done by the magnetic field on the charge. Remember that [the general equation for work](/pcubed/notes/week-07-energy-transfer/work_by_nc_forces/) is given by:
+You may be wondering if there is a magnetic potential energy associated with the magnetic field (after all [we did use the electric force to get to electric potential energy](/empcubed/notes/week-03-electric-force-energy/pc_energy/)). We can figure this out by first looking at the work done by the magnetic field on the charge. Remember that [the general equation for work](/pcubed/notes/week-07-energy-transfer/work_by_nc_forces/) is given by:
 
 $$
 W_{total} = \int_{i}^{f}\overset{\rightarrow}{F} \cdot d\overset{\rightarrow}{r}
