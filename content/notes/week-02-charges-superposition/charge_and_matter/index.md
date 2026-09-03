@@ -36,4 +36,52 @@ If we start with a neutral atom by itself, we know that there will be a positive
 
 The electrons cannot leave their nucleus (unless [the interaction is very strong](https://en.wikipedia.org/wiki/Ionization)), but they are attracted to the positive charge. With a positive charge nearby, it is now more likely that the electrons will be on the left side of nucleus compared to the right (shown in Figure 2b), shifting the electron cloud toward the positive charge. Often, we will simplify this drawing to be just an oval that indicates which side of the atom is more positive and which side is more negative (shown in Figure 2c).
 
-If instead a negative charge is placed next to a neutral atom (Figure 3b), the
+If instead a negative charge is placed next to a neutral atom (Figure 3b), the electrons are repelled by the negative charge and are more likely to be found on the right side of the nucleus. Thus, the electron cloud shifts away from the negative charge. Again, most of the time we will draw a simplified representation of the atom (Figure 3c) rather than draw out the electron cloud.
+
+When the electron cloud is pushed to one side or other of the nucleus, we say that the atom or molecule is **polarized**. *Note that even though the atom is polarized in both cases, it is still neutral - we did not add or take away electrons or protons.*
+
+## Types of Matter
+
+<img src="./media/insulatorneg.png" style="width:1.5625in;height:1.95833in" alt="[ALT TEXT NEEDED: figure-03.png -- describe this figure for screen readers]" />
+
+Charge distribution in an insulator from a negative charge
+
+Now that we know what happens to a single atom, it makes sense to talk about what happens when you collect atoms into matter or objects. For our purposes, we will be considering two types of matter that behave differently when near charge: insulators and conductors. There are other types of matter like [semiconductors](https://en.wikipedia.org/wiki/Semiconductor) and [superconductors](https://en.wikipedia.org/wiki/Superconductivity) that behave in interesting ways, but we will focus on conductors and insulators.
+
+### Insulators
+
+An insulator is an object or material where the electrons are tightly bound to the nucleus. This means that the electrons in an insulator can only move very small amounts and must stay close to their nuclei. **Charges cannot move freely through an insulator.** Common insulators include: plastic, glass, rubber, paper, wood, etc.
+
+<img src="./media/insulatorpos.png" style="width:1.5625in;height:2.20833in" alt="[ALT TEXT NEEDED: figure-04.png -- describe this figure for screen readers]" />
+
+Charge distribution in an insulator from a positive charge
+
+If you put a negative charge next to (but not touching) a neutral insulator, the electron clouds of the atoms on the surface will be pushed away, causing polarization to occur in the insulator. This means that the surface of the insulator now has a positive charge on the surface, with a negative line of charge behind it. The positive charges on the surface will try to attract the negative charge while the negative charges will try to repel it. Because the positives charges are closer, the attraction will be slightly stronger than the repulsion, causing a small attraction between the insulator (even though it is overall neutral) and the negative charge. (The first few layers of atoms on the surface of the insulator are shown to the left with a negative charge.)
+
+If instead you put a positive charge next to a neutral insulator, the electron clouds on the surface will be pulled toward the positive charge, causing the surface to have a small negative charge. Because the insulator is now polarized, there will be a small attraction between the positive and the insulator, even though it is electrically neutral overall. (The first few layers of atoms on the surface of the insulator are shown to the right with a positive charge.) This is why a charged balloon (that you rubbed on your hair) will stick to a wall, even though you did not do anything to charge the wall.
+
+**Note that in both cases, it is the electron distribution that shifts.** Electrons have much less mass than the protons to which they are bound, so that the electron cloud is much more likely to be affected than the nucleus.
+
+### Conductors
+
+**A conductor is an object or material where charged particles can move easily through the material.** In some conductors (like salt water), there are charged ions ($\text{Na}^+$ and $\text{Cl}^-$) that can travel relatively freely through the material (water). In other conductors, like metals, the inner electrons of every atom are tightly bound to the nucleus, but the outer electrons (or [valence electrons](https://en.wikipedia.org/wiki/Valence_electron)) of the atom are much easier to remove. When you have lot of metal atoms together, generally one electron from each atom can leave the atom and join a “sea” of electrons that are free to move through the metal. These electrons are not completely free - it is very difficult to remove these electrons from the metal - but they are relatively free to move within the piece of metal. This is how we model the metal as a conductor - a mobile electron sea. Common conductors include: salt water, copper, iron, aluminum, gold, etc.
+
+<img src="./media/conductorneg.png" style="width:1.5625in;height:1.95833in" alt="[ALT TEXT NEEDED: figure-05.png -- describe this figure for screen readers]" />
+
+Charge distribution in a conductor from a negative charge
+
+When you put a negative charge next to a conductor, like a piece of metal, the negative charge repels the free electrons (the electron sea). Since these electrons are free to move through the metal, they move as far from the negative charge as they can, which makes the opposite surface of the conductor negatively charged (shown in the figure to the right). At the same time, the surface closest to the negative charge is now lacking negative charges because all of the free electrons have been repelled. This leaves the right surface of the metal with a net positive charge. Because the negative charges are on far side of the metal, the attraction from the positive surface is much stronger than the repulsion from the negative surface, making the attraction between the conductor and negative charge much stronger than it was in the insulator.
+
+<img src="./media/conductorpos.png" style="width:1.5625in;height:1.95833in" alt="[ALT TEXT NEEDED: figure-06.png -- describe this figure for screen readers]" />
+
+Charge distribution in a conductor from a positive charge
+
+When you put a positive charge next to a conductor (shown in the figure to the left), the electrons in the electron sea are attracted to the surface of the metal closest to the positive charge. This leaves the opposite surface with a positive charge because those atoms now look like they are missing an electron. Since the positive charges are much further away from the positive charge than the negative charges, the attraction from the conductor is much stronger than the repulsion. This means that the positive charge is strongly attracted to the metal even though the metal is overall neutral.
+
+*Again, the electrons are what moves in both cases.*
+
+You might have experienced this effect when you were working with the tape challenge in the first class. Your body is mostly composed of salt water, which is a very good conductor. No matter what kind of charge was on your tape, you may have observed that it was always attracted to your hand, sometimes more than it was to the other piece of tape. This microscopic model of conductors would explain why the tape was always attracted to your hand.
+
+## Examples
+
+[Interactions Between Charged and Neutral Objects](/empcubed/examples/week2_charged_thing_neutral_thing/)

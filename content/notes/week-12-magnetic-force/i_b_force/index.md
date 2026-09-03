@@ -86,4 +86,29 @@ $$
 |{\overset{\rightarrow}{F}}_{wire}| = IBsin(\theta)\int_{l_{i}}^{l_{f}}dl
 $$
 
-This leav
+This leaves only the integral of $dl$. When we take the integral of $dl$ over the whole length of the wire, we are left with the total length of wire that we are considering. So we get:
+
+$$
+|{\overset{\rightarrow}{F}}_{wire}| = IBLsin(\theta)
+$$
+
+<img src="./media/week11_8.png" style="width:2.60417in;height:2.26042in" alt="[ALT TEXT NEEDED: figure-03.png -- describe this figure for screen readers]" />
+
+Use the right hand rule to determine the direction of the magnetic force F
+
+where |$\overset{\rightarrow}{F}_{wire}$| is the magnitude of the force on the whole wire, $I$ is the current through the wire, $B$ is the *external* magnetic field, $L$ is the length of the wire, and $\theta$ is the angle between the magnetic field and the length of the wire. *Remember though that this equation is only good for straight wires with constant current that are in a constant magnetic field - because of all the assumptions that we made to get to this point.*
+
+To find the direction of the magnetic force, we will need to use the [right hand rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/). Just like we did with the moving charge, you point your fingers in the direction of the moving charges (or rather in the direction of the current/$d\overset{\rightarrow}{l}$), then curl your fingers in the direction of the external magnetic field. Your thumb then points in the direction of the force.
+
+For example, if you have a wire with current going in the $+\hat{y}$ direction that is placed in a magnetic field that points out of the page, then the force on the wire would point down (in the $+\hat{x}$ direction).
+
+## Examples
+
+- [Magnetic Force between Two Current-Carrying Wires](/empcubed/examples/week12_force_between_wires/)
+  - Video Example: Magnetic Force between Two Current-Carrying Wires
+- [Force on a Loop of Current in a Magnetic Field](/empcubed/examples/week12_force_loop_magnetic_field/)
+  - Video Example: Force on a Loop of Current in a Magnetic Field
+
+{{< youtube BLuU7nZWv5k >}}
+
+{{< youtube jMoOVHU6RR0 >}}

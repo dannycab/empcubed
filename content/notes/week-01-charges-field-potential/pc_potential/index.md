@@ -43,3 +43,23 @@ The units of electric potential are called volts which is represented by a “V.
 For a sense of scale, an electron has a potential of $1.4 \cdot 10^{- 7}\text{~V}$ when one cm away. We also use potential (or voltage) to describe the energy of batteries because we want to have a rough idea of what energy the battery has without knowing what we hooking the battery up to - which is why you have probably heard of a 9V (“nine volt”) battery. AA batteries, which are much smaller than a 9V battery, have a potential of 1.5V. An electric fence (which is made to stop cows) has a voltage on the order of 2000V.
 
 ## Potential vs Distance Graphs
+
+Because electric potential is a scalar, it is generally easier to graph than electric field is. Typically, we will still specify a path and graph the electric potential along that path because when you have multiple charges, the electric potential does not necessarily take on the same value or change in the same way in all directions. For a single positive point charge, if we pick a path along any direction moving away from the point charge, we will get the potential vs distance graph that is shown to the right. From the $V=\frac{1}{4\pi\epsilon_0}\frac{q}{r}$ equation, we get a graph that looks very similar to a $y=\frac{1}{x}$ graph. This graph tells us that the closer you get to the point charge, the higher the electric potential; whereas, the only time the electric potential is zero is when $r=\infty$.
+
+<img src="./media/potentialgraph.png" style="width:2.60417in;height:1.70833in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />
+
+Electric Potential (v) vs Distance (r) graph
+
+<img src="./media/positivepoint3dcontour.jpg" style="width:2.08333in;height:2.15625in" alt="[ALT TEXT NEEDED: figure-02.png -- describe this figure for screen readers]" />
+
+3D electric potential graph
+
+If we wanted to see what the electric potential looks like everywhere around the charge, we could create a 3D topographical map, where the x and y axes show the space around the charge and the z axis shows the electric potential. For a positive point charge, this would look similar to a “hill”, going back the energy landscape analogy. This is shown in the figure to the left. [The final example](/empcubed/examples/week2_potential_plots/) shows the source code in mathematica that we used to create this plot - you can plug this code into Wolfram Alpha and change the variables or rotate the plot. What would it look like if the charge were negative instead of positive?
+
+## Examples
+
+[Electric Potential from a Positively Charged Balloon](/empcubed/examples/week2_electric_potential_positive_point/)
+
+[Electric Potential from a Negatively Charged Balloon](/empcubed/examples/week2_electric_potential_negative_point/)
+
+[Plotting Electric Potential with Wolfram Alpha](/empcubed/examples/week2_potential_plots/)

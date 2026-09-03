@@ -92,4 +92,63 @@ $$
 \Delta U_{elec} = U_{\infty} - U_{r} = - \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}q_{2}}{r}
 $$
 
-Just as we did with the [superposition of potential](/notes/week-02-charges-superposition/superposition/),
+Just as we did with the [superposition of potential](/notes/week-02-charges-superposition/superposition/), *we will often assume that $U=0$ at infinity*. You don't have to choose infinity as the location where $U=0$ but we often will because it is convenient. This assumption allows us to be consistent with [how potential is defined](/notes/week-01-charges-field-potential/pc_potential/), and it allows us to interpret a positive potential energy as repulsion and a negative potential energy as attraction. Using this assumption, then
+
+$$
+U_{r} = \frac{1}{4\pi\epsilon_{0}}\frac{q_{1}q_{2}}{r}
+$$
+
+This energy then is the electric potential energy between two point charges $q_{1}$ and $q_{2}$ that are separated by a distance $r$. If $U$ is positive, $q_{1}$ and $q_{2}$ have the same sign and if $U$ is negative, $q_{1}$ and $q_{2}$ have opposite signs.
+
+## Getting from Energy to Force
+
+We can also use the inverse of energy-force relationship to get the electric force from electric potential energy. If we know what the electric potential energy is in terms of $r$, you can calculate the electric force by taking the negative derivative of energy with respect to $r$, which will give you the electric force in the $\hat{r}$ direction. *This assumes that your electric potential energy equation does not depend on an angle*. (If your electric potential energy does depend on an angle, then you have to use the [gradient](https://en.wikipedia.org/wiki/Gradient).)
+
+$$
+\overset{\rightarrow}{F} = - \frac{dU}{dr}\hat{r}
+$$
+
+If you know the electric potential energy in terms of $x$, $y$, and $z$ variables, you can calculate the electric force by taking the negative derivative with respect to each direction (this is the [gradient](https://en.wikipedia.org/wiki/Gradient) in cartesian coordinates).
+
+$$
+\overset{\rightarrow}{F} = - \frac{dU}{dx}\hat{x} - \frac{dU}{dy}\hat{y} - \frac{dU}{dz}\hat{z} = - \left\langle \frac{dU}{dx},\frac{dU}{dy},\frac{dU}{dz} \right\rangle
+$$
+
+## Relating Energy Back to Potential
+
+Now that we have an idea of what the electric potential energy looks like (both generally and specifically for point charges), we can relate energy back to what we learned last week about [electric potential](/notes/week-01-charges-field-potential/pc_potential/). Let's start by considering two point charges again. Looking at the electric energy equation, we could easily rewrite this equation in term of the electric potential from $q_{1}$:
+
+$$
+U = q_{2}\frac{1}{4\pi\epsilon_{0}}\frac{q_{1}}{r} = q_{2}V_{1}
+$$
+
+Or the electric potential from $q_{2}$:
+
+$$
+U = q_{1}\frac{1}{4\pi\epsilon_{0}}\frac{q_{2}}{r} = q_{1}V_{2}
+$$
+
+This shows a larger, more general relationship between electric potential energy and electric potential.
+
+$$
+U = qV
+$$
+
+Or even more importantly:
+
+$$
+\Delta U = q\Delta V
+$$
+
+**Note that electric potential energy is NOT the same thing as electric potential**. Electric potential energy requires two charges or a charge interacting with potential, whereas electric potential is from a single charge. **Electric potential energy has units of *joules* and electric potential has units of *volts*.** That being said, electric potential is related to electric potential energy. Electric potential tells you about how much energy there could be, without needing to know charges are interacting.
+
+## Examples
+
+- [Particle Acceleration through an Electric Field](/empcubed/examples/week3_particle_in_field/)
+  - Video Example: Particle Acceleration through an Electric Field
+- [Preventing an Asteroid Collision](/empcubed/examples/week3_spaceship_asteroid/)
+  - Video Example: Preventing an Asteroid Collision
+
+{{< youtube _rghROIzNUk >}}
+
+{{< youtube vf_b6k3iXeU >}}

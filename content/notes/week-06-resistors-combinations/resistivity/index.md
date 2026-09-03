@@ -124,3 +124,9 @@ To summarize, we can compare the microscopic and macroscopic views of circuits. 
 |--------------------------|-----------------------------------|
 | $v_{avg} = uE$​         | $J = \sigma E$​                  |
 | $i = nAv_{avg} = nAuE$​ | $I = &#124;q&#124;i = \frac{\Delta V}{R}$​ |
+
+## Examples
+
+[Resistance of a Wire](/empcubed/examples/week7_resistance_wire/)
+
+[Application of Ohm's Law](/empcubed/examples/week7_ohms_law/)

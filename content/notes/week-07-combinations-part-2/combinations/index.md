@@ -87,4 +87,20 @@ Depending on what you are given and what you trying to figure out about the circ
 Color coding of equivalent areas of potential difference on a complex circuit. Each color represents a different electric potential.
 
 - **Color Coding** - Again, since we generally make the *assumption that potential difference across wires is negligible*, this means that everywhere along a single wire has the same electric potential. It can help to color code the pieces of the circuit that have the same electric potential (shown for the circuit above). Any circuit elements that have the same color transition (i.e., dark blue to orange) would be in parallel. In the example circuit, this shows why $R_{2}$ is in parallel with the *combination* of $R_{3}$ and $R_{4}$, but is not in parallel with only $R_{3}$.
-- **Look for easy combinations of circuit elements** - usually this means zooming in on the most complicated-looking part of the circuit and looking for elements tha
+- **Look for easy combinations of circuit elements** - usually this means zooming in on the most complicated-looking part of the circuit and looking for elements that are definitely in series or definitely in parallel. If you replace those with an equivalent resistor, then continue looking for combinations, you can simplify the circuit down to something that is manageable. You can make as many combinations as you would like - just make sure you keep track of what you combined.
+- **When in doubt, use the loop and node rules** - Because the loop rule is the statement of conservation of energy and the node rule is the statement of conservation of charge, these rules will **ALWAYS** work. It is possible to get circuit elements that are neither in series or parallel and cannot be combined into an equivalent resistance. You could also end up with a circuit with two power sources or batteries. Even in these cases, the loop and node rules will still work. (You may end up with a large system of equations to solve, but Wolfram Alpha and/or your calculator are pretty good at solving those.)
+
+## Other kinds of Circuits
+
+We should also say that there are many more circuit elements beyond just resistors and capacitors. There are [operational amplifiers](https://en.wikipedia.org/wiki/Operational_amplifier) (often called op amps for short), [transistors](https://en.wikipedia.org/wiki/Transistor), [diodes](https://en.wikipedia.org/wiki/Diode), and various [kinds of chips](https://en.wikipedia.org/wiki/Integrated_circuit) that can be used to help build up a circuit. Most circuits (or anything that is plugged into the wall outlets) will also not operate under a steady-state current (also called Direct Current or DC). Instead, the power that comes from the wall is what we call [alternating current](https://en.wikipedia.org/wiki/Alternating_current) or AC. In an AC circuit, both the current vs. time graph and the voltage vs. time graph would look like a sine curve, constantly switching between positive and negative. This is done for a variety of reasons; it's easier to produce and has fewer power losses during transport. Unfortunately, AC circuits and these other circuit elements are beyond the scope of this class.
+
+## Examples
+
+- [The Wheatstone Bridge](/empcubed/examples/week8_wheatstone/)
+  - Video Example: The Wheatstone Bridge
+- [Challenge: Charging Capacitors through Resistors](/empcubed/examples/week8_charge_discharge_caps_resistors/)
+  - Video Example: Charging Capacitors through Resistors
+
+{{< youtube uj2c1Tm7ttA >}}
+
+{{< youtube D7-1N0Jbhv8 >}}

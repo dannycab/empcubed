@@ -84,4 +84,30 @@ $$
 V_{-} = - \frac{1}{4\pi\epsilon_{0}}\frac{|q_{-}|}{r_{-}}
 $$
 
-where $r_{+}$ is the distance from the positive charge and $r_{-}$ is the distance from the negative charge. The only time that $V_{+} = 0$ is when $r_{+} = \infty$ and the only time that $V_{-} = 0$ is when $r_{-} = \infty$, so we know that both of these potentials have the same reference point. This means that we can add these individual potentials to find the total electric potential around the dipole. \$\$V\_{tot}=V\_{+}+V\_{-}=+\frac{1}{4\pi\epsilon_0}\frac{\|q\_+\|}{r\_+}-\frac{1}{4\pi\epsilon_0}\fr
+where $r_{+}$ is the distance from the positive charge and $r_{-}$ is the distance from the negative charge. The only time that $V_{+} = 0$ is when $r_{+} = \infty$ and the only time that $V_{-} = 0$ is when $r_{-} = \infty$, so we know that both of these potentials have the same reference point. This means that we can add these individual potentials to find the total electric potential around the dipole.
+
+$$
+V_{tot} = V_{+} + V_{-} = + \frac{1}{4\pi\epsilon_{0}}\frac{|q_{+}|}{r_{+}} - \frac{1}{4\pi\epsilon_{0}}\frac{|q_{-}|}{r_{-}}
+$$
+
+<img src="./media/3dpotential.jpg" style="width:2.08333in;height:2.09375in" alt="[ALT TEXT NEEDED: figure-06.png -- describe this figure for screen readers]" />
+
+Contour map for the potential of a dipole
+
+Sometimes, you may see the electric potential represented as a 3D contour map, where the x and y directions represent the space around the charge(s) and the z direction and/or color represents larger or smaller values of potential. For the dipole, this sort of contour map would look like the one to the right. In this picture, higher on the z-axis (or vertical) would mean a more positive electric potential and closer to the positive charge; whereas, negative on the z-axis would mean a negative potential and indicate that you are closer to the negative charge. Notice that there is somewhere in between that would have a zero electric potential, which comes from the addition of the potential from the positive and negative charges.
+
+While the 3D contour maps are useful visualizations, they are rather cumbersome to draw without a computer. Instead, you may see potential represented as a 2D topographic map (kind of like a top view, looking down on the 3D contour version). In the 2D map, called an **equipotential map or equipotential lines**, the x and y directions again represent the space around the charge(s) and the lines represent the location where the electric potential is the same (this is where the word equipotential comes from). For the dipole, this equipotential map is shown to left. Notice that each of the lines is labeled with a number - this is the electric potential everywhere on that line. To the left of the zero line, the numbers are all positive and increase as you get closer to the center of the circle. This indicates that the positive charge of the dipole is in the center of the left circle. Similarly for the right circle, the potential lines are decreasing in potential indicating that this is where the negative charge of the dipole is.
+
+<img src="./media/potentiallineslabeled.jpg" style="width:3.125in;height:3.10417in" alt="[ALT TEXT NEEDED: figure-07.png -- describe this figure for screen readers]" />
+
+Topographic map of electric potential
+
+The final example below shows how to create these kinds of graphs in Wolfram Alpha, so you can vary the parameters.
+
+## Examples
+
+- [Superposition with Three Point Charges](/empcubed/examples/week3_superposition_three_points/)
+  - Video Example: Superposition with Three Point Charges
+- [Plotting Potential for Multiple Charges](/empcubed/examples/week3_plotting_potential/)
+
+{{< youtube 2VLMLuL2N7s >}}

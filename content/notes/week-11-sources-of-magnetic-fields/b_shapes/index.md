@@ -49,4 +49,24 @@ $$
 
 Where $R$ is still the radius of the coil, $I$ is the current going around the loop, and $z$ is the distance away from the center of the loop. If you set $z = 0$ (in other words you put the observation point back at the center of the coil), you get the same equation as above. *Note this magnetic field is only true for an observation point at the center of the circular coil, but out of the plane of the ring* - if you have a different observation point or a different shape of coil, this equation will no longer give you an accurate magnetic field.
 
-If you look at many observation points around a circular coil, there is a pattern to the magnetic field produced by that current - the field points through the center of the coil and then wraps around on the outside of the coil. This is shown in the figure below. For such a coil, the magnetic field is strongest in the center of the coil and has a smaller magnitude as you mov
+If you look at many observation points around a circular coil, there is a pattern to the magnetic field produced by that current - the field points through the center of the coil and then wraps around on the outside of the coil. This is shown in the figure below. For such a coil, the magnetic field is strongest in the center of the coil and has a smaller magnitude as you move further away from the coil. If you increase the amount of current or decrease the radius of the coil, you can create a stronger magnetic field. You could also increase the magnitude of the magnetic field by increasing the number of loops in the coil (or how many circular loops you have).
+
+You also may have noticed that this pattern to the magnetic field looks similar to the magnetic field from a bar magnet that we [talked about previously](/notes/week-11-sources-of-magnetic-fields/perm_mag/) - this makes the circular coil a powerful tool. Scientists and engineers will often model a bar magnet (or the Earth's magnetic field) using a circular coil because it is easier to handle mathematically when compared to thinking about the individual atoms/domains in a material. We will return to this idea of a coil of wire frequently over the remaining weeks of the semester.
+
+<img src="./media/bars_and_coils.png" style="width:5.20833in;height:5.41667in" alt="[ALT TEXT NEEDED: figure-05.png -- describe this figure for screen readers]" />
+
+Magnetic field vectors around a coil of wire is very similar to those of a permanent magnet
+
+## Solenoids
+
+<img src="./media/10b_solenoid_notes.png" style="width:3.125in;height:2.51042in" alt="[ALT TEXT NEEDED: figure-06.png -- describe this figure for screen readers]" />
+
+Magnetic field in and around a solenoid with current $I$
+
+A solenoid is similar to a coil, but instead of having multiple loops of wire one on top of another, the loops are spread out (kind of like a slinky). An example of a solenoid is shown in the figure on the right. As the solenoid is composed of multiple, connected loops, this creates a strong magnetic field in the center of the solenoid, which becomes weaker and wraps around the outside of the solenoid. Because of the superposition of the magnetic field, the field inside the solenoid is actually *constant* both in magnitude and direction. This makes the solenoid a very important application as it is one of the primary ways that we can create a constant magnetic field on Earth.
+
+We'll talk more about the magnetic field in a solenoid in the next couple weeks when we talk about Ampere's Law, which is a cool mathematical trick for calculating symmetric, constant magnetic fields.
+
+## Examples
+
+[Challenge Example: Magnetic Field from a Ring of Current](/empcubed/examples/week10_current_ring/)
