@@ -122,6 +122,7 @@ def process_page(slug: str):
     body = migrate.demote_headings(body)
     body = migrate.convert_math(body)
     body = migrate.convert_youtube(body)
+    body = migrate.convert_simulations(body)
     body = rewrite_links(body)
     return bundle_dir, title, textbook_ref, body
 
