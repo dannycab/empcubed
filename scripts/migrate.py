@@ -102,9 +102,11 @@ PAGES = {
     "b_flux_t": ("week-14-induction", 2),
     "ac": ("week-14-induction", 3),
     "electric_field": ("week-14-induction", 4),
+    "magnetic_field": ("week-14-induction", 5),
+    "conservation_theorems": ("week-14-induction", 6),
 }
 
-assert len(PAGES) == 61
+assert len(PAGES) == 63
 
 LINK_MAP = {slug: f"/notes/{week_dir}/{slug}/" for slug, (week_dir, _) in PAGES.items()}
 
