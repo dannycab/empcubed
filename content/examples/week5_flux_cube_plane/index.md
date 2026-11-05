@@ -57,7 +57,7 @@ $$
 
 When we plug in values for $\sigma$, $l$, and $\epsilon_{0}$, we get $\Phi_{\text{cube}} = 1.15 \cdot 10^{5}\text{~Vm}$.
 
-Notice that in the [next section of notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:gauss_ex), we define “Gauss' Law”, which states that the total flux through a close surface is the amount of charge enclosed divided by $\epsilon_{0}$. A quick check for this example shows us that the charge enclosed by the sphere covers an area of $l^{2}$, which means the charge is $\sigma \cdot l^{2}$. If we had used Gauss' Law, we would have quickly found that
+Notice that in the next section of notes, we define “Gauss' Law”, which states that the total flux through a close surface is the amount of charge enclosed divided by $\epsilon_{0}$. A quick check for this example shows us that the charge enclosed by the sphere covers an area of $l^{2}$, which means the charge is $\sigma \cdot l^{2}$. If we had used Gauss' Law, we would have quickly found that
 
 $$
 \Phi_{\text{cube}} = \frac{Q_{\text{enclosed}}}{\epsilon_{0}} = \frac{\sigma l^{2}}{\epsilon_{0}}

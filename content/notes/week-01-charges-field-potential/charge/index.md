@@ -28,7 +28,7 @@ You may also see an amount of charge written in terms of the elementary charge (
 
 ## Conservation of Charge
 
-In addition to the [3 fundamental principles](https://pcubed.msuperl.org/notes/week-15-core-principles/fundamental_principles/) (conservation of momentum, energy, and angular momentum) you learned about in mechanics, there is a fourth fundamental principle, which is important to electromagnetic situations: [conservation of charge](https://en.wikipedia.org/wiki/Charge_conservation). **This principle says that the amount of charge in a system should always be constant (or conserved) as long as there is no transfer of charge to/from the surroundings.** (This is another reason why [defining your system](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:defining_a_system) is an important choice).
+In addition to the [3 fundamental principles](https://pcubed.msuperl.org/notes/week-15-core-principles/fundamental_principles/) (conservation of momentum, energy, and angular momentum) you learned about in mechanics, there is a fourth fundamental principle, which is important to electromagnetic situations: [conservation of charge](https://en.wikipedia.org/wiki/Charge_conservation). **This principle says that the amount of charge in a system should always be constant (or conserved) as long as there is no transfer of charge to/from the surroundings.** (This is another reason why [defining your system](https://pcubed.msuperl.org/notes/week-10-internal-energy-heat/system_choice/) is an important choice).
 
 In general, we can always account for all the charge in every observation we make and experiment we conduct (either in the system or moving across the system boundary).
 

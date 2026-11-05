@@ -18,7 +18,7 @@ Therefore **magnetic flux is the strength of the magnetic field on a surface are
 
 Area Vector is perpendicular to the surface.
 
-[Just like we did before with electric flux](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux), we will say that magnetic flux is the strength of the *magnetic field* over an area or rather the amount of *magnetic field* that goes through an area. How the magnetic field is oriented relative to the area does matter so we will [again want to treat the area as vector](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux#area_as_a_vector). This is very similar to how we defined the [electric flux](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux) before. Mathematically, we represent the magnetic flux as:
+Just like we did before with electric flux, we will say that magnetic flux is the strength of the *magnetic field* over an area or rather the amount of *magnetic field* that goes through an area. How the magnetic field is oriented relative to the area does matter so we will again want to treat the area as vector. This is very similar to how we defined the electric flux before. Mathematically, we represent the magnetic flux as:
 
 $$
 \Phi_{B} = \overset{\rightarrow}{B} \bullet \overset{\rightarrow}{A}

@@ -33,7 +33,7 @@ Below is the code that was written in the lecture video above.
 
 <div class="Definition-Term">
 
-[fancartModel.py](https://msuperl.org/wikis/pcubed/doku.php?do=export_code&id=184_notes:using_python&codeblock=0)
+fancartModel.py
 
 </div>
 

@@ -3,8 +3,6 @@ title: 'Example: Flux through a Tilted Surface'
 weight: 28
 ---
 
-*[Return to Electric Flux and Area Vectors notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux)*
-
 Suppose you have a uniform electric field $\overset{\rightarrow}{E} = 8\text{~V/m~}\widehat{x}$. There is a tilted rectangular surface with dimensions $3\text{~m}$ (perpendicular to the field), and $5\text{~m}$ (at an angle of $\theta = 30^{\circ}$ to field). What is the electric flux through the surface?
 
 ### Facts
@@ -42,7 +40,7 @@ There are a few simplifying approximations and assumptions we should make before
 
 ## Solution
 
-In order to find electric flux, we must first find $\overset{\rightarrow}{A}$. Remember in the [notes on flux](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux#area_as_a_vector) that area can be a vector when we define it as a [cross product](/notes/week-01-charges-field-potential/math_review/#vector_multiplication) of width and length vectors. Here, we can use the following for width and length, with width being the top of the rectangle, and pointing out of the page, and length being the longer side, and pointing at an upwards angle:
+In order to find electric flux, we must first find $\overset{\rightarrow}{A}$. Remember in the notes on flux that area can be a vector when we define it as a [cross product](/notes/week-01-charges-field-potential/math_review/#vector_multiplication) of width and length vectors. Here, we can use the following for width and length, with width being the top of the rectangle, and pointing out of the page, and length being the longer side, and pointing at an upwards angle:
 
 $$
 \overset{\rightarrow}{w} = 3\text{~m~}\widehat{z}
@@ -52,7 +50,7 @@ $$
 \overset{\rightarrow}{l} = 5\text{~m~} \cdot \cos 30^{\circ}(\widehat{x}) + 5\text{~m~}\sin 30^{\circ}\widehat{y} = 4.33\text{~m~}\widehat{x} + 2.5\text{~m~}\widehat{y}
 $$
 
-Now, we can find the area vector would be (using that [matrix form of the cross product](https://www.msuperl.org/wikis/pcubed/doku.php?id=183_notes:cross_product)):
+Now, we can find the area vector would be (using that matrix form of the cross product):
 
 $$
 \begin{matrix}

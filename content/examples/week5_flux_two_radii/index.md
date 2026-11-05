@@ -3,8 +3,6 @@ title: 'Example: Flux through Two Spherical Shells'
 weight: 29
 ---
 
-*[Return to Electric Flux through Curved Surfaces notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:eflux_curved)*
-
 Suppose you have a point charge with value $1\mu\text{C}$. What are the fluxes through two spherical shells centered at the point charge, one with radius $3\text{~cm}$ and the other with radius $6\text{~cm}$?
 
 ### Facts
@@ -52,7 +50,7 @@ The first three assumptions ensure that there is nothing else contributing or af
 
 ## Solution
 
-Before we dive into calculations, let's consider how we can simplify the problem by thinking about the nature of the electric field due to a point charge and of the $\text{d}\overset{\rightarrow}{A}$ vector for a spherical shell. The magnitude of the electric field will be constant along the surface of a given sphere, since the surface is a constant distance away from the point charge. Further, $\overset{\rightarrow}{E}$ will always be parallel to $\text{d}\overset{\rightarrow}{A}$ on these spherical shells, since both are directed along the radial direction from the point charge. See below for a visual. A more in-depth discussion of these symmetries can be found in the notes of [using symmetry](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:eflux_curved#making_use_of_symmetry) to simplify our flux calculation.
+Before we dive into calculations, let's consider how we can simplify the problem by thinking about the nature of the electric field due to a point charge and of the $\text{d}\overset{\rightarrow}{A}$ vector for a spherical shell. The magnitude of the electric field will be constant along the surface of a given sphere, since the surface is a constant distance away from the point charge. Further, $\overset{\rightarrow}{E}$ will always be parallel to $\text{d}\overset{\rightarrow}{A}$ on these spherical shells, since both are directed along the radial direction from the point charge. See below for a visual. A more in-depth discussion of these symmetries can be found in the notes of using symmetry to simplify our flux calculation.
 
 <img src="./media/rId19.jpg" style="width:4.16667in;height:2.60417in" alt="[ALT TEXT NEEDED: figure-02.jpg -- describe this figure for screen readers]" />
 
