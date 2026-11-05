@@ -3,8 +3,6 @@ title: 'Magnetic Field from a Charging Capacitor'
 weight: 44
 ---
 
-*[Return to Changing Electric Fields notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:changing_e)*
-
 Suppose you have a parallel plate capacitor that is charging with a current $I = 3\text{~A}$. The plates are circular, with radius $R = 10\text{~m}$ and a distance $d = 1\text{~cm}$ apart. What is the magnetic field in the plane parallel to but in between the plates?
 
 <img src="./media/rId10.png" style="width:4.16667in;height:2.77083in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />

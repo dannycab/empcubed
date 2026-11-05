@@ -3,8 +3,6 @@ title: 'Example: Gauss'' Law Application -- A Ball of Charge'
 weight: 30
 ---
 
-*[Return to Putting Gauss's Law Together](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:gauss_ex)*
-
 Suppose you have an insulating ball that has been charged somehow. The charging was very thorough and it seems like the ball is pretty much uniformly charged. It has a charge $Q$ and a radius $R$. What is the electric field at a distance $r$ from the center of the ball? Be sure to account for both cases $r < R$ (inside the ball) and $r > R$ (outside the ball). You may find Gauss' Law to be useful here. Repeat for the case when the ball is a conductor.
 
 ### Facts
@@ -48,7 +46,7 @@ There are a few assumptions that can be made to simplify down our model before s
 
 ## Solution (Part A)
 
-A step-by-step approach to using Gauss' Law is shown in the [notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:gauss_ex) for a line of charge. We will take a similar approach here.
+A step-by-step approach to using Gauss' Law is shown in the notes for a line of charge. We will take a similar approach here.
 
 The ball is an insulator. We need to figure out the electric field at a given distance $r$ from the center of the sphere. Before we choose a Gaussian surface, we should consider the symmetry of the problem. Notice that we have spherical symmetry: this means that we can rotate the entire system about the center of the sphere, and the problem does not change at all. This is because the charge is uniformly distributed throughout the ball. We can reason from this that the electric field must be aligned in the radial direction (directly towards or away from the center). If the electric field were directed otherwise, it would change when we rotate about the sphere, and we would not have spherical symmetry! So we can write:
 

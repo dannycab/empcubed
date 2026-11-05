@@ -3,8 +3,6 @@ title: 'Example: Flux from a Dipole'
 weight: 24
 ---
 
-*[Return to Electric Flux through Curved Surfaces notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:eflux_curved)*
-
 Suppose you have a two charges, one with value $5\mu\text{C}$, the other with value $- 5\mu\text{C}$. There are at separate locations, a distance $1\text{~m}$ apart, and they can be modeled as a dipole. What is the flux through a cylinder with radius $4\text{~m}$ and length $16\text{~m}$ that encloses this dipole?
 
 ### Facts
@@ -54,7 +52,7 @@ $$
 \Phi_{\text{cylinder}} = \Phi_{left} + \Phi_{right} = 0
 $$
 
-We gain more confidence when we read the [next section of notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:gauss_ex), where we define “Gauss' Law”. This law states that the total flux through a close surface is the amount of charge enclosed divided by $\epsilon_{0}$, the [permittivity of free space](https://en.wikipedia.org/wiki/Vacuum_permittivity).
+We gain more confidence when we read the next section of notes, where we define “Gauss' Law”. This law states that the total flux through a close surface is the amount of charge enclosed divided by $\epsilon_{0}$, the [permittivity of free space](https://en.wikipedia.org/wiki/Vacuum_permittivity).
 
 $$
 \Phi_{\text{total}} = \int\overset{\rightarrow}{E} \cdot \text{d}\overset{\rightarrow}{A} = \frac{Q_{\text{enclosed}}}{\epsilon_{0}}

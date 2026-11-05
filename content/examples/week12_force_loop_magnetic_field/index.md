@@ -59,7 +59,7 @@ $$
 
 It remains to find the direction of the force (the non-zero ones at least), for which we will use the [Right Hand Rule](/notes/week-09-magnetic-field-moving-point-charge/rhr/). For the force on the left side, we would point our fingers down in the direction of current and curl them towards the right towards the B-field. Your thumb then points in the direction of the force, which is the $+ \widehat{z}$ direction (again for the left side of the wire). To find the force on the right side then, we would point our fingers up in the direction of the current, and curl them to the right towards the B-field. This then points our thumb in the $- \widehat{z}$ direction (into the page), which tells us the direction of the force on the right side of the loop.
 
-Since these forces point in opposite directions, this means that the net force on the loop is $0$, the loop's center of mass won't move! However, if there was an axis in the middle of the loop, the opposing forces on the opposite sides of the loop would cause the loop to spin. So there could be a [torque](/pcubed/notes/week-12-14-collisions-rotational-motion/torque/)! The diagram below shows visually what happens.
+Since these forces point in opposite directions, this means that the net force on the loop is $0$, the loop's center of mass won't move! However, if there was an axis in the middle of the loop, the opposing forces on the opposite sides of the loop would cause the loop to spin. So there could be a [torque](https://pcubed.msuperl.org/notes/week-12-14-collisions-rotational-motion/torque/)! The diagram below shows visually what happens.
 
 <img src="./media/rId24.png" style="width:4.16667in;height:3.35417in" alt="[ALT TEXT NEEDED: figure-03.png -- describe this figure for screen readers]" />
 

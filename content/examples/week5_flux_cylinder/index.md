@@ -3,8 +3,6 @@ title: 'Example: Flux through a Closed Cylinder'
 weight: 25
 ---
 
-*[Return to Electric Flux and Area Vectors notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:e_flux)*
-
 A constant electric field $\overset{\rightarrow}{E}$ is directed along the $x$-axis. If we imagine a cylindrical surface with radius $R$ and height $h$ is situated in the field so that the bases of the cylinder are parallel to the $xz$-plane. What is the electric flux through the cylinder?
 
 ### Facts

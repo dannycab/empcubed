@@ -118,7 +118,7 @@ $$
 {\overset{\rightarrow}{B}}_{tot} = \frac{\mu_{0} \cdot I}{4\pi}\int_{- \infty}^{+ \infty}\frac{\langle 0, - dy,0\rangle \times \langle s, - y,0\rangle}{(y^{2} + s^{2})^{3/2}}
 $$
 
-The last step here is to take the cross product. Using the [general equation for a cross product](https://www.msuperl.org/wikis/pcubed/doku.php?id=183_notes:cross_product), we get:
+The last step here is to take the cross product. Using the general equation for a cross product, we get:
 
 $$
 \langle 0, - dy,0\rangle \times \langle s, - y,0\rangle = \langle(0 \cdot ( - dy) - y \cdot 0),( - 0 \cdot 0 + s \cdot 0),(0 \cdot ( - y) - ( - dy) \cdot s)\rangle = \langle 0,0,s \cdot dy\rangle

@@ -3,8 +3,6 @@ title: 'Example: Flux through a Cylinder on a Line of Charge'
 weight: 27
 ---
 
-*[Return to Enclosed Charge notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:q_enc)*
-
 Suppose you have a line of charge with a uniform linear charge density of $\lambda = 15\mu\text{C/m}$. What is the electric flux through a cylinder with radius $R = 0.5\text{~m}$, and length $l = 3\text{~m}$ that is placed so that its axis is aligned with the line of charge? Feel free to use the electric field due to an infinite uniform line of charge: $\overset{\rightarrow}{E} = \frac{\lambda}{2\pi r\epsilon_{0}}\widehat{r}$ (where $\widehat{r}$ points away from line, and $r$ is the distance from the line).
 
 ### Facts
@@ -71,7 +69,7 @@ $$
 
 When we plug in values for $\lambda$, $l$, and $\epsilon_{0}$, we get $\Phi_{\text{cylinder}} = 5.08 \cdot 10^{6}\text{~Vm}$.
 
-Notice that in the [next section of notes](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:gauss_ex), we define “Gauss' Law”, which states that the total flux through a close surface is the amount of charge enclosed divided by $\epsilon_{0}$. A quick check for this example shows us that the charge enclosed by the cylinder covers a length of $l$, which means the charge is $\lambda l$. If we had used Gauss' Law, we would have quickly found that
+Notice that in the next section of notes, we define “Gauss' Law”, which states that the total flux through a close surface is the amount of charge enclosed divided by $\epsilon_{0}$. A quick check for this example shows us that the charge enclosed by the cylinder covers a length of $l$, which means the charge is $\lambda l$. If we had used Gauss' Law, we would have quickly found that
 
 $$
 \Phi_{\text{cylinder}} = \frac{Q_{\text{enclosed}}}{\epsilon_{0}} = \frac{\lambda l}{\epsilon_{0}}

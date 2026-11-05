@@ -4,7 +4,7 @@ weight: 2
 textbook_ref: 'Section 3.1 and 3.7 in Matter and Interactions (4th edition)'
 ---
 
-The electric interaction is one of the [fundamental ways that objects interact](http://en.wikipedia.org/wiki/Fundamental_interaction) in the universe, and we observe its effects every day. The electric interaction is responsible for molecular bonding, keeping objects from falling through surfaces (also known as [the normal force](/pcubed/notes/week-04-05-springs-contact-interactions/friction/)), lightning and thunderstorms, electric circuits, defibrillators, and many more phenomena that we use in our daily lives. These notes will start with the basics of the electric interaction and introduce the idea of charge.
+The electric interaction is one of the [fundamental ways that objects interact](http://en.wikipedia.org/wiki/Fundamental_interaction) in the universe, and we observe its effects every day. The electric interaction is responsible for molecular bonding, keeping objects from falling through surfaces (also known as [the normal force](https://pcubed.msuperl.org/notes/week-04-05-springs-contact-interactions/friction/)), lightning and thunderstorms, electric circuits, defibrillators, and many more phenomena that we use in our daily lives. These notes will start with the basics of the electric interaction and introduce the idea of charge.
 
 ## Electric Charge
 
@@ -28,7 +28,7 @@ You may also see an amount of charge written in terms of the elementary charge (
 
 ## Conservation of Charge
 
-In addition to the [3 fundamental principles](/pcubed/notes/week-15-core-principles/fundamental_principles/) (conservation of momentum, energy, and angular momentum) you learned about in mechanics, there is a fourth fundamental principle, which is important to electromagnetic situations: [conservation of charge](https://en.wikipedia.org/wiki/Charge_conservation). **This principle says that the amount of charge in a system should always be constant (or conserved) as long as there is no transfer of charge to/from the surroundings.** (This is another reason why [defining your system](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:defining_a_system) is an important choice).
+In addition to the [3 fundamental principles](https://pcubed.msuperl.org/notes/week-15-core-principles/fundamental_principles/) (conservation of momentum, energy, and angular momentum) you learned about in mechanics, there is a fourth fundamental principle, which is important to electromagnetic situations: [conservation of charge](https://en.wikipedia.org/wiki/Charge_conservation). **This principle says that the amount of charge in a system should always be constant (or conserved) as long as there is no transfer of charge to/from the surroundings.** (This is another reason why [defining your system](https://pcubed.msuperl.org/notes/week-10-internal-energy-heat/system_choice/) is an important choice).
 
 In general, we can always account for all the charge in every observation we make and experiment we conduct (either in the system or moving across the system boundary).
 

@@ -90,6 +90,6 @@ In steady state, all parts of the circuit have the same current, that is the sum
 
 ## Changing electric field
 
-Much of our study of electric fields was focused on fields that didn’t change with time. The field was due to some static distribution of charge that didn’t move or change. However, in many situations the sources of charge will move and thus create a [time-varying electric field](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:changing_e). Think about the example of a charging set of capacitor plates.
+Much of our study of electric fields was focused on fields that didn’t change with time. The field was due to some static distribution of charge that didn’t move or change. However, in many situations the sources of charge will move and thus create a time-varying electric field. Think about the example of a charging set of capacitor plates.
 
 In the case of a time-varying electric field, we observe that a magnetic field, which is also typically time-varying, is produced. This observation along with [special relativity](https://en.wikipedia.org/wiki/Special_relativity) helped tie electric and magnetic fields into one in the same kind of field. Furthermore, the time-varying electric field is essential to the propagation of electromagnetic radiation, which drives much of our modern world. Satellite TV, the radio, the internet, WiFi, and many other modern day tools and conveniences would be impossible without the propagation of electromagnetic radiation.

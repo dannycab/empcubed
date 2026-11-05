@@ -61,7 +61,7 @@ Notice that we also used the charge of the capacitor in our argument for why the
 
 Charge Graph
 
-Lastly, we wish to produce a graph of the potential difference between the plates. We can pull from a [previous in-class project](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_projects:project_5) in which we found the electric field from a large plate of charge. If the plates are large and close together, the electric field is constant in the middle, and depends on the charge of the plate like so:
+Lastly, we wish to produce a graph of the potential difference between the plates. We can pull from a previous in-class project in which we found the electric field from a large plate of charge. If the plates are large and close together, the electric field is constant in the middle, and depends on the charge of the plate like so:
 
 $$
 E_{plate} = \frac{Q_{plate}}{2\epsilon_{0}A_{plate}}

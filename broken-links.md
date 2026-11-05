@@ -1,0 +1,37 @@
+# Wiki links removed or remapped
+
+Links below were rewritten or unlinked (text kept, or a standalone "Return to ..." line deleted). Use this to find where pages need to be written.
+
+- `content/examples/week14_b_field_capacitor/index.md`: [Return to Changing Electric Fields notes](id=184_notes:changing_e)
+- `content/examples/week5_flux_cube_plane/index.md`: [next section of notes](id=184_notes:gauss_ex)
+- `content/examples/week5_flux_cylinder/index.md`: [Return to Electric Flux and Area Vectors notes](id=184_notes:e_flux)
+- `content/examples/week5_flux_cylinder_line/index.md`: [Return to Enclosed Charge notes](id=184_notes:q_enc)
+- `content/examples/week5_flux_cylinder_line/index.md`: [next section of notes](id=184_notes:gauss_ex)
+- `content/examples/week5_flux_dipole/index.md`: [Return to Electric Flux through Curved Surfaces notes](id=184_notes:eflux_curved)
+- `content/examples/week5_flux_dipole/index.md`: [next section of notes](id=184_notes:gauss_ex)
+- `content/examples/week5_flux_tilted_surface/index.md`: [Return to Electric Flux and Area Vectors notes](id=184_notes:e_flux)
+- `content/examples/week5_flux_tilted_surface/index.md`: [notes on flux](id=184_notes:e_flux#area_as_a_vector)
+- `content/examples/week5_flux_tilted_surface/index.md`: [matrix form of the cross product](id=183_notes:cross_product)
+- `content/examples/week5_flux_two_radii/index.md`: [Return to Electric Flux through Curved Surfaces notes](id=184_notes:eflux_curved)
+- `content/examples/week5_flux_two_radii/index.md`: [using symmetry](id=184_notes:eflux_curved#making_use_of_symmetry)
+- `content/examples/week5_gauss_ball/index.md`: [Return to Putting Gauss's Law Together](id=184_notes:gauss_ex)
+- `content/examples/week5_gauss_ball/index.md`: [notes](id=184_notes:gauss_ex)
+- `content/examples/week7_charging_capacitor/index.md`: [previous in-class project](id=184_projects:project_5)
+- `content/notes/week-01-charges-field-potential/charge/index.md`: [defining your system](id=184_notes:defining_a_system)
+- `content/notes/week-02-charges-superposition/using_python/index.md`: [fancartModel.py](https://msuperl.org/wikis/pcubed/doku.php?do=export_code&id=184_notes:using_python&codeblock=0)
+- `content/notes/week-03-electric-force-energy/pc_energy/index.md`: [Energy conservation](id=183_notes:energy_cons)
+- `content/notes/week-06-resistors-combinations/r_energy/index.md`: [the Energy Principle](id=184_notes:three_principles)
+- `content/notes/week-09-magnetic-field-moving-point-charge/moving_q/index.md`: [cross product](id=183_notes:cross_product)
+- `content/notes/week-09-magnetic-field-moving-point-charge/moving_q/index.md`: [area vectors](id=184_notes:e_flux)
+- `content/notes/week-09-magnetic-field-moving-point-charge/moving_q/index.md`: [torque](id=183_notes:torque)
+- `content/notes/week-09-magnetic-field-moving-point-charge/moving_q/index.md`: [determinant method](id=183_notes:cross_product)
+- `content/notes/week-09-magnetic-field-moving-point-charge/moving_q/index.md`: [general equation](id=183_notes:cross_product)
+- `content/notes/week-10-magnetic-field-of-a-wire/b_current/index.md`: [general equation for a cross product](id=183_notes:cross_product)
+- `content/notes/week-11-sources-of-magnetic-fields/q_b_force/index.md`: [cross product](id=183_notes:cross_product)
+- `content/notes/week-13-em-so-far-flux-shortcuts/b_flux/index.md`: [Just like we did before with electric flux](id=184_notes:e_flux)
+- `content/notes/week-13-em-so-far-flux-shortcuts/b_flux/index.md`: [again want to treat the area as vector](id=184_notes:e_flux#area_as_a_vector)
+- `content/notes/week-13-em-so-far-flux-shortcuts/b_flux/index.md`: [electric flux](id=184_notes:e_flux)
+- `content/notes/week-13-em-so-far-flux-shortcuts/ind_i/index.md`: [Ampere's Law](id=184_notes:loop)
+- `content/notes/week-14-induction/electric_field/index.md`: [time-varying electric field](id=184_notes:changing_e)
+
+Remaining: content/_index.md credits the original wiki index (intentional).

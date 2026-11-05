@@ -14,7 +14,7 @@ We just talked about the force that a moving charge feels when it travels throug
 
 Force felt by a charge moving through a B field in the -x direction
 
-Let's start by considering a charge moving to the left ($- \widehat{x}$ direction) in a magnetic field that points into the page ($- \widehat{z}$ direction). Using the right hand rule, we can figure out that the force on this charge is down ($- \widehat{y}$ direction). So what does this mean for the path of our charge? We can use the [momentum principle](/pcubed/notes/week-02-modeling-motion-net-force/momentum_principle/) to help us figure it out. The momentum principle says that:
+Let's start by considering a charge moving to the left ($- \widehat{x}$ direction) in a magnetic field that points into the page ($- \widehat{z}$ direction). Using the right hand rule, we can figure out that the force on this charge is down ($- \widehat{y}$ direction). So what does this mean for the path of our charge? We can use the [momentum principle](https://pcubed.msuperl.org/notes/week-02-modeling-motion-net-force/momentum_principle/) to help us figure it out. The momentum principle says that:
 
 $$
 \Delta\overset{\rightarrow}{p} = {\overset{\rightarrow}{p}}_{f} - {\overset{\rightarrow}{p}}_{i} = {\overset{\rightarrow}{F}}_{net,avg}\Delta t
@@ -30,7 +30,7 @@ $$
 
 Force changes the direction of the velocity
 
-This means that if our magnetic force is pushing the charge down for a short time, the velocity of the charge will then point slightly down. If we do the same process at the next location and the next location (it turns out a computer is pretty good at doing these calculations), we find that **the charge will move in a circle**, with the magnetic force always pointing toward the center of the circular path. It turns out that this is a perfect example of [uniform circular motion](/pcubed/notes/week-03-newtonian-gravitation/ucm/).
+This means that if our magnetic force is pushing the charge down for a short time, the velocity of the charge will then point slightly down. If we do the same process at the next location and the next location (it turns out a computer is pretty good at doing these calculations), we find that **the charge will move in a circle**, with the magnetic force always pointing toward the center of the circular path. It turns out that this is a perfect example of [uniform circular motion](https://pcubed.msuperl.org/notes/week-03-newtonian-gravitation/ucm/).
 
 ## Work Done
 
@@ -38,7 +38,7 @@ This means that if our magnetic force is pushing the charge down for a short tim
 
 Trajectory of a particle moving through a constant magnetic field at a constant speed
 
-You may be wondering if there is a magnetic potential energy associated with the magnetic field (after all [we did use the electric force to get to electric potential energy](/notes/week-03-electric-force-energy/pc_energy/)). We can figure this out by first looking at the work done by the magnetic field on the charge. Remember that [the general equation for work](/pcubed/notes/week-07-energy-transfer/work_by_nc_forces/) is given by:
+You may be wondering if there is a magnetic potential energy associated with the magnetic field (after all [we did use the electric force to get to electric potential energy](/notes/week-03-electric-force-energy/pc_energy/)). We can figure this out by first looking at the work done by the magnetic field on the charge. Remember that [the general equation for work](https://pcubed.msuperl.org/notes/week-07-energy-transfer/work_by_nc_forces/) is given by:
 
 $$
 W_{total} = \int_{i}^{f}\overset{\rightarrow}{F} \cdot d\overset{\rightarrow}{r}

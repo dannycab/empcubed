@@ -8,7 +8,7 @@ One of the consequences of adding a resistor in the circuit (with higher electro
 
 {{< youtube c4tAtICY2Co >}}
 
-Let's continue to look at the simple circuit that we were using in the video above (a mechanical battery, wires, and a thin filament). To analyze the energy in our circuit, we can refer back to [the Energy Principle](https://www.msuperl.org/wikis/pcubed/doku.php?id=184_notes:three_principles). If we take everything to be in our system, including the battery, wires, filament, and the surrounding air or materials, then we know that:
+Let's continue to look at the simple circuit that we were using in the video above (a mechanical battery, wires, and a thin filament). To analyze the energy in our circuit, we can refer back to [the Energy Principle](https://pcubed.msuperl.org/notes/week-15-core-principles/fundamental_principles/). If we take everything to be in our system, including the battery, wires, filament, and the surrounding air or materials, then we know that:
 
 $$
 \Delta E_{sys} = 0
