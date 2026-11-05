@@ -15,8 +15,9 @@ In the real world, the magnetic force is actually extremely relevant and has wid
 The magnetic force is simply a force like any other kind of force (i.e. [gravitational force](/pcubed/notes/week-02-modeling-motion-net-force/localg/), [spring force](/pcubed/notes/week-04-05-springs-contact-interactions/springmotion/), or [electric force](/notes/week-03-electric-force-energy/pc_force/)). As such, we already know that the magnetic force:
 
 - has units of newtons (N), where $N = kg\, m/s^{2}$.
-- is a
+- is a [vector](/notes/week-01-charges-field-potential/math_review/) - having both a magnitude and direction.
+- can be added to other forces on an object to get the net force on the object. Using the net force on the object you can then find the acceleration of the object 
+- you have heard this as the [momentum principle](/pcubed/notes/week-02-modeling-motion-net-force/momentum_principle/) or [Newton's Second Law of Motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion#Newton.27s_second_law) in your Physics 1 class Mathematically, we represent this relationship as: $$\Delta \vec{p} = \vec{p}_f - \vec{p}_i = \vec{F}_{net,avg} \Delta t$$ $$\vec{F}_{net} = \frac{\Delta \vec{p}}{\Delta t} = \dfrac{d\vec{p}}{dt} = m \frac{d\vec{v}}{dt}= m\vec{a}$$ where $m$ is the mass of the object, $\vec{a}$ is the acceleration of the object, and $\vec{F}_{net}$ is the net force on that object. To find the net force a [Free Body Diagram](/pcubed/notes/week-04-05-springs-contact-interactions/freebodydiagrams/) (or a Force Diagram) can be a useful tool.
+- acts on an object by something - in the case of the magnetic force this is typically referring to the force from a magnetic field on a charge or current (as we will see in the next pages of notes). NOTE that a moving charge cannot feel a force from the magnetic field it produces (for the same reason why you can float or fly by pulling on your toes). **In order for a moving charge to feel a force, there must be an external magnetic field.**
 
-<!-- -->
-
-- 
+In the next pages of notes, we will go over in detail how to find the magnetic force on a moving charge.
