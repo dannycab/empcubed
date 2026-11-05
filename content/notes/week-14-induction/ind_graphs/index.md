@@ -22,7 +22,7 @@ Specifically, in this case $\Phi_{B}(t)$ is defined as:
 $$
 \Phi_{B}(t) = \left\{ \begin{matrix}
 2t & \text{if~}0 < t < 5 \\
- - 2t & \text{if~}5 < t < 10
+{-}2t & \text{if~}5 < t < 10
 \end{matrix} \right.\ 
 $$
 
@@ -31,7 +31,7 @@ Which means $\frac{d\Phi_{B}}{dt}$ is:
 $$
 \frac{d\Phi_{B}}{dt} = \left\{ \begin{matrix}
 2 & \text{if~}0 < t < 5 \\
- - 2 & \text{if~}5 < t < 10
+{-}2 & \text{if~}5 < t < 10
 \end{matrix} \right.\ 
 $$
 
@@ -39,7 +39,7 @@ Now we can multiply by $- 1$ because of the negative sign in Faraday's law to fi
 
 $$
 V_{ind} = \left\{ \begin{matrix}
- - 2 & \text{if~}0 < t < 5 \\
+{-}2 & \text{if~}0 < t < 5 \\
 2 & \text{if~}5 < t < 10
 \end{matrix} \right.\ 
 $$
@@ -54,7 +54,7 @@ $$
 \Phi_{B}(t) = \left\{ \begin{matrix}
 2t & \text{if~}0 < t < 5 \\
 5t - 15 & \text{if~}5 < t < 10 \\
- - 10t + 135 & \text{if~}10 < t < 15
+{-}10t + 135 & \text{if~}10 < t < 15
 \end{matrix} \right.\ 
 $$
 
@@ -64,7 +64,7 @@ $$
 \frac{d\Phi_{B}}{dt} = \left\{ \begin{matrix}
 2 & \text{if~}0 < t < 5 \\
 5 & \text{if~}5 < t < 10 \\
- - 10 & \text{if~}10 < t < 15
+{-}10 & \text{if~}10 < t < 15
 \end{matrix} \right.\ 
 $$
 
@@ -72,8 +72,8 @@ Which finally means that $V_{ind}$ is:
 
 $$
 V_{ind} = \left\{ \begin{matrix}
- - 2 & \text{if~}0 < t < 5 \\
- - 5 & \text{if~}5 < t < 10 \\
+{-}2 & \text{if~}0 < t < 5 \\
+{-}5 & \text{if~}5 < t < 10 \\
 10 & \text{if~}10 < t < 15
 \end{matrix} \right.\ 
 $$

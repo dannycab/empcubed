@@ -63,8 +63,4 @@ This also means that we do not have a way to define a magnetic potential or a ma
 ## Examples
 
 - [Radius of Circular Motion in a Magnetic Field](/examples/week10_radius_motion_b_field/)
-- 
-
-<!-- -->
-
-- 
+- [Helical Motion in a Magnetic Field](/examples/week10_helix/)

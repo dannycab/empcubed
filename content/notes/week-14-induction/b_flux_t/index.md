@@ -95,21 +95,21 @@ $$
 The final step to find the potential then is to see how the magnetic flux is changing with time:
 
 $$
-- V_{ind} = \frac{d\Phi_{B}}{dt}
+-V_{ind} = \frac{d\Phi_{B}}{dt}
 $$
 
 $$
-- V_{ind} = \frac{d}{dt}(\frac{\mu_{0}N_{lg}1 \cdot 10^{9}t}{2R_{lg}}A_{sm}N_{sm})
+-V_{ind} = \frac{d}{dt}(\frac{\mu_{0}N_{lg}1 \cdot 10^{9}t}{2R_{lg}}A_{sm}N_{sm})
 $$
 
 We can then pull out the constants with respect to time, which leaves the derivative of t with respect to t (which is equal to 1).
 
 $$
-- V_{ind} = \frac{\mu_{0}N_{lg}1 \cdot 10^{9}}{2R_{lg}}A_{sm}N_{sm}\frac{d}{dt}(t)
+-V_{ind} = \frac{\mu_{0}N_{lg}1 \cdot 10^{9}}{2R_{lg}}A_{sm}N_{sm}\frac{d}{dt}(t)
 $$
 
 $$
-- V_{ind} = \frac{\mu_{0}N_{lg}1 \cdot 10^{9}}{2R_{lg}}A_{sm}N_{sm}
+-V_{ind} = \frac{\mu_{0}N_{lg}1 \cdot 10^{9}}{2R_{lg}}A_{sm}N_{sm}
 $$
 
 <img src="./media/rId32.png" style="width:2.34375in;height:2.14583in" alt="[ALT TEXT NEEDED: figure-05.png -- describe this figure for screen readers]" />

@@ -59,7 +59,7 @@ Cross sectional area of the iron ring would be dA in our calculation
 If we put the secondary solenoid on the end of the iron ring, this changing magnetic field will be the same as that from the primary solenoid: $B_{P} = B_{S}$. This changing magnetic field (from the primary solenoid) will induce a voltage ($V_{S}$) in the secondary solenoid. We can use Faraday's Law to write this as:
 
 $$
-- V_{S} = \frac{d\Phi_{B_{S}}}{dt}
+-V_{S} = \frac{d\Phi_{B_{S}}}{dt}
 $$
 
 We can then rewrite the flux $\Phi_{B2}$ using the flux definition:
@@ -83,19 +83,19 @@ $$
 We can then plug this into the voltage equation we wrote above:
 
 $$
-- V_{S} = \frac{d}{dt}(B_{S}A_{S}N_{S})
+-V_{S} = \frac{d}{dt}(B_{S}A_{S}N_{S})
 $$
 
 Since $N_{S}$ and $A_{S}$ are constant with respect to time (not add/taking away loops or increasing/decreasing the area), these terms can come out of the derivative:
 
 $$
-- V_{S} = N_{S}A_{S}\frac{d}{dt}(B_{S})
+-V_{S} = N_{S}A_{S}\frac{d}{dt}(B_{S})
 $$
 
 *If we assume that the ring has a constant cross-sectional area*, then $A_{P} = A_{S}$ and we already said that $B_{P} = B_{S}$. This means we can rewrite the flux through the secondary solenoid in terms of the magnetic field and area of the primary solenoid.
 
 $$
-- V_{S} = N_{S}A_{P}\frac{d}{dt}(B_{P})
+-V_{S} = N_{S}A_{P}\frac{d}{dt}(B_{P})
 $$
 
 If we look at the $A_{P}\frac{d}{dt}(B_{P})$ term, this looks very much like the changing magnetic flux (or induced voltage) through a single loop of the *primary* solenoid:
@@ -107,7 +107,7 @@ $$
 If we use Faraday's Law, we can rewrite the flux through a single loop of the primary solenoid in terms of the number of coils and the induced voltage in the whole solenoid:
 
 $$
-- V_{P} = N_{P}\frac{d}{dt}(B_{P}A_{P})
+-V_{P} = N_{P}\frac{d}{dt}(B_{P}A_{P})
 $$
 
 $$
@@ -117,7 +117,7 @@ $$
 Finally, We can plug this result into the $V_{S}$ equation above to get the potential in the secondary solenoid as it relates to the potential in the primary solenoid:
 
 $$
-- V_{S} = N_{S}\frac{- V_{P}}{N_{P}}
+-V_{S} = N_{S}\frac{- V_{P}}{N_{P}}
 $$
 
 $$
