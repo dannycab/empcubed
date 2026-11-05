@@ -16,7 +16,7 @@ $$
 \Delta U = - \int_{i}^{f}\overset{\rightarrow}{F} \bullet d\overset{\rightarrow}{r}
 $$
 
-This relationship is **always true for conservative forces** (works for [springs](/pcubed/notes/week-08-potential-energy-applications/spring_pe/), [gravitational interactions](/pcubed/notes/week-08-potential-energy-applications/newton_grav_pe/), electric interactions, etc.). In our case, we are particularly interested in the electric potential energy ($U_{elec}$):
+This relationship is **always true for conservative forces** (works for [springs](https://pcubed.msuperl.org/notes/week-08-potential-energy-applications/spring_pe/), [gravitational interactions](https://pcubed.msuperl.org/notes/week-08-potential-energy-applications/newton_grav_pe/), electric interactions, etc.). In our case, we are particularly interested in the electric potential energy ($U_{elec}$):
 
 $$
 \Delta U_{elec} = - \int_{i}^{f}{\overset{\rightarrow}{F}}_{elec} \bullet d\overset{\rightarrow}{r}
@@ -27,7 +27,7 @@ There are a few important features of this relationship:
 - Energy is scalar (including electric energy), so to get from the vector force we must use the [dot product](/notes/week-01-charges-field-potential/math_review/#vector_multiplication) with displacement to get energy. Dot products produce scalar quantities from two vector quantities.
 - The electric force is **not constant**, it usually depends on $r$. This means we have to use the integral rather than just multiplying by the distance.
 - If we are integrating from some initial location to some final location, we will get a **change** in electric potential energy between the two locations (not the energy at a single place). This change in energy is the important part - it does not matter how you get from the initial to the final location (squiggly or straight path), you will get the same change in energy. This means that electric potential energy is **path independent**.
-- [Energy conservation](https://www.msuperl.org/wikis/pcubed/doku.php?id=183_notes:energy_cons) and the [work-energy theorem](/pcubed/notes/week-07-energy-transfer/work/) from mechanics still apply (and are [highly dependent on your choice of system](/pcubed/notes/week-10-internal-energy-heat/system_choice/))
+- [Energy conservation](https://www.msuperl.org/wikis/pcubed/doku.php?id=183_notes:energy_cons) and the [work-energy theorem](https://pcubed.msuperl.org/notes/week-07-energy-transfer/work/) from mechanics still apply (and are [highly dependent on your choice of system](https://pcubed.msuperl.org/notes/week-10-internal-energy-heat/system_choice/))
 - The units of electric potential energy are joules (J) just like all the other forms of energy.
 
 ## Deriving Electric Potential Energy for Two Point Charges

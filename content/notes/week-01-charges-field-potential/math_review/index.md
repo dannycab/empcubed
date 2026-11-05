@@ -27,10 +27,10 @@ Scientific notation also ties into [unit prefixes](https://en.wikipedia.org/wiki
 
 Two types of quantities that are particularly important for describing physical systems are scalars and vectors.
 
-- **Scalars** are quantities that can be represented by a single number (or magnitude). Typical examples of scalars include mass, time, [speed](/pcubed/notes/week-01-modeling-motion-no-net-force/displacement_and_velocity/#velocity_and_speed), [energy](/pcubed/notes/week-07-energy-transfer/define_energy/) and volume. These quantities inherently have no direction. For example, you would never say “I have a volume of 2 m<sup>3</sup> to the left”. In E&M, you will encounter new scalar quantities like [electric potential](/notes/week-01-charges-field-potential/pc_potential/).
-- **Vectors** are quantities that *do* have a magnitude *and* a direction. Typical examples of vectors include [displacement](/pcubed/notes/week-01-modeling-motion-no-net-force/displacement_and_velocity/#motion_changes_of_position), [velocity](/pcubed/notes/week-01-modeling-motion-no-net-force/displacement_and_velocity/#velocity_and_speed), [force](/pcubed/notes/week-02-modeling-motion-net-force/momentum_principle/#net_force), and [momentum](/pcubed/notes/week-02-modeling-motion-net-force/momentum/). These quantities must have both the number and direction. For example, you could describe a car's velocity as 20 m/s (45 mph) going east or 20 m/s in the +x direction. In E&M, you will encounter new vectors like [electric field](/notes/week-01-charges-field-potential/pc_efield/).
+- **Scalars** are quantities that can be represented by a single number (or magnitude). Typical examples of scalars include mass, time, [speed](https://pcubed.msuperl.org/notes/week-01-modeling-motion-no-net-force/displacement_and_velocity/#velocity_and_speed), [energy](https://pcubed.msuperl.org/notes/week-07-energy-transfer/define_energy/) and volume. These quantities inherently have no direction. For example, you would never say “I have a volume of 2 m<sup>3</sup> to the left”. In E&M, you will encounter new scalar quantities like [electric potential](/notes/week-01-charges-field-potential/pc_potential/).
+- **Vectors** are quantities that *do* have a magnitude *and* a direction. Typical examples of vectors include [displacement](https://pcubed.msuperl.org/notes/week-01-modeling-motion-no-net-force/displacement_and_velocity/#motion_changes_of_position), [velocity](https://pcubed.msuperl.org/notes/week-01-modeling-motion-no-net-force/displacement_and_velocity/#velocity_and_speed), [force](https://pcubed.msuperl.org/notes/week-02-modeling-motion-net-force/momentum_principle/#net_force), and [momentum](https://pcubed.msuperl.org/notes/week-02-modeling-motion-net-force/momentum/). These quantities must have both the number and direction. For example, you could describe a car's velocity as 20 m/s (45 mph) going east or 20 m/s in the +x direction. In E&M, you will encounter new vectors like [electric field](/notes/week-01-charges-field-potential/pc_efield/).
 
-Scalar quantities are easy to add, multiply, or divide as they are just numbers. Vector quantities require specific ways to add and multiply because they have a direction associated with them. The rest of these notes will provide a brief overview of vector math, but a more [thorough review can be found here](/pcubed/notes/week-01-modeling-motion-no-net-force/scalars_and_vectors/).
+Scalar quantities are easy to add, multiply, or divide as they are just numbers. Vector quantities require specific ways to add and multiply because they have a direction associated with them. The rest of these notes will provide a brief overview of vector math, but a more [thorough review can be found here](https://pcubed.msuperl.org/notes/week-01-modeling-motion-no-net-force/scalars_and_vectors/).
 
 ## Vector Notation
 
@@ -98,7 +98,7 @@ $$
 \overset{\rightarrow}{a} - \overset{\rightarrow}{b} = \langle a_{x},a_{y},a_{z}\rangle - \langle b_{x},b_{y},b_{z}\rangle = \langle a_{x} - b_{x},a_{y} - b_{y},a_{z} - b_{z}\rangle
 $$
 
-***Note: You CANNOT simply add or subtract the magnitudes.*** This disregards the direction that the vectors point in. Alternatively, you can use the ["tip-to-tail" method](/pcubed/notes/week-01-modeling-motion-no-net-force/scalars_and_vectors/#adding_subtracting_vectors) to add or subtract vectors if you have them drawn out graphically.
+***Note: You CANNOT simply add or subtract the magnitudes.*** This disregards the direction that the vectors point in. Alternatively, you can use the ["tip-to-tail" method](https://pcubed.msuperl.org/notes/week-01-modeling-motion-no-net-force/scalars_and_vectors/#adding_subtracting_vectors) to add or subtract vectors if you have them drawn out graphically.
 
 ## Vector Multiplication
 
@@ -107,7 +107,7 @@ $$
 The dot product is one way to “multiply” two vectors together, which has some important features:
 
 - It takes two vectors and creates a ***scalar*** quantity (another name for the dot product is the scalar product).
-- It measures “parallel-ness”. This is actually incredibly useful in physics. The Dot Product lets us pick out how much of one vector points in the same direction as another (i.e., [how much force points in the same direction as the displacement](/pcubed/notes/week-07-energy-transfer/work/#the_formal_definition_of_work)?).
+- It measures “parallel-ness”. This is actually incredibly useful in physics. The Dot Product lets us pick out how much of one vector points in the same direction as another (i.e., [how much force points in the same direction as the displacement](https://pcubed.msuperl.org/notes/week-07-energy-transfer/work/#the_formal_definition_of_work)?).
   - If you dot two vectors that are perfectly parallel, you will simply be multiplying the magnitudes of each vector together.
   - If you dot two vectors that are perfectly perpendicular, you will get zero.
   - If you dot two vectors that point directly opposite each other, you will get the *negative* of the magnitudes multiplied together.

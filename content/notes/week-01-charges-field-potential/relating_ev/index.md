@@ -58,7 +58,7 @@ $$
 \Delta V = V_{f} - V_{i} = - \int_{r_{i}}^{r_{f}}\overset{\rightarrow}{E} \bullet d\overset{\rightarrow}{r}
 $$
 
-This relationship between field and potential is very similar to the relationship between [force and potential energy](/pcubed/notes/week-08-potential-energy-applications/force_and_pe/) (for good reason, as we will talk about [next week](/notes/week-03-electric-force-energy/pc_vefu/)).
+This relationship between field and potential is very similar to the relationship between [force and potential energy](https://pcubed.msuperl.org/notes/week-08-potential-energy-applications/force_and_pe/) (for good reason, as we will talk about [next week](/notes/week-03-electric-force-energy/pc_vefu/)).
 
 <img src="./media/rId20.png" style="width:3in;height:0.82292in" alt="[ALT TEXT NEEDED: figure-01.png -- describe this figure for screen readers]" />
 
